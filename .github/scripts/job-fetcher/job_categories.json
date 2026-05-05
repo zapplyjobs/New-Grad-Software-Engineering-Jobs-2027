@@ -1,0 +1,161 @@
+{
+  "mobile": {
+    "title": "Mobile Development",
+    "emoji": "\ud83d\udcf1",
+    "keywords": [
+      "ios",
+      "android",
+      "mobile developer",
+      "ios developer",
+      "android developer",
+      "mobile engineer",
+      "react native",
+      "flutter",
+      "swift",
+      "kotlin"
+    ]
+  },
+  "frontend": {
+    "title": "Frontend",
+    "emoji": "\ud83c\udfa8",
+    "keywords": [
+      "frontend",
+      "front-end",
+      "front end",
+      "ui engineer",
+      "web developer",
+      "react developer",
+      "vue developer",
+      "frontend engineer",
+      "frontend developer",
+      "angular developer",
+      "typescript developer",
+      "web development",
+      "design engineer"
+    ]
+  },
+  "full_stack": {
+    "title": "Full Stack",
+    "emoji": "\ud83c\udf10",
+    "keywords": [
+      "full stack",
+      "fullstack",
+      "full-stack",
+      "full stack engineer",
+      "full stack developer"
+    ]
+  },
+  "qa_engineering": {
+    "title": "QA Engineering",
+    "emoji": "\ud83e\uddea",
+    "keywords": [
+      "qa engineer",
+      "quality assurance",
+      "quality engineer",
+      "sdet",
+      "test engineer",
+      "automation engineer",
+      "software development engineer in test",
+      "quality assurance engineer"
+    ]
+  },
+  "devops_infrastructure": {
+    "title": "DevOps & Infrastructure",
+    "emoji": "\u2699\ufe0f",
+    "keywords": [
+      "devops",
+      "site reliability",
+      "~sre",
+      "platform engineer",
+      "infrastructure engineer",
+      "cloud engineer",
+      "kubernetes",
+      "reliability engineer",
+      "build engineer",
+      "release engineer"
+    ]
+  },
+  "security_engineering": {
+    "title": "Security Engineering",
+    "emoji": "\ud83d\udd10",
+    "keywords": [
+      "security engineer",
+      "cybersecurity",
+      "infosec",
+      "information security",
+      "application security",
+      "appsec",
+      "cloud security",
+      "security analyst",
+      "vulnerability management",
+      "penetration tester",
+      "ciam",
+      "identity and access"
+    ]
+  },
+  "ai_ml_engineering": {
+    "title": "AI / ML Engineering",
+    "emoji": "\ud83e\udd16",
+    "keywords": [
+      "ai engineer",
+      "ml engineer",
+      "machine learning engineer",
+      "applied ai",
+      "llm engineer",
+      "genai",
+      "ai/ml",
+      "artificial intelligence engineer",
+      "deep learning",
+      "robotics software",
+      "ml platform",
+      "ai platform"
+    ]
+  },
+  "embedded_systems": {
+    "title": "Embedded & Systems",
+    "emoji": "\ud83d\udd27",
+    "keywords": [
+      "embedded",
+      "firmware",
+      "flight software",
+      "systems software",
+      "kernel",
+      "driver engineer",
+      "low-level",
+      "real-time",
+      "~rtos"
+    ]
+  },
+  "backend": {
+    "title": "Software Engineering",
+    "emoji": "\ud83d\udcbb",
+    "keywords": [
+      "software engineer",
+      "software developer",
+      "backend",
+      "back-end",
+      "back end",
+      "backend engineer",
+      "backend developer",
+      "systems engineer",
+      "platform engineer",
+      "api engineer",
+      "sde",
+      "application developer",
+      "it engineer",
+      "java developer",
+      "python developer",
+      "javascript developer",
+      "embedded",
+      "firmware",
+      "devops",
+      "site reliability",
+      "security engineer",
+      "computer vision engineer",
+      "ml engineer",
+      "research engineer",
+      "applied engineer",
+      "forward deployed engineer"
+    ]
+  }
+}
