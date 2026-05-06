@@ -27,6 +27,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cockroachdb",
+        "computer science",
+        "concurrency",
+        "distributed systems",
+        "github",
+        "go",
+        "java",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-06T17:39:37.000Z"
   },
   {
@@ -74017,45 +74036,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-29T18:18:30.655Z"
-  },
-  {
-    "job_id": "greenhouse-scaleai-4689947005",
-    "job_title": "SWE Fellow - Human Frontier Collective (US)",
-    "employer_name": "Scale AI",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4689947005",
-    "job_posted_at_datetime_utc": "2026-04-29T18:02:21.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "161c3f6040511f41add5d6d62f799c9f238b2039be0c5c258021222168b76c49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cisco"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T18:02:21.000Z"
   }
 ]
