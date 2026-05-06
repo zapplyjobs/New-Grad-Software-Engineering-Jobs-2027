@@ -1,5 +1,336 @@
 [
   {
+    "job_id": "workday-caterpillar-R0000368055",
+    "job_title": "AWS Cloud Engineer",
+    "employer_name": "Caterpillar",
+    "job_city": "East Peoria Illinois",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "East Peoria Illinois + 1 more",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/AWS-Cloud-Engineer_R0000368055",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:59.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2eee28a28193cd7fdaa94e57d048da771cb1793ef6eb0023b69f55b4bce7afa5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:59.771Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026508311",
+    "job_title": "E-4B Customer Support Engineer (Mid-Level or Senior)",
+    "employer_name": "Boeing",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Oklahoma City, OK",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/E-4B-Customer-Support-Engineer--Mid-Level-or-Senior-_JR2026508311-1",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:58.685Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "add74b90546a3d74be58fc8f38a2b403ea073e0a839215e9f0e3a0ce65a88fec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:58.685Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026497103",
+    "job_title": "Design and Analysis Systems Engineer, Experienced or Senior Level",
+    "employer_name": "Boeing",
+    "job_city": "Saint Charles",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Saint Charles, MO + 1 more",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Design-and-Analysis-Systems-Engineer--Experienced-or-Senior-Level_JR2026497103",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:58.685Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4701de475afd9ad404125522254254260c170b818600de70e0fcaaa23cd1de63",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:58.685Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026505330",
+    "job_title": "Product Security Analyst (Mid-level or Senior)",
+    "employer_name": "Boeing",
+    "job_city": "Richardson",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Richardson, TX",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Product-Security-Analyst--Mid-level-or-Senior-_JR2026505330-1",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:58.685Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "359c11d157952d45e81471f8055efc726d0da020923ba0cc5171756c7d6b34d8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:58.685Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026505333",
+    "job_title": "Product Security Engineer (Mid-level or Senior)",
+    "employer_name": "Boeing",
+    "job_city": "Richardson",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Richardson, TX",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Product-Security-Engineer--Mid-level-or-Senior-_JR2026505333-1",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:58.685Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f54f672ea919368907991b9bdad5f701bec398c32eb284a7061b59a3c6d8e119",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:58.685Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026503399",
+    "job_title": "Java Full Stack and AWS DevOps Developer (Mid-level or Senior)",
+    "employer_name": "Boeing",
+    "job_city": "Hazelwood",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hazelwood, MO + 2 more",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Java-Full-Stack-and-AWS-DevOps-Developer--Mid-level-or-Senior-_JR2026503399-1",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:58.685Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1c141d43e4f0cfad1fbef8ce2fb50ebeba2af3029151249cb0674808e232d37d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:58.685Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026508891",
+    "job_title": "Electromagnetic Effects Research Engineer (Mid-Level, Senior)",
+    "employer_name": "Boeing",
+    "job_city": "Tukwila",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Tukwila, WA",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Electromagnetic-Effects-Research-Engineer--Mid-Level--Senior-_JR2026508891-1",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:58.685Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3902de37ff81fc35e70e3c38adc84e2fed3a27a227879293658bc90a5f1ca2c6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:58.685Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026499295",
+    "job_title": "787 Cabin Systems Engineer - Experienced or Senior",
+    "employer_name": "Boeing",
+    "job_city": "North Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - North Charleston, SC",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/XMLNAME-787-Cabin-Systems-Engineer---Experienced-or-Senior_JR2026499295-1",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:58.685Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "97048d992120f4df84666c2d4e8e402ddc7eb04fe1c8b0599fcdbce671cb0293",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:58.685Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026499624",
+    "job_title": "Back-End Software Engineer (Experienced or Senior)",
+    "employer_name": "Boeing",
+    "job_city": "Berkeley",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Berkeley, MO",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Back-End-Software-Engineer--Experienced-or-Senior-_JR2026499624-1",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:58.685Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cdfeb6209d62bca52c8389d2f35c778a12fb4407106ebfee11b48ae519d41d35",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:58.685Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026500898",
+    "job_title": "Systems Integration Engineer (Mid-Level or Senior)",
+    "employer_name": "Boeing",
+    "job_city": "North Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - North Charleston, SC",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Systems-Integration-Engineer--Mid-Level-or-Senior-_JR2026500898-1",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:58.685Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "908a86d7f642f8b5f192927c74ac6f74c667e0242a62d83bea109526a5dc0f80",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:58.685Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026506879",
+    "job_title": "Mid-Level or Senior Product Security Engineer - Public Key Infrastructure (PKI) and Cloud Architect",
+    "employer_name": "Boeing",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA + 1 more",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Mid-Level-or-Senior-Product-Security-Engineer---Public-Key-Infrastructure--PKI--and-Cloud-Architect_JR2026506879-1",
+    "job_posted_at_datetime_utc": "2026-05-06T05:01:58.684Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5be6ac5518efc5f8d48bbee1bf7129d318484e6703683afdeb06564fb3ecc712",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T05:01:58.684Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10226413",
     "job_title": "Software Developer - Level 3/4",
     "employer_name": "Northrop Grumman",
@@ -2965,7 +3296,7 @@
     "job_location": "Fayetteville, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863761",
     "job_posted_at_datetime_utc": "2026-05-05T21:03:16.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f39a2ef608f45594d572d3da405935114bf7d148dacc158d04817442b203adec",
     "tags": {
@@ -5302,7 +5633,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862452",
     "job_posted_at_datetime_utc": "2026-05-05T19:23:47.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "e38361759525d6819d5d9c57412507afe983c19c35ab305941dc4a6ea6e1c1ba",
     "tags": {
@@ -7645,6 +7976,51 @@
     "job_posted_at": "2026-05-05T17:33:23.403Z"
   },
   {
+    "job_id": "workday-boeing-JR2026504234",
+    "job_title": "Systems Engineer",
+    "employer_name": "Boeing",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Oklahoma City, OK",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Systems-Engineer_JR2026504234-1",
+    "job_posted_at_datetime_utc": "2026-05-05T17:32:33.206Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cde46cf8f96afce08325715716708870dd1cfdcb42c7041fa2e2f83dead93da4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "computer science",
+        "data science",
+        "nx",
+        "reporting",
+        "teamcenter"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T17:32:33.206Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026509074",
     "job_title": "Associate and Experienced Software Engineers - Secure Network & Protocols",
     "employer_name": "Boeing",
@@ -7687,51 +8063,6 @@
         "project management",
         "requirements management",
         "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T17:32:33.206Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026504234",
-    "job_title": "Systems Engineer",
-    "employer_name": "Boeing",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Oklahoma City, OK",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Systems-Engineer_JR2026504234-1",
-    "job_posted_at_datetime_utc": "2026-05-05T17:32:33.206Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cde46cf8f96afce08325715716708870dd1cfdcb42c7041fa2e2f83dead93da4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "change management",
-        "computer science",
-        "data science",
-        "nx",
-        "reporting",
-        "teamcenter"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -12627,7 +12958,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863249",
     "job_posted_at_datetime_utc": "2026-05-05T12:03:04.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "17bf38cba2aea3660f7c1e205ea2c46170c41c6d0dc3e07cdf118ca48dcc1a49",
     "tags": {
@@ -13208,100 +13539,6 @@
     "job_posted_at": "2026-05-05T11:17:54.282Z"
   },
   {
-    "job_id": "greenhouse-speechify-5974214004",
-    "job_title": "Software Engineer, Platform - Reston, VA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Reston, VA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974214004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7a0a6c39c902162cbadfb264422cade86d5998406d5f2cc2d5ccb6734a3aaacc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.744Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974120004",
-    "job_title": "Software Engineer, Platform - San Jose, CA, USA",
-    "employer_name": "Speechify",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974120004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9cbadddd0f519f17c891be73aab04b8508faad55c7913560d650616fbb1b56d5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.744Z"
-  },
-  {
     "job_id": "greenhouse-speechify-5974230004",
     "job_title": "Software Engineer, Platform - Savannah, GA, USA",
     "employer_name": "Speechify",
@@ -13503,6 +13740,100 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4b6680dd9a9a1e0d6adc7c28c33a1b3153050a692980795efe19cfd2add8e13e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.744Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974214004",
+    "job_title": "Software Engineer, Platform - Reston, VA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Reston, VA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974214004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.744Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7a0a6c39c902162cbadfb264422cade86d5998406d5f2cc2d5ccb6734a3aaacc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.744Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974120004",
+    "job_title": "Software Engineer, Platform - San Jose, CA, USA",
+    "employer_name": "Speechify",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974120004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.744Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9cbadddd0f519f17c891be73aab04b8508faad55c7913560d650616fbb1b56d5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -14336,55 +14667,6 @@
     "job_posted_at": "2026-05-05T11:17:48.743Z"
   },
   {
-    "job_id": "greenhouse-speechify-5975329004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tallahassee, FL, USA",
-    "employer_name": "Speechify",
-    "job_city": "Tallahassee",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tallahassee, FL, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975329004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0bddb03b312e32b9b2ab2ca2ec4bf234227b5cb1cbd1c7590b2b910b24f51d15",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.742Z"
-  },
-  {
     "job_id": "greenhouse-speechify-5975161004",
     "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tempe, AZ, USA",
     "employer_name": "Speechify",
@@ -14434,19 +14716,68 @@
     "job_posted_at": "2026-05-05T11:17:48.742Z"
   },
   {
-    "job_id": "greenhouse-speechify-5975323004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - St. Petersburg, FL, USA",
+    "job_id": "greenhouse-speechify-5975329004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tallahassee, FL, USA",
     "employer_name": "Speechify",
-    "job_city": "St. Petersburg",
+    "job_city": "Tallahassee",
     "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "St. Petersburg, FL, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975323004",
+    "job_location": "Tallahassee, FL, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975329004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0bddb03b312e32b9b2ab2ca2ec4bf234227b5cb1cbd1c7590b2b910b24f51d15",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.742Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5976287004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Atlanta, GA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976287004",
     "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4c426077c9a223a2733240568dd86b3d603634cd6eea782c3e48ec084d40f7c0",
+    "fingerprint": "0c7ff84d10dbb3333a3b29ffdf66043afaa1c52f241b64642199b94c72847663",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -15463,19 +15794,19 @@
     "job_posted_at": "2026-05-05T11:17:48.741Z"
   },
   {
-    "job_id": "greenhouse-speechify-5976287004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Atlanta, GA, USA",
+    "job_id": "greenhouse-speechify-5975323004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - St. Petersburg, FL, USA",
     "employer_name": "Speechify",
-    "job_city": "Atlanta",
-    "job_state": "GA",
+    "job_city": "St. Petersburg",
+    "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Atlanta, GA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976287004",
+    "job_location": "St. Petersburg, FL, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975323004",
     "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0c7ff84d10dbb3333a3b29ffdf66043afaa1c52f241b64642199b94c72847663",
+    "fingerprint": "4c426077c9a223a2733240568dd86b3d603634cd6eea782c3e48ec084d40f7c0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -16554,52 +16885,6 @@
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-dc42fdfd-f859-4845-b38e-1d7f1ddbdde8",
-    "job_title": "Software Development Engineer, Internet Monitoring",
-    "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Clara, CA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411819/software-development-engineer-internet-monitoring",
-    "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bb28b604299f119d843ada365ab9549aad310a59eb6df60d278f6ba2d0111c5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "design patterns",
-        "java"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-f96ee403-3cec-4ea9-92e1-6cdb32bc5174",
     "job_title": "Software Development Engineer, Amazon Cognito",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -16724,6 +17009,52 @@
     "enrichment": {
       "required_skills": [
         "design patterns"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-dc42fdfd-f859-4845-b38e-1d7f1ddbdde8",
+    "job_title": "Software Development Engineer, Internet Monitoring",
+    "employer_name": "Amazon Data Services, Inc.",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411819/software-development-engineer-internet-monitoring",
+    "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bb28b604299f119d843ada365ab9549aad310a59eb6df60d278f6ba2d0111c5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c#",
+        "c++",
+        "design patterns",
+        "java"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -28762,6 +29093,36 @@
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
   {
+    "job_id": "workday-boeing-JR2025489672",
+    "job_title": "Systems Engineer (Experienced or Lead)",
+    "employer_name": "Boeing",
+    "job_city": "Hazelwood",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hazelwood, MO + 2 more",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Systems-Engineer--Experienced-or-Lead-_JR2025489672",
+    "job_posted_at_datetime_utc": "2026-05-03T05:01:58.686Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0a8d4b2bded62146b5115b91f60acb095fbcccf4520f24a4635bd856565dcaf2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-03T05:01:58.686Z"
+  },
+  {
     "job_id": "workday-cisco-2012463",
     "job_title": "Federal Solutions Engineer -Splunk (Remote)",
     "employer_name": "Cisco",
@@ -29169,52 +29530,6 @@
     "job_posted_at": "2026-05-02T13:31:40.943Z"
   },
   {
-    "job_id": "ashby-openai-e9627fa6-ac76-4899-9a93-9251419e61a0",
-    "job_title": "Software Engineer, Kernel Performance & AI Tooling",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "San Francisco",
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/e9627fa6-ac76-4899-9a93-9251419e61a0/application",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:23.998Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "7bc8fa55264c60e827fb3fea440ab9bbd4cb3547a1feb9e80f535522bcb28f42",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "asana",
-        "observability",
-        "reinforcement learning",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
-    },
-    "job_posted_at": "2026-05-02T13:31:23.998Z"
-  },
-  {
     "job_id": "ashby-openai-550d0123-238c-4ad8-aaee-ea4a5a484639",
     "job_title": "GRC Program Manager, US Government Compliance",
     "employer_name": "OpenAI",
@@ -29352,6 +29667,52 @@
       "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:23.998Z"
+  },
+  {
+    "job_id": "ashby-openai-e9627fa6-ac76-4899-9a93-9251419e61a0",
+    "job_title": "Software Engineer, Kernel Performance & AI Tooling",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "San Francisco",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/e9627fa6-ac76-4899-9a93-9251419e61a0/application",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:23.998Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "7bc8fa55264c60e827fb3fea440ab9bbd4cb3547a1feb9e80f535522bcb28f42",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "asana",
+        "observability",
+        "reinforcement learning",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": true
     },
     "job_posted_at": "2026-05-02T13:31:23.998Z"
   },
@@ -29637,55 +29998,6 @@
     "job_posted_at": "2026-05-02T13:31:01.472Z"
   },
   {
-    "job_id": "greenhouse-twitch-8519628002",
-    "job_title": "Software Engineer I, Ad Supply Experiences",
-    "employer_name": "Twitch",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/twitch/jobs/8519628002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.389Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61c2b2b61a3970b3a8d0f2a6874758b30f8453984aefbbf49e5382d60a52971e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "marketing",
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "computer science",
-        "data modeling",
-        "dynamodb",
-        "golang",
-        "lambda",
-        "react",
-        "sqs",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:01.389Z"
-  },
-  {
     "job_id": "greenhouse-twitch-8517748002",
     "job_title": "AV & IT Support Engineer",
     "employer_name": "Twitch",
@@ -29729,6 +30041,55 @@
         "tcp/ip",
         "windows",
         "zoom"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:01.389Z"
+  },
+  {
+    "job_id": "greenhouse-twitch-8519628002",
+    "job_title": "Software Engineer I, Ad Supply Experiences",
+    "employer_name": "Twitch",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/twitch/jobs/8519628002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.389Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "61c2b2b61a3970b3a8d0f2a6874758b30f8453984aefbbf49e5382d60a52971e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "marketing",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "computer science",
+        "data modeling",
+        "dynamodb",
+        "golang",
+        "lambda",
+        "react",
+        "sqs",
+        "typescript"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -30062,147 +30423,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-02T13:31:00.052Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974228004",
-    "job_title": "Software Engineer, Platform - Princeton, NJ, USA",
-    "employer_name": "Speechify",
-    "job_city": "Princeton",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Princeton, NJ, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974228004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.818Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bd9faf6821a6d93b12bc19689bfbab594881a37f22eb7c88bd89841d8e1f0baa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.818Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974236004",
-    "job_title": "Software Engineer, Platform - Raleigh, NC, USA",
-    "employer_name": "Speechify",
-    "job_city": "Raleigh",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Raleigh, NC, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974236004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.818Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e29ae1eeb12b184ef17f078dadcb033cfdbcfc3327c1169fbdfe1373c0246b8a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.818Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974158004",
-    "job_title": "Software Engineer, Platform - San Antonio, TX, USA",
-    "employer_name": "Speechify",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Antonio, TX, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974158004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.818Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d548aa86b9e199f85b4bacebe3d08d661e10b305de68fe2e78ffe5b32c8335d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.818Z"
   },
   {
     "job_id": "greenhouse-speechify-5974129004",
@@ -30581,19 +30801,19 @@
     "job_posted_at": "2026-05-02T13:30:59.818Z"
   },
   {
-    "job_id": "greenhouse-speechify-5981113004",
-    "job_title": "Software Engineer, iOS Core Product - Princeton, NJ, USA",
+    "job_id": "greenhouse-speechify-5974228004",
+    "job_title": "Software Engineer, Platform - Princeton, NJ, USA",
     "employer_name": "Speechify",
     "job_city": "Princeton",
     "job_state": "NJ",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Princeton, NJ, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981113004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974228004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.818Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "db1172370c1900a68bdd891a7471e40f583aab52c76fb9b934188e2356deca96",
+    "fingerprint": "bd9faf6821a6d93b12bc19689bfbab594881a37f22eb7c88bd89841d8e1f0baa",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -30610,12 +30830,14 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "ci/cd",
-        "git",
-        "multithreading",
-        "solid principles",
-        "swift",
-        "swiftui"
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -30623,22 +30845,22 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
+    "job_posted_at": "2026-05-02T13:30:59.818Z"
   },
   {
-    "job_id": "greenhouse-speechify-5981047004",
-    "job_title": "Software Engineer, iOS Core Product - Provo, UT, USA",
+    "job_id": "greenhouse-speechify-5974236004",
+    "job_title": "Software Engineer, Platform - Raleigh, NC, USA",
     "employer_name": "Speechify",
-    "job_city": "Provo",
-    "job_state": "UT",
+    "job_city": "Raleigh",
+    "job_state": "NC",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Provo, UT, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981047004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_location": "Raleigh, NC, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974236004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.818Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a6f3290c8c79273fb7e8fccd180695d7ad480190d3ecab724d6ec85a81a06b0e",
+    "fingerprint": "e29ae1eeb12b184ef17f078dadcb033cfdbcfc3327c1169fbdfe1373c0246b8a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -30655,12 +30877,14 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "ci/cd",
-        "git",
-        "multithreading",
-        "solid principles",
-        "swift",
-        "swiftui"
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -30668,7 +30892,54 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
+    "job_posted_at": "2026-05-02T13:30:59.818Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974158004",
+    "job_title": "Software Engineer, Platform - San Antonio, TX, USA",
+    "employer_name": "Speechify",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Antonio, TX, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974158004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.818Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8d548aa86b9e199f85b4bacebe3d08d661e10b305de68fe2e78ffe5b32c8335d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.818Z"
   },
   {
     "job_id": "greenhouse-speechify-5981229004",
@@ -31657,6 +31928,96 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f6956ab3e5a3e205b84f4b31a96cdc75b7ad5d9357dc7761f34d87d78f8a90ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "git",
+        "multithreading",
+        "solid principles",
+        "swift",
+        "swiftui"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5981113004",
+    "job_title": "Software Engineer, iOS Core Product - Princeton, NJ, USA",
+    "employer_name": "Speechify",
+    "job_city": "Princeton",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Princeton, NJ, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981113004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "db1172370c1900a68bdd891a7471e40f583aab52c76fb9b934188e2356deca96",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "git",
+        "multithreading",
+        "solid principles",
+        "swift",
+        "swiftui"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5981047004",
+    "job_title": "Software Engineer, iOS Core Product - Provo, UT, USA",
+    "employer_name": "Speechify",
+    "job_city": "Provo",
+    "job_state": "UT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Provo, UT, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981047004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a6f3290c8c79273fb7e8fccd180695d7ad480190d3ecab724d6ec85a81a06b0e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -33482,69 +33843,6 @@
     "job_posted_at": "2026-05-02T13:30:47.698Z"
   },
   {
-    "job_id": "greenhouse-fireblocks-4664533006",
-    "job_title": "Incident Response Engineer (Pacific time)",
-    "employer_name": "Fireblocks",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Los Angeles, California, United States; Portland, Oregon, United States; San Francisco, California, United States; Seattle, Washington, United States",
-    "job_apply_link": "https://www.fireblocks.com/careers/position/4664533006?gh_jid=4664533006",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:47.389Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d8e87efaade20bf0f880fbe71a806e43334b23d2a484cc3672b49ae74a57b403",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "argocd",
-        "aws",
-        "azure",
-        "bash",
-        "bitbucket",
-        "c++",
-        "computer science",
-        "datadog",
-        "docker",
-        "git",
-        "gitlab",
-        "google cloud",
-        "helm",
-        "incident response",
-        "javascript",
-        "kubernetes",
-        "linux",
-        "mysql",
-        "nginx",
-        "prometheus",
-        "python",
-        "shell",
-        "splunk",
-        "sre"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:47.389Z"
-  },
-  {
     "job_id": "greenhouse-fireblocks-4656035006",
     "job_title": "Site Reliability Engineer",
     "employer_name": "Fireblocks",
@@ -33663,6 +33961,69 @@
         "nginx",
         "prometheus",
         "puppet",
+        "python",
+        "shell",
+        "splunk",
+        "sre"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:47.389Z"
+  },
+  {
+    "job_id": "greenhouse-fireblocks-4664533006",
+    "job_title": "Incident Response Engineer (Pacific time)",
+    "employer_name": "Fireblocks",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Los Angeles, California, United States; Portland, Oregon, United States; San Francisco, California, United States; Seattle, Washington, United States",
+    "job_apply_link": "https://www.fireblocks.com/careers/position/4664533006?gh_jid=4664533006",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:47.389Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d8e87efaade20bf0f880fbe71a806e43334b23d2a484cc3672b49ae74a57b403",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "argocd",
+        "aws",
+        "azure",
+        "bash",
+        "bitbucket",
+        "c++",
+        "computer science",
+        "datadog",
+        "docker",
+        "git",
+        "gitlab",
+        "google cloud",
+        "helm",
+        "incident response",
+        "javascript",
+        "kubernetes",
+        "linux",
+        "mysql",
+        "nginx",
+        "prometheus",
         "python",
         "shell",
         "splunk",
@@ -34920,48 +35281,6 @@
     "job_posted_at": "2026-05-02T13:30:42.938Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5101306007",
-    "job_title": "Systems Analyst, Supply Chain",
-    "employer_name": "Anduril",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, Georgia, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5101306007?gh_jid=5101306007",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.489Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b0b4e189a32ab2c2e4fcb1ce04daad17149fc85763b52ccd7f7657cedca11b60",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "software",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:42.489Z"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-5120833007",
     "job_title": "Systems Administrator",
     "employer_name": "Anduril",
@@ -34998,6 +35317,48 @@
         "routing",
         "vpn",
         "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:42.489Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5101306007",
+    "job_title": "Systems Analyst, Supply Chain",
+    "employer_name": "Anduril",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, Georgia, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5101306007?gh_jid=5101306007",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.489Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0b4e189a32ab2c2e4fcb1ce04daad17149fc85763b52ccd7f7657cedca11b60",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -35416,6 +35777,36 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-02T07:03:18.099Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026505801",
+    "job_title": "Software Engineer, Data Systems (Experienced or Senior) — Rocky Program",
+    "employer_name": "Boeing",
+    "job_city": "Albuquerque",
+    "job_state": "NM",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Albuquerque, NM",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Software-Engineer--Database-Developer--Experienced-or-Senior-_JR2026505801-1",
+    "job_posted_at_datetime_utc": "2026-05-02T05:01:58.686Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f9b1bb01f1dd8b0a949a2d6495772c4fff302312bc5c6c291beae77f773b7936",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-02T05:01:58.686Z"
   },
   {
     "job_id": "workday-cisco-2009577",
@@ -36594,7 +36985,7 @@
     "job_location": "Manassas, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863405",
     "job_posted_at_datetime_utc": "2026-05-01T20:09:27.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a1d5c92462f8875da236903aae68755beeef6a48300a534abcd40568e21ae3e5",
     "tags": {
@@ -37957,6 +38348,54 @@
     "job_posted_at": "2026-05-01T14:45:09.000Z"
   },
   {
+    "job_id": "greenhouse-wizinc-4626148006",
+    "job_title": "AI Security Researcher",
+    "employer_name": "Wiz",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote - USA",
+    "job_apply_link": "https://www.wiz.io/careers/job/4626148006/:title?gh_jid=4626148006",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:12.082Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b5109a3bd30c958325146b9651db9b01c236d33b581f0cbd7d67d78dc58ba1f4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "data analysis",
+        "gcp",
+        "kubernetes",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
+    },
+    "job_posted_at": "2026-05-01T14:34:12.082Z"
+  },
+  {
     "job_id": "greenhouse-wizinc-4671496006",
     "job_title": "Manager, Salesforce Platform",
     "employer_name": "Wiz",
@@ -38204,54 +38643,6 @@
         "routing",
         "shell",
         "tcp/ip"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
-    },
-    "job_posted_at": "2026-05-01T14:34:12.082Z"
-  },
-  {
-    "job_id": "greenhouse-wizinc-4626148006",
-    "job_title": "AI Security Researcher",
-    "employer_name": "Wiz",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote - USA",
-    "job_apply_link": "https://www.wiz.io/careers/job/4626148006/:title?gh_jid=4626148006",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:12.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b5109a3bd30c958325146b9651db9b01c236d33b581f0cbd7d67d78dc58ba1f4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "data analysis",
-        "gcp",
-        "kubernetes",
-        "python",
-        "sql"
       ],
       "sponsors_visa": false,
       "visa_question_present": true,
@@ -43701,6 +44092,52 @@
     "job_posted_at": "2026-05-01T07:02:39.255Z"
   },
   {
+    "job_id": "workday-boeing-JR2026506515",
+    "job_title": "Associate Space Communications Systems Engineer Analyst",
+    "employer_name": "Boeing",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - El Segundo, CA",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Associate-Space-Communications-Systems-Engineer-Analyst_JR2026506515-2",
+    "job_posted_at_datetime_utc": "2026-05-01T07:02:39.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "507ff27f575a9ad8d3db5db75c2c88be3510cfe478d2148f5e138d6ae83b5fac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data science",
+        "java",
+        "matlab",
+        "python",
+        "rf"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T07:02:39.255Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026494282",
     "job_title": "Advanced Information Technologist – Associate Cloud Engineer",
     "employer_name": "Boeing",
@@ -43738,52 +44175,6 @@
         "networking",
         "site reliability engineering",
         "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T07:02:39.255Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026506515",
-    "job_title": "Associate Space Communications Systems Engineer Analyst",
-    "employer_name": "Boeing",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - El Segundo, CA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Associate-Space-Communications-Systems-Engineer-Analyst_JR2026506515-2",
-    "job_posted_at_datetime_utc": "2026-05-01T07:02:39.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "507ff27f575a9ad8d3db5db75c2c88be3510cfe478d2148f5e138d6ae83b5fac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data science",
-        "java",
-        "matlab",
-        "python",
-        "rf"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -45657,6 +46048,127 @@
     "job_posted_at": "2026-05-01T05:16:59.000Z"
   },
   {
+    "job_id": "workday-boeing-JR2026494975",
+    "job_title": "Ground Systems Integration Engineer (Experienced or Senior Level)",
+    "employer_name": "Boeing",
+    "job_city": "Berkeley",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Berkeley, MO",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Ground-Systems-Integration-Engineer--Experienced-or-Senior-Level-_JR2026494975-1",
+    "job_posted_at_datetime_utc": "2026-05-01T05:01:58.687Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "526dd096c0dab51a19424d6655613652bd61cc7d649c399fcd007e1df8ddcde0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T05:01:58.687Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026505789",
+    "job_title": "Systems Engineer- Boeing Operations Center (Experienced or Senior)",
+    "employer_name": "Boeing",
+    "job_city": "Seal Beach",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Seal Beach, CA",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Systems-Engineer--Experienced-or-Senior-_JR2026505789-1",
+    "job_posted_at_datetime_utc": "2026-05-01T05:01:58.687Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c07530562c07e9777d125a820f4de66e9c855cf34c7570f08a95ec25c2aeeaac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T05:01:58.687Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026498270",
+    "job_title": "Full Stack Software Engineer, Developer (Experienced or Senior)",
+    "employer_name": "Boeing",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chantilly, VA + 1 more",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Developer--Experienced-or-Senior-_JR2026498270-2",
+    "job_posted_at_datetime_utc": "2026-05-01T05:01:58.687Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f5b5ea92f665a816edc74e571039e774326a590287f654e88ee7b9f58bd78262",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T05:01:58.687Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026498186",
+    "job_title": "Front-End Software Engineer–Developer Experienced or Senior))",
+    "employer_name": "Boeing",
+    "job_city": "Colorado Springs",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Colorado Springs, CO",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Front-End-Software-Engineer-Developer-Experienced-or-Senior--_JR2026498186-1",
+    "job_posted_at_datetime_utc": "2026-05-01T05:01:58.687Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a73dd610cb5e7eb44425d044ac3b5ab09c24230a25776c61a66fb7301a07a3c7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T05:01:58.687Z"
+  },
+  {
     "job_id": "workday-salesforce-JR340228",
     "job_title": "Software Engineering SMTS",
     "employer_name": "Salesforce",
@@ -45823,7 +46335,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556861598",
     "job_posted_at_datetime_utc": "2026-05-01T03:33:25.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "c79c954667fca6263902dad8cbd7610c8c70e0bfaa167bfe883a9bae929b4fcc",
     "tags": {
@@ -48414,7 +48926,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556856046",
     "job_posted_at_datetime_utc": "2026-04-30T19:21:04.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e38361759525d6819d5d9c57412507afe983c19c35ab305941dc4a6ea6e1c1ba",
     "tags": {
@@ -51342,19 +51854,19 @@
     "job_posted_at": "2026-04-30T15:49:35.738Z"
   },
   {
-    "job_id": "greenhouse-axon-7635781003",
+    "job_id": "greenhouse-axon-7659844003",
     "job_title": "Executive Assistant",
     "employer_name": "Axon",
-    "job_city": "Scottsdale",
-    "job_state": "AZ",
+    "job_city": "Boston",
+    "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Scottsdale, Arizona, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/axon/jobs/7635781003",
+    "job_location": "Boston, Massachusetts, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/axon/jobs/7659844003",
     "job_posted_at_datetime_utc": "2026-04-30T15:46:09.705Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c6133aa792ececd4638f7e23877614a69574bc022a1047e77860d86d1ea4f314",
+    "fingerprint": "16c8e5e86205ad1233049fa922459e9d21aef257f226e2a10bcd71f64e4a702e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -51380,19 +51892,19 @@
     "job_posted_at": "2026-04-30T15:46:09.705Z"
   },
   {
-    "job_id": "greenhouse-axon-7659844003",
+    "job_id": "greenhouse-axon-7635781003",
     "job_title": "Executive Assistant",
     "employer_name": "Axon",
-    "job_city": "Boston",
-    "job_state": "MA",
+    "job_city": "Scottsdale",
+    "job_state": "AZ",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Boston, Massachusetts, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/axon/jobs/7659844003",
+    "job_location": "Scottsdale, Arizona, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/axon/jobs/7635781003",
     "job_posted_at_datetime_utc": "2026-04-30T15:46:09.705Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "16c8e5e86205ad1233049fa922459e9d21aef257f226e2a10bcd71f64e4a702e",
+    "fingerprint": "c6133aa792ececd4638f7e23877614a69574bc022a1047e77860d86d1ea4f314",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -53209,194 +53721,6 @@
     "job_posted_at": "2026-04-30T08:00:00.000Z"
   },
   {
-    "job_id": "greenhouse-speechify-5974152004",
-    "job_title": "Software Engineer, Platform - Plano, TX, USA",
-    "employer_name": "Speechify",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Plano, TX, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974152004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:49:54.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4461511861aa36dfa7eb79f55511693fa48e57581567b5050f88d305d740637c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:49:54.847Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974160004",
-    "job_title": "Software Engineer, Platform - Portland, OR, USA",
-    "employer_name": "Speechify",
-    "job_city": "Portland",
-    "job_state": "OR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Portland, OR, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974160004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:49:54.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9bb903bcc697efa9b294ac37efdedde642c88586c8922fa778bc0ec636563602",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:49:54.847Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974182004",
-    "job_title": "Software Engineer, Platform - Reno, NV, USA",
-    "employer_name": "Speechify",
-    "job_city": "Reno",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Reno, NV, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974182004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:49:54.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f40f10be0eb138119aaa88b5253bd1bf315233125c57f490743ff10087c175de",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:49:54.847Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974190004",
-    "job_title": "Software Engineer, Platform - Rochester, NY, USA",
-    "employer_name": "Speechify",
-    "job_city": "Rochester",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Rochester, NY, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974190004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:49:54.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "efac3ee469748a5487da491f5014364b67670bf6b311a8bfd4b525bc6a1a2a0c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:49:54.847Z"
-  },
-  {
     "job_id": "greenhouse-speechify-5974131004",
     "job_title": "Software Engineer, Platform - Santa Cruz, CA, USA",
     "employer_name": "Speechify",
@@ -54337,6 +54661,194 @@
     "job_posted_at": "2026-04-30T07:49:54.847Z"
   },
   {
+    "job_id": "greenhouse-speechify-5974152004",
+    "job_title": "Software Engineer, Platform - Plano, TX, USA",
+    "employer_name": "Speechify",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Plano, TX, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974152004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:49:54.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4461511861aa36dfa7eb79f55511693fa48e57581567b5050f88d305d740637c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:49:54.847Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974160004",
+    "job_title": "Software Engineer, Platform - Portland, OR, USA",
+    "employer_name": "Speechify",
+    "job_city": "Portland",
+    "job_state": "OR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Portland, OR, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974160004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:49:54.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9bb903bcc697efa9b294ac37efdedde642c88586c8922fa778bc0ec636563602",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:49:54.847Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974182004",
+    "job_title": "Software Engineer, Platform - Reno, NV, USA",
+    "employer_name": "Speechify",
+    "job_city": "Reno",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Reno, NV, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974182004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:49:54.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f40f10be0eb138119aaa88b5253bd1bf315233125c57f490743ff10087c175de",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:49:54.847Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974190004",
+    "job_title": "Software Engineer, Platform - Rochester, NY, USA",
+    "employer_name": "Speechify",
+    "job_city": "Rochester",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Rochester, NY, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974190004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:49:54.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "efac3ee469748a5487da491f5014364b67670bf6b311a8bfd4b525bc6a1a2a0c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:49:54.847Z"
+  },
+  {
     "job_id": "greenhouse-speechify-5974222004",
     "job_title": "Software Engineer, Platform - Baltimore, MD, USA",
     "employer_name": "Speechify",
@@ -55177,6 +55689,48 @@
     "job_posted_at": "2026-04-30T07:49:41.563Z"
   },
   {
+    "job_id": "greenhouse-beyondtrust-7662320",
+    "job_title": "AI & Automation Engineer, Endpoint Systems",
+    "employer_name": "BeyondTrust",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Remote Canada | Remote United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/beyondtrust/jobs/7662320",
+    "job_posted_at_datetime_utc": "2026-04-30T07:49:34.390Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "625ede75aa40505db7ea4031725f50fc6c6751b1e87886d53d79919ff684c822",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "bash",
+        "powershell",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:49:34.390Z"
+  },
+  {
     "job_id": "greenhouse-beyondtrust-7637836",
     "job_title": "Solution Engineer",
     "employer_name": "BeyondTrust",
@@ -55267,48 +55821,6 @@
     "job_posted_at": "2026-04-30T07:49:34.390Z"
   },
   {
-    "job_id": "greenhouse-beyondtrust-7662320",
-    "job_title": "AI & Automation Engineer, Endpoint Systems",
-    "employer_name": "BeyondTrust",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Remote Canada | Remote United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/beyondtrust/jobs/7662320",
-    "job_posted_at_datetime_utc": "2026-04-30T07:49:34.390Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "625ede75aa40505db7ea4031725f50fc6c6751b1e87886d53d79919ff684c822",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "bash",
-        "powershell",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:49:34.390Z"
-  },
-  {
     "job_id": "google-120479753218990790",
     "job_title": "Software Engineer, Full Stack, gUP Engineering",
     "employer_name": "Google",
@@ -55347,194 +55859,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-30T07:32:09.645Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974234004",
-    "job_title": "Software Engineer, Platform - Pittsburgh, PA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Pittsburgh, PA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974234004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.167Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e7ebfda2dc1612c22530f4a9908e4f50450dc1f7f52f9f4fc6b75850c75e9e6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:12:25.167Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974204004",
-    "job_title": "Software Engineer, Platform - Providence, RI, USA",
-    "employer_name": "Speechify",
-    "job_city": "Providence",
-    "job_state": "RI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Providence, RI, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974204004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.167Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a2d4e31597c27f45fc7891ab18bdaf950352ca7b0178111f5459048aa8f0c5b1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:12:25.167Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974216004",
-    "job_title": "Software Engineer, Platform - Richmond, VA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Richmond",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Richmond, VA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974216004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.167Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b448ea63b241b3ac628de64c591a46c3d6e0c9450b474d23a1237d80690c5a4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:12:25.167Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5976208004",
-    "job_title": "Software Engineer, Platform - San Francisco, CA, USA",
-    "employer_name": "Speechify",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976208004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.167Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7fed68eb43987f25187fa0cb5761a98760ef338637f20ff14f21bcf60e12159a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:12:25.167Z"
   },
   {
     "job_id": "greenhouse-speechify-5974128004",
@@ -56242,6 +56566,194 @@
     "job_posted_at": "2026-04-30T07:12:25.167Z"
   },
   {
+    "job_id": "greenhouse-speechify-5974234004",
+    "job_title": "Software Engineer, Platform - Pittsburgh, PA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Pittsburgh, PA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974234004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.167Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e7ebfda2dc1612c22530f4a9908e4f50450dc1f7f52f9f4fc6b75850c75e9e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:12:25.167Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974204004",
+    "job_title": "Software Engineer, Platform - Providence, RI, USA",
+    "employer_name": "Speechify",
+    "job_city": "Providence",
+    "job_state": "RI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Providence, RI, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974204004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.167Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2d4e31597c27f45fc7891ab18bdaf950352ca7b0178111f5459048aa8f0c5b1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:12:25.167Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974216004",
+    "job_title": "Software Engineer, Platform - Richmond, VA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Richmond",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Richmond, VA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974216004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.167Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8b448ea63b241b3ac628de64c591a46c3d6e0c9450b474d23a1237d80690c5a4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:12:25.167Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5976208004",
+    "job_title": "Software Engineer, Platform - San Francisco, CA, USA",
+    "employer_name": "Speechify",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976208004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.167Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7fed68eb43987f25187fa0cb5761a98760ef338637f20ff14f21bcf60e12159a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:12:25.167Z"
+  },
+  {
     "job_id": "greenhouse-speechify-5976196004",
     "job_title": "Software Engineer, Platform - Atlanta, GA, USA",
     "employer_name": "Speechify",
@@ -56569,202 +57081,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-30T07:12:25.166Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975123004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Seattle, WA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975123004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.165Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3743bb819182dc53cb9591d2f2cf749442078ae7ce645574bdd03b4a85516514",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:12:25.165Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975168004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Sunnyvale, CA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, CA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975168004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.165Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d97d8b1a6ff3a74e9df4bf477448c6731dfddeb6970942011708fac78903d446",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:12:25.165Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975283004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tacoma, WA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Tacoma",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tacoma, WA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975283004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.165Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "093363e4594f44af289d9da7bc0eef77aec774353cd8d344ae316c87a54aff57",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:12:25.165Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975204004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tampa, FL, USA",
-    "employer_name": "Speechify",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tampa, FL, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975204004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.165Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d87f4d5be0b92dde7030f89b14118f925e4632a63bade614e4e847685f531954",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:12:25.165Z"
   },
   {
     "job_id": "greenhouse-speechify-5975390004",
@@ -57907,6 +58223,202 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "235945d8a41f5dc710943e6c3be0114ad3ef9b02eed75e5a7e5fb288f77a0f21",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:12:25.165Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975123004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Seattle, WA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975123004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.165Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3743bb819182dc53cb9591d2f2cf749442078ae7ce645574bdd03b4a85516514",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:12:25.165Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975168004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Sunnyvale, CA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, CA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975168004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.165Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d97d8b1a6ff3a74e9df4bf477448c6731dfddeb6970942011708fac78903d446",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:12:25.165Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975283004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tacoma, WA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Tacoma",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tacoma, WA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975283004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.165Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "093363e4594f44af289d9da7bc0eef77aec774353cd8d344ae316c87a54aff57",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:12:25.165Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975204004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tampa, FL, USA",
+    "employer_name": "Speechify",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tampa, FL, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975204004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:12:25.165Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d87f4d5be0b92dde7030f89b14118f925e4632a63bade614e4e847685f531954",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -59611,237 +60123,6 @@
     "job_posted_at": "2026-04-30T07:04:37.667Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10231477",
-    "job_title": "Configuration Analyst - Level 2 or 3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Colorado-Boulder",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Colorado-Boulder",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Configuration-Analyst---Level-2-or-3_R10231477",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:30.822Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "29306d739620b6adb4f4a42e553abd49a2b0656a920bfd6272cbc3725786dcdf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "confluence",
-        "excel",
-        "jira",
-        "microsoft office",
-        "program management",
-        "project management",
-        "scrum"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:04:30.822Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10230663",
-    "job_title": "Industrial Security Analyst",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Florida-Orlando",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Florida-Orlando",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Orlando/Industrial-Security-Analyst_R10230663",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:30.822Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4bcec8b1aca04ddc6f5939b2a317f5f931352f2c1d53e1c10b1ed3658372af02",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cfr",
-        "excel",
-        "ids",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:04:30.822Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10231462",
-    "job_title": "DevOps Engineer – Level 3 or 4",
-    "employer_name": "Northrop Grumman",
-    "job_city": "North Carolina-Morrisville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-North Carolina-Morrisville",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/DevOps-Engineer---Level-3-or-4_R10231462",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:30.822Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "512614ccd6953d22b1cdb9a291a24a78230824b460d15ddaa82d630de69fddfc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "ci/cd",
-        "continuous delivery",
-        "continuous integration",
-        "devops",
-        "dynamodb",
-        "flux",
-        "gitlab",
-        "grafana",
-        "helm",
-        "jenkins",
-        "kubernetes",
-        "linux",
-        "prometheus"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:04:30.822Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10231468",
-    "job_title": "Cloud Engineer (Nights) (AHT)",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Ohio-Wright-Patterson AFB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Ohio-Wright-Patterson AFB",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Cloud-Engineer--Nights---AHT-_R10231468",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:30.822Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "535f475b13868f6d007905f4c6c7ff47cc18dfa0aea3aeb2f9280c6971a1db28",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "confluence",
-        "information security",
-        "jira"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:04:30.822Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10231415",
-    "job_title": "Systems Engineer - Level 2 or 3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Colorado-Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Colorado-Colorado Springs",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Systems-Engineer---Level-2-or-3_R10231415",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:30.822Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "449b7a6d57a344e33a76b01221007477c855ff17b12b16d161bd3cd42018afaf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cameo",
-        "mbse"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:04:30.822Z"
-  },
-  {
     "job_id": "workday-northrop-grumman-R10231582",
     "job_title": "Systems Integrator - Level 5",
     "employer_name": "Northrop Grumman",
@@ -60113,6 +60394,237 @@
       "required_skills": [
         "cad",
         "networking"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:04:30.822Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10231477",
+    "job_title": "Configuration Analyst - Level 2 or 3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Colorado-Boulder",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Colorado-Boulder",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Configuration-Analyst---Level-2-or-3_R10231477",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:30.822Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "29306d739620b6adb4f4a42e553abd49a2b0656a920bfd6272cbc3725786dcdf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "confluence",
+        "excel",
+        "jira",
+        "microsoft office",
+        "program management",
+        "project management",
+        "scrum"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:04:30.822Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10230663",
+    "job_title": "Industrial Security Analyst",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Florida-Orlando",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Florida-Orlando",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Orlando/Industrial-Security-Analyst_R10230663",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:30.822Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4bcec8b1aca04ddc6f5939b2a317f5f931352f2c1d53e1c10b1ed3658372af02",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cfr",
+        "excel",
+        "ids",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:04:30.822Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10231462",
+    "job_title": "DevOps Engineer – Level 3 or 4",
+    "employer_name": "Northrop Grumman",
+    "job_city": "North Carolina-Morrisville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-North Carolina-Morrisville",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/DevOps-Engineer---Level-3-or-4_R10231462",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:30.822Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "512614ccd6953d22b1cdb9a291a24a78230824b460d15ddaa82d630de69fddfc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "ci/cd",
+        "continuous delivery",
+        "continuous integration",
+        "devops",
+        "dynamodb",
+        "flux",
+        "gitlab",
+        "grafana",
+        "helm",
+        "jenkins",
+        "kubernetes",
+        "linux",
+        "prometheus"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:04:30.822Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10231468",
+    "job_title": "Cloud Engineer (Nights) (AHT)",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Ohio-Wright-Patterson AFB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Ohio-Wright-Patterson AFB",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Cloud-Engineer--Nights---AHT-_R10231468",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:30.822Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "535f475b13868f6d007905f4c6c7ff47cc18dfa0aea3aeb2f9280c6971a1db28",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "confluence",
+        "information security",
+        "jira"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:04:30.822Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10231415",
+    "job_title": "Systems Engineer - Level 2 or 3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Colorado-Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Colorado-Colorado Springs",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Systems-Engineer---Level-2-or-3_R10231415",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:30.822Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "449b7a6d57a344e33a76b01221007477c855ff17b12b16d161bd3cd42018afaf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cameo",
+        "mbse"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -62134,6 +62646,48 @@
     "job_posted_at": "2026-04-30T07:02:39.255Z"
   },
   {
+    "job_id": "workday-boeing-JR2026508477",
+    "job_title": "Software Systems Engineers (Associate, Experienced, and Senior)",
+    "employer_name": "Boeing",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Oklahoma City, OK",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Software-Systems-Engineers--Associate--Experienced--and-Senior-_JR2026508477-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:39.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2fe838d4b5c36cf6802d7352ab66a33d3c45870014abb5777086db0bb34f916b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "data analysis",
+        "radar"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:39.255Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026498949",
     "job_title": "Cybersecurity – Information System Security Manager (ISSM)",
     "employer_name": "Boeing",
@@ -62241,48 +62795,6 @@
         "vmware",
         "vpn",
         "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:39.255Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026508477",
-    "job_title": "Software Systems Engineers (Associate, Experienced, and Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Oklahoma City, OK",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Software-Systems-Engineers--Associate--Experienced--and-Senior-_JR2026508477-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:39.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2fe838d4b5c36cf6802d7352ab66a33d3c45870014abb5777086db0bb34f916b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "data analysis",
-        "radar"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -65664,19 +66176,19 @@
     "job_posted_at": "2026-04-30T03:45:27.046Z"
   },
   {
-    "job_id": "simplify-ce80bcf6-6d8c-468a-9fec-fb8418fd27af",
-    "job_title": "3D Graphics Engineer",
+    "job_id": "simplify-093acc82-ac5e-463e-8739-43de0fe8a38d",
+    "job_title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control - 2026 Start PhD",
     "employer_name": "ByteDance",
     "job_city": "San Jose",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7564516412456306997/detail",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
     "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "be6db6d460e704584814f98f9d3cee48d60f3dfd642bb858a6a8a220107dd1f8",
+    "fingerprint": "ab922f32990b06b3a53c78346d6198fc2c4ab65c39c52a323950f367881e639b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -65702,19 +66214,19 @@
     "job_posted_at": "2026-04-30T03:45:27.045Z"
   },
   {
-    "job_id": "simplify-093acc82-ac5e-463e-8739-43de0fe8a38d",
-    "job_title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control - 2026 Start PhD",
+    "job_id": "simplify-ce80bcf6-6d8c-468a-9fec-fb8418fd27af",
+    "job_title": "3D Graphics Engineer",
     "employer_name": "ByteDance",
     "job_city": "San Jose",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7564516412456306997/detail",
     "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ab922f32990b06b3a53c78346d6198fc2c4ab65c39c52a323950f367881e639b",
+    "fingerprint": "be6db6d460e704584814f98f9d3cee48d60f3dfd642bb858a6a8a220107dd1f8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -65905,340 +66417,6 @@
     "_source": "aggregator",
     "_original_source": "simplify",
     "job_posted_at": "2026-04-30T03:45:26.891Z"
-  },
-  {
-    "job_id": "simplify-f65a57de-c5dd-4b3b-bfdf-5331d7a423c8",
-    "job_title": "Software Engineer Graduate - Data Arch - AI/ML Infrastructure",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7535215880842791176",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1c31256facb55935c0634b9e754f03a4bc7afa32f628ad16ea261fdc5c857976",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-d7a737ee-392f-4ed2-97f3-7b7b61ebefd5",
-    "job_title": "Graduate Software Engineer - Experimentation and Evaluation",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7533278507406182674",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f9099ea9ab68f6d99dbd6662181d89524a3867edf658f12ce04bdd09ea18d39",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-c89f30a9-50c6-4081-bb5f-dc41eda3330b",
-    "job_title": "Software Engineer Graduate - Global CRM - 2026 Start','BS/MS",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7532009495959521554",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d08d98d88b27654739d0f3ca61309ced5df65a14004bef1be680ae224ac662f4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-504f0b08-afb2-4964-b3cd-5dee1937b1ad",
-    "job_title": "Frontend Software Engineer - Global CRM Platform",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7104433489986734350",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "421a2323f290be574359d06a9d41a77c457dfb9fbcde7609bb5b1e8dc74a8b0e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-d0a7e5d4-0029-4c15-aec8-ea347fe6067b",
-    "job_title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7509262740803930376/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ae05f542ab593bbd6a43bf84fa89e3cb43e3f13dc181e6e325f9ad36e7ceb2cf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-ad0c0ea3-6eff-409b-91d6-adcf6f76c26e",
-    "job_title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control",
-    "employer_name": "ByteDance",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7509262736619571474/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "064b543686275becf1468756cf3b3e5fac81366a4a810dab2b049bbba2dc8afc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-f023b068-443c-4a3f-a999-a2a15a39b368",
-    "job_title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7556439896494754066/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "38593777d258ca71713e2f1fd85a05e0dc00d46260ab7b45c602fba740cbe44c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c",
-    "job_title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
-    "employer_name": "ByteDance",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7556509698578663687/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f2a07e77f1e5560aee315ea63264062d2eaecc8643254e66d64f90daf4b6eef8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-7a8c16e6-b29e-441d-9635-d193fe1c96fa",
-    "job_title": "Software Engineer Graduate - 2026 Start",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7531175534148045063",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9904c9a37facf4be8a4d5846e7c136a7d7ba67c0b7ff84cc89bc92593d3ba583",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-f699ccfb-49f8-4469-b35e-f0ad4d2a2285",
-    "job_title": "Associate Software Development Engineer",
-    "employer_name": "CVS Health",
-    "job_city": "Richardson",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Richardson, TX",
-    "job_apply_link": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f1e385964176c10fcef694a8487f1cdb0de8ce7f6003d5cfe5abb4aa9a444193",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-1ada89a0-c765-47f9-8ed0-e353250a765d",
-    "job_title": "Software Engineer Graduate - Capital Platform - 2026 Start','BS/MS",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7532009150009755911",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dddbba752d3089751c92ae1b3d340f8195499c9df02fc8a36d631366853160bf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
   },
   {
     "job_id": "simplify-93d93e35-0824-408a-ac12-0a082b8a9aac",
@@ -66797,6 +66975,340 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "340cfefea8e92be29397eba549361a4781f0aad7e1a93aae7ecf4933969105fe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-f65a57de-c5dd-4b3b-bfdf-5331d7a423c8",
+    "job_title": "Software Engineer Graduate - Data Arch - AI/ML Infrastructure",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7535215880842791176",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1c31256facb55935c0634b9e754f03a4bc7afa32f628ad16ea261fdc5c857976",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-d7a737ee-392f-4ed2-97f3-7b7b61ebefd5",
+    "job_title": "Graduate Software Engineer - Experimentation and Evaluation",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7533278507406182674",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f9099ea9ab68f6d99dbd6662181d89524a3867edf658f12ce04bdd09ea18d39",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-c89f30a9-50c6-4081-bb5f-dc41eda3330b",
+    "job_title": "Software Engineer Graduate - Global CRM - 2026 Start','BS/MS",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7532009495959521554",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d08d98d88b27654739d0f3ca61309ced5df65a14004bef1be680ae224ac662f4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-504f0b08-afb2-4964-b3cd-5dee1937b1ad",
+    "job_title": "Frontend Software Engineer - Global CRM Platform",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7104433489986734350",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "421a2323f290be574359d06a9d41a77c457dfb9fbcde7609bb5b1e8dc74a8b0e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-d0a7e5d4-0029-4c15-aec8-ea347fe6067b",
+    "job_title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7509262740803930376/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ae05f542ab593bbd6a43bf84fa89e3cb43e3f13dc181e6e325f9ad36e7ceb2cf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-ad0c0ea3-6eff-409b-91d6-adcf6f76c26e",
+    "job_title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control",
+    "employer_name": "ByteDance",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7509262736619571474/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "064b543686275becf1468756cf3b3e5fac81366a4a810dab2b049bbba2dc8afc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-f023b068-443c-4a3f-a999-a2a15a39b368",
+    "job_title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7556439896494754066/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "38593777d258ca71713e2f1fd85a05e0dc00d46260ab7b45c602fba740cbe44c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c",
+    "job_title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
+    "employer_name": "ByteDance",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7556509698578663687/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f2a07e77f1e5560aee315ea63264062d2eaecc8643254e66d64f90daf4b6eef8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-7a8c16e6-b29e-441d-9635-d193fe1c96fa",
+    "job_title": "Software Engineer Graduate - 2026 Start",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7531175534148045063",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9904c9a37facf4be8a4d5846e7c136a7d7ba67c0b7ff84cc89bc92593d3ba583",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-f699ccfb-49f8-4469-b35e-f0ad4d2a2285",
+    "job_title": "Associate Software Development Engineer",
+    "employer_name": "CVS Health",
+    "job_city": "Richardson",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Richardson, TX",
+    "job_apply_link": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f1e385964176c10fcef694a8487f1cdb0de8ce7f6003d5cfe5abb4aa9a444193",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-1ada89a0-c765-47f9-8ed0-e353250a765d",
+    "job_title": "Software Engineer Graduate - Capital Platform - 2026 Start','BS/MS",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7532009150009755911",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dddbba752d3089751c92ae1b3d340f8195499c9df02fc8a36d631366853160bf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -72266,54 +72778,6 @@
     "job_posted_at": "2026-04-29T17:50:41.964Z"
   },
   {
-    "job_id": "greenhouse-captivation-5196912008",
-    "job_title": "Cloud Software Engineer 2 - MapReduce/Hadoop/Linux/Java/AWS",
-    "employer_name": "Captivation",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Annapolis Junction, MD",
-    "job_apply_link": "https://job-boards.greenhouse.io/captivation/jobs/5196912008",
-    "job_posted_at_datetime_utc": "2026-04-29T17:50:41.963Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a579db0b8708cb0ed9abbc4d8161fac1fbcd305361b8efb2db211733b2caaafb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "c++",
-        "computer science",
-        "java",
-        "linux",
-        "mongodb",
-        "scala",
-        "unix",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T17:50:41.963Z"
-  },
-  {
     "job_id": "greenhouse-captivation-5196928008",
     "job_title": "Software Engineer 1 - Java/MapReduce/Cloud/GhostMachine/QTA",
     "employer_name": "Captivation",
@@ -72432,6 +72896,54 @@
         "computer science",
         "java",
         "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-29T17:50:41.963Z"
+  },
+  {
+    "job_id": "greenhouse-captivation-5196912008",
+    "job_title": "Cloud Software Engineer 2 - MapReduce/Hadoop/Linux/Java/AWS",
+    "employer_name": "Captivation",
+    "job_city": "Annapolis Junction",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Annapolis Junction, MD",
+    "job_apply_link": "https://job-boards.greenhouse.io/captivation/jobs/5196912008",
+    "job_posted_at_datetime_utc": "2026-04-29T17:50:41.963Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a579db0b8708cb0ed9abbc4d8161fac1fbcd305361b8efb2db211733b2caaafb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "c++",
+        "computer science",
+        "java",
+        "linux",
+        "mongodb",
+        "scala",
+        "unix",
+        "windows"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -72756,7 +73268,7 @@
     "job_location": "Reston, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556756089",
     "job_posted_at_datetime_utc": "2026-04-29T17:16:30.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "d83bfdb0642cf29b2b2a9c1730b7b96f30d065269efaf5c6a12009415d407e76",
     "tags": {
@@ -77351,90 +77863,6 @@
     "job_posted_at": "2026-04-29T07:02:08.718Z"
   },
   {
-    "job_id": "workday-adobe-R165705",
-    "job_title": "Technical Program Manager - Demo Strategy - Martech",
-    "employer_name": "Adobe",
-    "job_city": "Lehi",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Lehi + 5 more",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Sr-Demo-Strategist--Customer-Journey-Management--CJM-_R165705",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:03.859Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3a5e21c2ac42bec4c6c876e1a4c9f9bf9a812c1168dd4962c902e8033174201a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "computer science",
-        "express",
-        "marketo",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T07:02:03.859Z"
-  },
-  {
-    "job_id": "workday-adobe-R168200",
-    "job_title": "Group Manager, Customer Engineering (Technical Support)",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Group-Manager--Customer-Engineering--Technical-Support-_R168200",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:03.859Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4fdc1057d6e91bbc70de80f59fa352a7556d10d2e3129da8956461271853903",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "express"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T07:02:03.859Z"
-  },
-  {
     "job_id": "workday-adobe-R168383",
     "job_title": "Fullstack Software Development Engineer 4",
     "employer_name": "Adobe",
@@ -77537,6 +77965,90 @@
         "react",
         "typescript",
         "vue"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-29T07:02:03.859Z"
+  },
+  {
+    "job_id": "workday-adobe-R165705",
+    "job_title": "Technical Program Manager - Demo Strategy - Martech",
+    "employer_name": "Adobe",
+    "job_city": "Lehi",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Lehi + 5 more",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Sr-Demo-Strategist--Customer-Journey-Management--CJM-_R165705",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:03.859Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3a5e21c2ac42bec4c6c876e1a4c9f9bf9a812c1168dd4962c902e8033174201a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "computer science",
+        "express",
+        "marketo",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-29T07:02:03.859Z"
+  },
+  {
+    "job_id": "workday-adobe-R168200",
+    "job_title": "Group Manager, Customer Engineering (Technical Support)",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Group-Manager--Customer-Engineering--Technical-Support-_R168200",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:03.859Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4fdc1057d6e91bbc70de80f59fa352a7556d10d2e3129da8956461271853903",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "express"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -78109,6 +78621,44 @@
     "job_posted_at": "2026-04-29T07:01:40.636Z"
   },
   {
+    "job_id": "workday-northrop-grumman-R10230996",
+    "job_title": "Vehicle Management Systems Engineer (Level 2/3)",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Florida-Melbourne",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Florida-Melbourne",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Vehicle-Management-Systems-Engineer--Level-2-3-_R10230996",
+    "job_posted_at_datetime_utc": "2026-04-29T07:01:36.249Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3b7c68083807411402f42acb7d2a99fbaf2ea7a6a89b8c8008c3bac650f7b719",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-29T07:01:36.249Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10220383",
     "job_title": "Engineer Software - UI Developer (Melbourne FL)",
     "employer_name": "Northrop Grumman",
@@ -78251,44 +78801,6 @@
         "unix",
         "windows"
       ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T07:01:36.249Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10230996",
-    "job_title": "Vehicle Management Systems Engineer (Level 2/3)",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Florida-Melbourne",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Florida-Melbourne",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Vehicle-Management-Systems-Engineer--Level-2-3-_R10230996",
-    "job_posted_at_datetime_utc": "2026-04-29T07:01:36.249Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3b7c68083807411402f42acb7d2a99fbaf2ea7a6a89b8c8008c3bac650f7b719",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -80821,49 +81333,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-29T05:27:15.825Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8527730002",
-    "job_title": "Site Reliability Engineer, GNC",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8527730002?gh_jid=8527730002",
-    "job_posted_at_datetime_utc": "2026-04-29T05:08:43.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da3e76aa3ee7d3a2d8ecd125b86adbb21999b56c5eed4a1f293fd7790a86609e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "devops",
-        "linux",
-        "python"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T05:08:43.000Z"
   }
 ]
