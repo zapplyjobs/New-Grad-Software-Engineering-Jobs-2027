@@ -27,6 +27,18 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "do-254",
+        "mil-std"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-07T17:10:48.000Z"
   },
   {
@@ -622,7 +634,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863365",
     "job_posted_at_datetime_utc": "2026-05-07T15:07:10.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "d5d6945ebeacb6ee90628c9ca210bc2b444c4a26bdef87f861c9263f66f92688",
     "tags": {
@@ -4263,7 +4275,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556652525",
     "job_posted_at_datetime_utc": "2026-05-06T13:54:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7fc63e40901d9dac3d79000702050e338e7c530d008c98ca2a3a378e5d3ce3eb",
     "tags": {
@@ -4310,7 +4322,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556652519",
     "job_posted_at_datetime_utc": "2026-05-06T13:53:57.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "6ccb150c90f21a44e14f927886fbc14c5420ee63904b73781fae753d9a68bd4b",
     "tags": {
@@ -4518,6 +4530,45 @@
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
+    "job_id": "simplify-599f97cc-04c3-4877-aada-a1a6bbfdf8a6",
+    "job_title": "Systems Engineering Simulator - Integrated Studies Team Member - Software Developer",
+    "employer_name": "Amentum",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CLW",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "57196588e563a0befd69dc8fe5d7dd803aa999e5febabd89842504806db2f39b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "retail"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
     "job_id": "simplify-da9ebba4-018d-46ea-9750-8427ff5812c4",
     "job_title": "Associate – Software Engineer",
     "employer_name": "L3Harris Technologies",
@@ -4670,24 +4721,23 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-599f97cc-04c3-4877-aada-a1a6bbfdf8a6",
-    "job_title": "Systems Engineering Simulator - Integrated Studies Team Member - Software Developer",
-    "employer_name": "Amentum",
-    "job_city": "United States",
-    "job_state": "",
+    "job_id": "simplify-6770055a-7548-4e7b-bd26-7cda7d1b59b8",
+    "job_title": "Associate Software Engineer in Test",
+    "employer_name": "Veeva Systems",
+    "job_city": "Pleasanton",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CLW",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_location": "Pleasanton, CA",
+    "job_apply_link": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "57196588e563a0befd69dc8fe5d7dd803aa999e5febabd89842504806db2f39b",
+    "fingerprint": "f93504b57f36f29ce7f0a43c896fad0819b3eb1335711a6c27b1c1146d938b40",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "software",
-        "retail"
+        "software"
       ],
       "locations": [
         "us"
@@ -4706,7 +4756,7 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
     "job_id": "simplify-12494fd5-2be1-4d6f-a757-727e5512be1d",
@@ -5051,7 +5101,7 @@
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
-    "job_id": "simplify-6770055a-7548-4e7b-bd26-7cda7d1b59b8",
+    "job_id": "simplify-48260c39-95f0-487f-a9f5-4dd9b45ac1d0",
     "job_title": "Associate Software Engineer in Test",
     "employer_name": "Veeva Systems",
     "job_city": "Pleasanton",
@@ -5059,8 +5109,8 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Pleasanton, CA",
-    "job_apply_link": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_apply_link": "https://jobs.lever.co/veeva/452d7860-6d5f-45e0-bc00-6a2e8852698d/apply",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.569Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f93504b57f36f29ce7f0a43c896fad0819b3eb1335711a6c27b1c1146d938b40",
@@ -5086,7 +5136,7 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
+    "job_posted_at": "2026-05-06T11:31:20.569Z"
   },
   {
     "job_id": "simplify-be56e076-3f0f-4008-84c3-66566e20b1de",
@@ -5254,44 +5304,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "106ed8bf317e713d2647d30925b3a37acf472459607a87a6ee1104b4764c094c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.569Z"
-  },
-  {
-    "job_id": "simplify-48260c39-95f0-487f-a9f5-4dd9b45ac1d0",
-    "job_title": "Associate Software Engineer in Test",
-    "employer_name": "Veeva Systems",
-    "job_city": "Pleasanton",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Pleasanton, CA",
-    "job_apply_link": "https://jobs.lever.co/veeva/452d7860-6d5f-45e0-bc00-6a2e8852698d/apply",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.569Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f93504b57f36f29ce7f0a43c896fad0819b3eb1335711a6c27b1c1146d938b40",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8589,7 +8601,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863607",
     "job_posted_at_datetime_utc": "2026-05-05T21:09:09.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "6cd2311190be8ada2f05cb74ca14392e01bd19df94671a5396de5c787c4835d8",
     "tags": {
@@ -9660,7 +9672,7 @@
     "job_location": "Reston, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
     "job_posted_at_datetime_utc": "2026-05-05T20:24:23.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "f3b37d01979bc4c68ef044e3656dcfe7c1082be5fa88b90b622ced5c54b97156",
     "tags": {
@@ -14837,7 +14849,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862964",
     "job_posted_at_datetime_utc": "2026-05-05T16:10:18.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f7ab4217fb073a422a71451cb71142d64b6f8e9e8bacb0636f8abf04d1375e50",
     "tags": {
@@ -19197,6 +19209,335 @@
     "job_posted_at": "2026-05-05T11:17:48.744Z"
   },
   {
+    "job_id": "greenhouse-speechify-5974206004",
+    "job_title": "Software Engineer, Platform - Burlington, VT, USA",
+    "employer_name": "Speechify",
+    "job_city": "Burlington",
+    "job_state": "VT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Burlington, VT, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974206004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "19318d7291358aa9081f8f8ee078002a312949f2ba4e69db51e177a54abc897b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.743Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974233004",
+    "job_title": "Software Engineer, Platform - Charlotte, NC, USA",
+    "employer_name": "Speechify",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Charlotte, NC, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974233004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "76cc2990733ac216e00a066d8d9e46e90ba24c26e9e5760ac772aba15c668aa1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.743Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974163004",
+    "job_title": "Software Engineer, Platform - College Station, TX, USA",
+    "employer_name": "Speechify",
+    "job_city": "College Station",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "College Station, TX, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974163004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3198932b385840f6c7c9c637286191bda0172dc678fc0f26ca8709e9cced4fef",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.743Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974135004",
+    "job_title": "Software Engineer, Platform - Culver City, CA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Culver City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Culver City, CA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974135004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf1a358a88091178785cb8d09fd42cdbf52f5e7d3ff1b73d7925d3eaad409cd9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.743Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5976203004",
+    "job_title": "Software Engineer, Platform - Dallas, TX, USA",
+    "employer_name": "Speechify",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, TX, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976203004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2f53de5d507359c64623ed1d46b0e5c8c2c0fc621941ebd21cb5d0468b3a3416",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.743Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974172004",
+    "job_title": "Software Engineer, Platform - Denver, CO, USA",
+    "employer_name": "Speechify",
+    "job_city": "Denver",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Denver, CO, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974172004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "80d940fb7cb89068e2460607e7946bfb13e390c2ce59fdc568f901b4fd1c7122",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.743Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974155004",
+    "job_title": "Software Engineer, Platform - Frisco, TX, USA",
+    "employer_name": "Speechify",
+    "job_city": "Frisco",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Frisco, TX, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974155004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4fdfb6a8034e456a3f08bbf16d06438e2428495c547dc2e5d052013bcf772bb8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.743Z"
+  },
+  {
     "job_id": "greenhouse-speechify-5974244004",
     "job_title": "Software Engineer, Platform - Greensboro, NC, USA",
     "employer_name": "Speechify",
@@ -19667,335 +20008,6 @@
     "job_posted_at": "2026-05-05T11:17:48.743Z"
   },
   {
-    "job_id": "greenhouse-speechify-5974206004",
-    "job_title": "Software Engineer, Platform - Burlington, VT, USA",
-    "employer_name": "Speechify",
-    "job_city": "Burlington",
-    "job_state": "VT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Burlington, VT, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974206004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "19318d7291358aa9081f8f8ee078002a312949f2ba4e69db51e177a54abc897b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.743Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974233004",
-    "job_title": "Software Engineer, Platform - Charlotte, NC, USA",
-    "employer_name": "Speechify",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Charlotte, NC, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974233004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "76cc2990733ac216e00a066d8d9e46e90ba24c26e9e5760ac772aba15c668aa1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.743Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974163004",
-    "job_title": "Software Engineer, Platform - College Station, TX, USA",
-    "employer_name": "Speechify",
-    "job_city": "College Station",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "College Station, TX, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974163004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3198932b385840f6c7c9c637286191bda0172dc678fc0f26ca8709e9cced4fef",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.743Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974135004",
-    "job_title": "Software Engineer, Platform - Culver City, CA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Culver City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Culver City, CA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974135004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf1a358a88091178785cb8d09fd42cdbf52f5e7d3ff1b73d7925d3eaad409cd9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.743Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5976203004",
-    "job_title": "Software Engineer, Platform - Dallas, TX, USA",
-    "employer_name": "Speechify",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas, TX, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976203004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2f53de5d507359c64623ed1d46b0e5c8c2c0fc621941ebd21cb5d0468b3a3416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.743Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974172004",
-    "job_title": "Software Engineer, Platform - Denver, CO, USA",
-    "employer_name": "Speechify",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Denver, CO, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974172004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "80d940fb7cb89068e2460607e7946bfb13e390c2ce59fdc568f901b4fd1c7122",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.743Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974155004",
-    "job_title": "Software Engineer, Platform - Frisco, TX, USA",
-    "employer_name": "Speechify",
-    "job_city": "Frisco",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Frisco, TX, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974155004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4fdfb6a8034e456a3f08bbf16d06438e2428495c547dc2e5d052013bcf772bb8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.743Z"
-  },
-  {
     "job_id": "greenhouse-speechify-5975329004",
     "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tallahassee, FL, USA",
     "employer_name": "Speechify",
@@ -20092,300 +20104,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-05T11:17:48.742Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975203004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Kansas City, MO, USA",
-    "employer_name": "Speechify",
-    "job_city": "Kansas City",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Kansas City, MO, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975203004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc15d21b76490ff9220ce7772b964163a537733b964780fd4fd5d3bf5f4f2dcf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975377004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Knoxville, TN, USA",
-    "employer_name": "Speechify",
-    "job_city": "Knoxville",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Knoxville, TN, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975377004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a294c9330eeb1d686243d4631e1327d21a9cddb0c14df945be94214cff47d02",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975173004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Las Vegas, NV, USA",
-    "employer_name": "Speechify",
-    "job_city": "Las Vegas",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Las Vegas, NV, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975173004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2c38fef786eb88aa41a067f79f4f7ba08580f0ddd5f6a19903ed76f65fcde7b3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975179004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Minneapolis, MN, USA",
-    "employer_name": "Speechify",
-    "job_city": "Minneapolis",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Minneapolis, MN, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975179004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d096a704382f8c055fa654dc932db46b240315f0e604fe2eaf89a27805e58ac9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975122004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - New York, NY, USA",
-    "employer_name": "Speechify",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975122004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "feda4f69aa0b95964ab75fa8c0d2b128e5f78711a2caa880feab0bf368ddf48a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975150004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Portland, OR, USA",
-    "employer_name": "Speechify",
-    "job_city": "Portland",
-    "job_state": "OR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Portland, OR, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975150004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "59ecd85e9329950a4389afdec4b838a2ea324047f76bbf84098d725869e81915",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
   },
   {
     "job_id": "greenhouse-speechify-5975185004",
@@ -21136,6 +20854,300 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "aadc83b91d3681bd68eb306da76182c36af5b9c6b0d2052e8d28e9e7168b6265",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975203004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Kansas City, MO, USA",
+    "employer_name": "Speechify",
+    "job_city": "Kansas City",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Kansas City, MO, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975203004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cc15d21b76490ff9220ce7772b964163a537733b964780fd4fd5d3bf5f4f2dcf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975377004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Knoxville, TN, USA",
+    "employer_name": "Speechify",
+    "job_city": "Knoxville",
+    "job_state": "TN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Knoxville, TN, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975377004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a294c9330eeb1d686243d4631e1327d21a9cddb0c14df945be94214cff47d02",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975173004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Las Vegas, NV, USA",
+    "employer_name": "Speechify",
+    "job_city": "Las Vegas",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Las Vegas, NV, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975173004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2c38fef786eb88aa41a067f79f4f7ba08580f0ddd5f6a19903ed76f65fcde7b3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975179004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Minneapolis, MN, USA",
+    "employer_name": "Speechify",
+    "job_city": "Minneapolis",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Minneapolis, MN, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975179004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d096a704382f8c055fa654dc932db46b240315f0e604fe2eaf89a27805e58ac9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975122004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - New York, NY, USA",
+    "employer_name": "Speechify",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975122004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "feda4f69aa0b95964ab75fa8c0d2b128e5f78711a2caa880feab0bf368ddf48a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975150004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Portland, OR, USA",
+    "employer_name": "Speechify",
+    "job_city": "Portland",
+    "job_state": "OR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Portland, OR, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975150004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "59ecd85e9329950a4389afdec4b838a2ea324047f76bbf84098d725869e81915",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -34901,52 +34913,6 @@
     "job_posted_at": "2026-05-02T13:31:40.943Z"
   },
   {
-    "job_id": "ashby-openai-e9627fa6-ac76-4899-9a93-9251419e61a0",
-    "job_title": "Software Engineer, Kernel Performance & AI Tooling",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "San Francisco",
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/e9627fa6-ac76-4899-9a93-9251419e61a0/application",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:23.998Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "7bc8fa55264c60e827fb3fea440ab9bbd4cb3547a1feb9e80f535522bcb28f42",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "asana",
-        "observability",
-        "reinforcement learning",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
-    },
-    "job_posted_at": "2026-05-02T13:31:23.998Z"
-  },
-  {
     "job_id": "ashby-openai-550d0123-238c-4ad8-aaee-ea4a5a484639",
     "job_title": "GRC Program Manager, US Government Compliance",
     "employer_name": "OpenAI",
@@ -35084,6 +35050,52 @@
       "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:23.998Z"
+  },
+  {
+    "job_id": "ashby-openai-e9627fa6-ac76-4899-9a93-9251419e61a0",
+    "job_title": "Software Engineer, Kernel Performance & AI Tooling",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "San Francisco",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/e9627fa6-ac76-4899-9a93-9251419e61a0/application",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:23.998Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "7bc8fa55264c60e827fb3fea440ab9bbd4cb3547a1feb9e80f535522bcb28f42",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "asana",
+        "observability",
+        "reinforcement learning",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": true
     },
     "job_posted_at": "2026-05-02T13:31:23.998Z"
   },
@@ -35369,55 +35381,6 @@
     "job_posted_at": "2026-05-02T13:31:01.472Z"
   },
   {
-    "job_id": "greenhouse-twitch-8519628002",
-    "job_title": "Software Engineer I, Ad Supply Experiences",
-    "employer_name": "Twitch",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/twitch/jobs/8519628002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.389Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61c2b2b61a3970b3a8d0f2a6874758b30f8453984aefbbf49e5382d60a52971e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "marketing",
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "computer science",
-        "data modeling",
-        "dynamodb",
-        "golang",
-        "lambda",
-        "react",
-        "sqs",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:01.389Z"
-  },
-  {
     "job_id": "greenhouse-twitch-8517748002",
     "job_title": "AV & IT Support Engineer",
     "employer_name": "Twitch",
@@ -35461,6 +35424,55 @@
         "tcp/ip",
         "windows",
         "zoom"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:01.389Z"
+  },
+  {
+    "job_id": "greenhouse-twitch-8519628002",
+    "job_title": "Software Engineer I, Ad Supply Experiences",
+    "employer_name": "Twitch",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/twitch/jobs/8519628002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.389Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "61c2b2b61a3970b3a8d0f2a6874758b30f8453984aefbbf49e5382d60a52971e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "marketing",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "computer science",
+        "data modeling",
+        "dynamodb",
+        "golang",
+        "lambda",
+        "react",
+        "sqs",
+        "typescript"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -36313,6 +36325,476 @@
     "job_posted_at": "2026-05-02T13:30:59.818Z"
   },
   {
+    "job_id": "greenhouse-speechify-5974122004",
+    "job_title": "Software Engineer, Platform - Berkeley, CA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Berkeley",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Berkeley, CA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974122004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c7598cc262474ba35c376bcdcaa4d1cd45d2d4a67fca7567f646c9906008d7de",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974217004",
+    "job_title": "Software Engineer, Platform - Boston, MA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston, MA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974217004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2de366865f493d6ed1b1aedd731cab0c055739693e9cacd68f1093c0782c82ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974187004",
+    "job_title": "Software Engineer, Platform - Buffalo, NY, USA",
+    "employer_name": "Speechify",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Buffalo, NY, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974187004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "39c294310a1da209d1b86ca4ee810b262b8dff1e38209fd64c7e1ed308de4d3a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974219004",
+    "job_title": "Software Engineer, Platform - Cambridge, MA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cambridge, MA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974219004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9955b3960538b21e5983d3254ffd42341014865d50ab0d8f2ec29a68580038cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5976201004",
+    "job_title": "Software Engineer, Platform - Chicago, IL, USA",
+    "employer_name": "Speechify",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chicago, IL, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976201004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86d7d298503fd7af41db9c74d154248ce7738d03b45d5069aa9e1f173381074a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974195004",
+    "job_title": "Software Engineer, Platform - Cincinnati, OH, USA",
+    "employer_name": "Speechify",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cincinnati, OH, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974195004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7e99935066c92d242fa2e242b45c35b4b27260a144ba30b9322134d00c788c6d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974178004",
+    "job_title": "Software Engineer, Platform - Colorado Springs, CO, USA",
+    "employer_name": "Speechify",
+    "job_city": "Colorado Springs",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Colorado Springs, CO, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974178004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cc4029e539894834f2e9769c262ee60d217802132eca2ed9b196c6d4bc1232c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974213004",
+    "job_title": "Software Engineer, Platform - Des Moines, IA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Des Moines",
+    "job_state": "IA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Des Moines, IA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974213004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "71a67e319b00bcf7296b6084408bf039f70979e0a4452372310832ea2405513a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974173004",
+    "job_title": "Software Engineer, Platform - Evanston, IL, USA",
+    "employer_name": "Speechify",
+    "job_city": "Evanston",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Evanston, IL, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974173004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4043e73019365d9eebb240bced0822f81df68cdd98b1239a19cc9b5000bb82a3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974151004",
+    "job_title": "Software Engineer, Platform - Fort Worth, TX, USA",
+    "employer_name": "Speechify",
+    "job_city": "Fort Worth",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Worth, TX, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974151004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af786a7d2df4a9ac5f4df432dc094698df5432193943462e032a75a2d9c8dfbb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
     "job_id": "greenhouse-speechify-5974198004",
     "job_title": "Software Engineer, Platform - Hartford, CT, USA",
     "employer_name": "Speechify",
@@ -36951,611 +37433,6 @@
     "job_posted_at": "2026-05-02T13:30:59.817Z"
   },
   {
-    "job_id": "greenhouse-speechify-5974122004",
-    "job_title": "Software Engineer, Platform - Berkeley, CA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Berkeley",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Berkeley, CA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974122004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c7598cc262474ba35c376bcdcaa4d1cd45d2d4a67fca7567f646c9906008d7de",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974217004",
-    "job_title": "Software Engineer, Platform - Boston, MA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boston, MA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974217004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2de366865f493d6ed1b1aedd731cab0c055739693e9cacd68f1093c0782c82ed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974187004",
-    "job_title": "Software Engineer, Platform - Buffalo, NY, USA",
-    "employer_name": "Speechify",
-    "job_city": "Buffalo",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Buffalo, NY, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974187004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "39c294310a1da209d1b86ca4ee810b262b8dff1e38209fd64c7e1ed308de4d3a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974219004",
-    "job_title": "Software Engineer, Platform - Cambridge, MA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cambridge, MA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974219004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9955b3960538b21e5983d3254ffd42341014865d50ab0d8f2ec29a68580038cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5976201004",
-    "job_title": "Software Engineer, Platform - Chicago, IL, USA",
-    "employer_name": "Speechify",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, IL, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976201004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86d7d298503fd7af41db9c74d154248ce7738d03b45d5069aa9e1f173381074a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974195004",
-    "job_title": "Software Engineer, Platform - Cincinnati, OH, USA",
-    "employer_name": "Speechify",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cincinnati, OH, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974195004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7e99935066c92d242fa2e242b45c35b4b27260a144ba30b9322134d00c788c6d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974178004",
-    "job_title": "Software Engineer, Platform - Colorado Springs, CO, USA",
-    "employer_name": "Speechify",
-    "job_city": "Colorado Springs",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Colorado Springs, CO, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974178004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3cc4029e539894834f2e9769c262ee60d217802132eca2ed9b196c6d4bc1232c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974213004",
-    "job_title": "Software Engineer, Platform - Des Moines, IA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Des Moines",
-    "job_state": "IA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Des Moines, IA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974213004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "71a67e319b00bcf7296b6084408bf039f70979e0a4452372310832ea2405513a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974173004",
-    "job_title": "Software Engineer, Platform - Evanston, IL, USA",
-    "employer_name": "Speechify",
-    "job_city": "Evanston",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Evanston, IL, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974173004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4043e73019365d9eebb240bced0822f81df68cdd98b1239a19cc9b5000bb82a3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974151004",
-    "job_title": "Software Engineer, Platform - Fort Worth, TX, USA",
-    "employer_name": "Speechify",
-    "job_city": "Fort Worth",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Worth, TX, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974151004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af786a7d2df4a9ac5f4df432dc094698df5432193943462e032a75a2d9c8dfbb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5981220004",
-    "job_title": "Software Engineer, iOS Core Product - Iowa City, IA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Iowa City",
-    "job_state": "IA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Iowa City, IA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981220004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.816Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f1d8f23239465b603309b64e040dbea3d983c1f3d89d5420ee47b2bee281f5e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "git",
-        "multithreading",
-        "solid principles",
-        "swift",
-        "swiftui"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.816Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5981235004",
-    "job_title": "Software Engineer, iOS Core Product - Ithaca, NY, USA",
-    "employer_name": "Speechify",
-    "job_city": "Ithaca",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ithaca, NY, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981235004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.816Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "10a0d1e6c4085a73a9538ca3fe41b0a598de92315a904753a679e73e4d3cb3f3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "git",
-        "multithreading",
-        "solid principles",
-        "swift",
-        "swiftui"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.816Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5981077004",
-    "job_title": "Software Engineer, iOS Core Product - Charlotte, NC, USA",
-    "employer_name": "Speechify",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Charlotte, NC, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981077004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.816Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0d8272f33e8fefb08f0f78e84a14cd1566410810df91fd0ba5a9092088254717",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "git",
-        "multithreading",
-        "solid principles",
-        "swift",
-        "swiftui"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.816Z"
-  },
-  {
     "job_id": "greenhouse-speechify-5981069004",
     "job_title": "Software Engineer, iOS Core Product - College Park, MD, USA",
     "employer_name": "Speechify",
@@ -37736,6 +37613,186 @@
     "job_posted_at": "2026-05-02T13:30:59.816Z"
   },
   {
+    "job_id": "greenhouse-speechify-5981220004",
+    "job_title": "Software Engineer, iOS Core Product - Iowa City, IA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Iowa City",
+    "job_state": "IA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Iowa City, IA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981220004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.816Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f1d8f23239465b603309b64e040dbea3d983c1f3d89d5420ee47b2bee281f5e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "git",
+        "multithreading",
+        "solid principles",
+        "swift",
+        "swiftui"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.816Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5981235004",
+    "job_title": "Software Engineer, iOS Core Product - Ithaca, NY, USA",
+    "employer_name": "Speechify",
+    "job_city": "Ithaca",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ithaca, NY, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981235004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.816Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "10a0d1e6c4085a73a9538ca3fe41b0a598de92315a904753a679e73e4d3cb3f3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "git",
+        "multithreading",
+        "solid principles",
+        "swift",
+        "swiftui"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.816Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5981077004",
+    "job_title": "Software Engineer, iOS Core Product - Charlotte, NC, USA",
+    "employer_name": "Speechify",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Charlotte, NC, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981077004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.816Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0d8272f33e8fefb08f0f78e84a14cd1566410810df91fd0ba5a9092088254717",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "git",
+        "multithreading",
+        "solid principles",
+        "swift",
+        "swiftui"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.816Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5981089004",
+    "job_title": "Software Engineer, iOS Core Product - Cary, NC, USA",
+    "employer_name": "Speechify",
+    "job_city": "Cary",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cary, NC, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981089004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.811Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a71d39e0e857151cbcf6f46bd6fb86285463f7e726e06bbc2dd5f205011da608",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "git",
+        "multithreading",
+        "solid principles",
+        "swift",
+        "swiftui"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.811Z"
+  },
+  {
     "job_id": "greenhouse-speechify-5981035004",
     "job_title": "Software Engineer, iOS Core Product - Anaheim, CA, USA",
     "employer_name": "Speechify",
@@ -37839,51 +37896,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fa4f82c668c7611b8ca8a56e4af3b3aeec838917075af0843bf60001f24c0c91",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "git",
-        "multithreading",
-        "solid principles",
-        "swift",
-        "swiftui"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.811Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5981089004",
-    "job_title": "Software Engineer, iOS Core Product - Cary, NC, USA",
-    "employer_name": "Speechify",
-    "job_city": "Cary",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cary, NC, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981089004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.811Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a71d39e0e857151cbcf6f46bd6fb86285463f7e726e06bbc2dd5f205011da608",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -42661,7 +42673,7 @@
     "job_location": "Phoenix, Arizona, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863203",
     "job_posted_at_datetime_utc": "2026-05-01T18:45:09.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "86b9088d6d226a5ba24362da9801beea013a555ee65550b9af57ed4d7b383ad4",
     "tags": {
@@ -43888,6 +43900,103 @@
     "job_posted_at": "2026-05-01T14:34:10.515Z"
   },
   {
+    "job_id": "greenhouse-roku-7555263",
+    "job_title": "Software Engineer, Machine Learning",
+    "employer_name": "Roku",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7555263?gh_jid=7555263",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f99bf1db9c5b82e46a175fd2861bdb667a6cc3fa05ce1fb94c5e4c5a1e35851d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "deep learning",
+        "firmware",
+        "machine learning",
+        "python",
+        "pytorch",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7735560",
+    "job_title": "Technical Program Manager, Voice",
+    "employer_name": "Roku",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, Texas",
+    "job_apply_link": "https://www.weareroku.com/jobs/7735560?gh_jid=7735560",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "380fb988c922c12d824997689bd4087308ef80c661584d808206da198606e265",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "analytics",
+        "computer science",
+        "genai",
+        "machine learning",
+        "program management",
+        "reporting",
+        "risk management",
+        "stakeholder management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
     "job_id": "greenhouse-roku-7634294",
     "job_title": "Security Engineer",
     "employer_name": "Roku",
@@ -44028,103 +44137,6 @@
         "react",
         "react native",
         "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7555263",
-    "job_title": "Software Engineer, Machine Learning",
-    "employer_name": "Roku",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7555263?gh_jid=7555263",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f99bf1db9c5b82e46a175fd2861bdb667a6cc3fa05ce1fb94c5e4c5a1e35851d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "deep learning",
-        "firmware",
-        "machine learning",
-        "python",
-        "pytorch",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7735560",
-    "job_title": "Technical Program Manager, Voice",
-    "employer_name": "Roku",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, Texas",
-    "job_apply_link": "https://www.weareroku.com/jobs/7735560?gh_jid=7735560",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "380fb988c922c12d824997689bd4087308ef80c661584d808206da198606e265",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "analytics",
-        "computer science",
-        "genai",
-        "machine learning",
-        "program management",
-        "reporting",
-        "risk management",
-        "stakeholder management"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -51230,7 +51242,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556859432",
     "job_posted_at_datetime_utc": "2026-05-01T05:16:59.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e214a21354f38a3ca191f39f3f9a411dbbdac06c3ee82b3b87f8957d465d2b6f",
     "tags": {
@@ -54869,314 +54881,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-30T17:47:18.877Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R64063",
-    "job_title": "Technical Project Manager",
-    "employer_name": "Blue Origin",
-    "job_city": "Space Coast",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Space Coast, FL",
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technical-Project-Manager_R64063",
-    "job_posted_at_datetime_utc": "2026-04-30T17:43:51.857Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af5d8337e9130a996d2c221f77476dd13fa2a41b72e9c3eed2a069854551baf8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "project management",
-        "reporting",
-        "stakeholder management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T17:43:51.857Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R64061",
-    "job_title": "Technical Program Manager",
-    "employer_name": "Blue Origin",
-    "job_city": "Space Coast",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Space Coast, FL",
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technical-Program-Manager_R64061",
-    "job_posted_at_datetime_utc": "2026-04-30T17:43:51.857Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ae0de0f3a70da57ec237997552c915c6eb00fae7555aae9bd9dbabbba0a04572",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "erp",
-        "forecasting",
-        "mes",
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T17:43:51.857Z"
-  },
-  {
-    "job_id": "greenhouse-xai-5119111007",
-    "job_title": "Backend Engineer - API",
-    "employer_name": "xAI",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Palo Alto, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/xai/jobs/5119111007",
-    "job_posted_at_datetime_utc": "2026-04-30T17:43:29.439Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d13a741ded6af9d5597558807f67750f5f9cde239f8aa51ff60bbcf8645f2d2d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "clickhouse",
-        "distributed systems",
-        "mongodb",
-        "observability",
-        "postgresql",
-        "rust"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T17:43:29.439Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4673197006",
-    "job_title": "Product Developer - Cookware",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Needham, MA, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4673197006",
-    "job_posted_at_datetime_utc": "2026-04-30T17:43:25.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "08bfd4e774f347cb6c3d9bb41c345e09f83054b04576d21ab632f2c1764ce2ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "program management",
-        "visio"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T17:43:25.715Z"
-  },
-  {
-    "job_id": "greenhouse-appliedintuition-4685486005",
-    "job_title": "Pipeline Technical Artist",
-    "employer_name": "Applied Intuition",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/appliedintuition/jobs/4685486005?gh_jid=4685486005",
-    "job_posted_at_datetime_utc": "2026-04-30T17:43:07.452Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cd50132215801ebeb26255802ff88960e4064f11d8aeba9063d2c94fb0028ae5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cfr"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T17:43:07.452Z"
-  },
-  {
-    "job_id": "apple-200660835",
-    "job_title": "Technical Product Manager - Services Pricing Platform",
-    "employer_name": "Apple",
-    "job_city": "Cupertino",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200660835/technical-product-manager-services-pricing-platform",
-    "job_posted_at_datetime_utc": "2026-04-30T17:36:02.839Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6b31930506cd86b6b486618277f54efa350fd7aa3fd0539a4e034d6087ef999",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T17:36:02.839Z"
-  },
-  {
-    "job_id": "greenhouse-databricks-8439172002",
-    "job_title": "Sr. ISV & Partner Solutions Architect",
-    "employer_name": "Databricks",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439172002",
-    "job_posted_at_datetime_utc": "2026-04-30T17:34:10.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b3ba22c864ef1e55fd9d4e76ba168980724e4eae28a22a756029962d4439314d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "unicorn"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "apache",
-        "apache spark",
-        "aws",
-        "azure",
-        "data science",
-        "databricks",
-        "excel",
-        "genai",
-        "machine learning",
-        "mlflow",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T17:34:10.000Z"
   }
 ]
