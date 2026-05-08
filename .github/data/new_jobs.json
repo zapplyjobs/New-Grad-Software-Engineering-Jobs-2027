@@ -46969,52 +46969,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-01T18:58:40.000Z"
-  },
-  {
-    "job_id": "microsoft-200036520",
-    "job_title": "Data Center Technician",
-    "employer_name": "Microsoft",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Phoenix, Arizona, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863203",
-    "job_posted_at_datetime_utc": "2026-05-01T18:45:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86b9088d6d226a5ba24362da9801beea013a555ee65550b9af57ed4d7b383ad4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "enrichment": {
-      "required_skills": [
-        "azure",
-        "cadence",
-        "dashboards",
-        "hazard analysis",
-        "microsoft azure",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T18:45:09.000Z"
   }
 ]
