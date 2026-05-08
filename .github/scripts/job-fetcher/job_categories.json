@@ -129,6 +129,45 @@
       "~rtos"
     ]
   },
+  "systems_infrastructure": {
+    "title": "Systems & Network Engineering",
+    "emoji": "\ud83d\udcbb",
+    "keywords": [
+      "systems engineer",
+      "linux engineer",
+      "network engineer",
+      "data center",
+      "it systems",
+      "it support",
+      "systems administrator",
+      "database administrator"
+    ]
+  },
+  "solutions_presales": {
+    "title": "Solutions & Pre-Sales",
+    "emoji": "\ud83d\udca1",
+    "keywords": [
+      "solutions architect",
+      "solutions engineer",
+      "solution architect",
+      "solution engineer",
+      "deployment strategist",
+      "implementation consultant",
+      "presales",
+      "pre-sales",
+      "sales engineer"
+    ]
+  },
+  "technical_pm": {
+    "title": "Technical Program Management",
+    "emoji": "\ud83d\udccb",
+    "keywords": [
+      "technical program manager",
+      "technical project manager",
+      "scrum master",
+      "technical program"
+    ]
+  },
   "backend": {
     "title": "Software Engineering",
     "emoji": "\ud83d\udcbb",
