@@ -2404,13 +2404,13 @@
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 17
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T21:39:54.000Z"
   },
@@ -8559,7 +8559,7 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "mid_level",
       "question_count": 17
     },
     "job_posted_at": "2026-05-08T19:23:10.000Z"
@@ -9888,51 +9888,6 @@
     "job_posted_at": "2026-05-08T16:03:00.000Z"
   },
   {
-    "job_id": "google-124572938656457414",
-    "job_title": "Software Engineer I, Mobile (Android), Gmail",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124572938656457414",
-    "job_posted_at_datetime_utc": "2026-05-08T16:02:34.153Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c541da6d8b3dad2c57e681ce78d2c81275825fe05a4409e60f4926be58bb945",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T16:02:34.153Z"
-  },
-  {
     "job_id": "google-80834366103528134",
     "job_title": "Software Engineer, Generative AI, Geo Consumer",
     "employer_name": "Google",
@@ -9967,6 +9922,51 @@
       "required_skills": [
         "genai"
       ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T16:02:34.153Z"
+  },
+  {
+    "job_id": "google-124572938656457414",
+    "job_title": "Software Engineer I, Mobile (Android), Gmail",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124572938656457414",
+    "job_posted_at_datetime_utc": "2026-05-08T16:02:34.153Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c541da6d8b3dad2c57e681ce78d2c81275825fe05a4409e60f4926be58bb945",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
@@ -10222,6 +10222,7 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
+        "agile",
         "api",
         "argocd",
         "aws",
@@ -10245,7 +10246,10 @@
         "scala",
         "testng"
       ],
-      "nice_to_have_skills": [],
+      "nice_to_have_skills": [
+        "machine learning",
+        "ray"
+      ],
       "sponsors_visa": null,
       "possible_sponsor": null,
       "visa_question_present": true,
@@ -10478,13 +10482,13 @@
       ],
       "sponsors_visa": null,
       "possible_sponsor": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 18
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T15:01:14.000Z"
   },
@@ -10688,7 +10692,7 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "senior",
       "question_count": 16
     },
     "job_posted_at": "2026-05-08T14:46:59.702Z"
@@ -10887,6 +10891,54 @@
     "job_posted_at": "2026-05-08T14:16:16.858Z"
   },
   {
+    "job_id": "google-112930965944181446",
+    "job_title": "Hardware Design and Integration Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112930965944181446",
+    "job_posted_at_datetime_utc": "2026-05-08T13:02:28.729Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4efe28d6e50d542eb5b590064e21f8370e1e76c471dc061a29de047acdc72e1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "systemverilog"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T13:02:28.729Z"
+  },
+  {
     "job_id": "google-74786708553376454",
     "job_title": "Forward Deployed Engineer, Generative AI, Telecommunications, Google Cloud",
     "employer_name": "Google",
@@ -10921,54 +10973,6 @@
       "required_skills": [
         "agentic",
         "mcp"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T13:02:28.729Z"
-  },
-  {
-    "job_id": "google-112930965944181446",
-    "job_title": "Hardware Design and Integration Engineer",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112930965944181446",
-    "job_posted_at_datetime_utc": "2026-05-08T13:02:28.729Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4efe28d6e50d542eb5b590064e21f8370e1e76c471dc061a29de047acdc72e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "systemverilog"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -11060,17 +11064,24 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [],
+      "required_skills": [
+        "distributed systems",
+        "go",
+        "java",
+        "python",
+        "scalability",
+        "spark"
+      ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
-      "visa_question_present": false,
+      "visa_question_present": true,
       "is_simple_apply": false,
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null
+      "question_count": 20
     },
     "job_posted_at": "2026-05-08T06:46:59.000Z"
   },
@@ -11216,7 +11227,7 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "associates",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "senior",
       "question_count": null
     },
     "job_posted_at": "2026-05-08T02:04:09.000Z"
@@ -11731,69 +11742,19 @@
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-c44f66c3-015a-4152-8e26-f7f6cfad6ce3",
-    "job_title": "Software Development Engineer, Traffic Engineering",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414986/software-development-engineer-traffic-engineering",
-    "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "761f247df6d6e3e247ef1023095a1e2cf89834ad8ca30d0f9428207167f20176",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "design patterns"
-      ],
-      "nice_to_have_skills": [
-        "computer science"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-40b1373c-3cd6-4d9e-9bf0-6f4ac33aabd4",
-    "job_title": "Software Development Engineer, Amazon Fuse",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
+    "job_id": "amazon-9fa5544b-e99b-4097-afbf-d076902778d4",
+    "job_title": "Software Development Engineer, Leo Autopilot",
+    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
+    "job_city": "Redmond",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414407/software-development-engineer-amazon-fuse",
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414450/software-development-engineer-leo-autopilot",
     "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ca3cbc6dd586f8220eb49bf0eb95f82543851750436b28f68c6620f94809ba26",
+    "fingerprint": "4ce7e62731665efd48cda859c732c20f465d1c1e12af8122e321166d70b571d5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11886,19 +11847,69 @@
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-9fa5544b-e99b-4097-afbf-d076902778d4",
-    "job_title": "Software Development Engineer, Leo Autopilot",
-    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
-    "job_city": "Redmond",
-    "job_state": "WA",
+    "job_id": "amazon-c44f66c3-015a-4152-8e26-f7f6cfad6ce3",
+    "job_title": "Software Development Engineer, Traffic Engineering",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414450/software-development-engineer-leo-autopilot",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414986/software-development-engineer-traffic-engineering",
     "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4ce7e62731665efd48cda859c732c20f465d1c1e12af8122e321166d70b571d5",
+    "fingerprint": "761f247df6d6e3e247ef1023095a1e2cf89834ad8ca30d0f9428207167f20176",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "design patterns"
+      ],
+      "nice_to_have_skills": [
+        "computer science"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-40b1373c-3cd6-4d9e-9bf0-6f4ac33aabd4",
+    "job_title": "Software Development Engineer, Amazon Fuse",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414407/software-development-engineer-amazon-fuse",
+    "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ca3cbc6dd586f8220eb49bf0eb95f82543851750436b28f68c6620f94809ba26",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -13542,7 +13553,7 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "mid_level",
       "question_count": 9
     },
     "job_posted_at": "2026-05-07T18:46:49.819Z"
@@ -23321,6 +23332,57 @@
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-0ac3c51b-36d4-4cc6-b77b-d4dd9f16ff57",
+    "job_title": "Software Development Engineer, Amazon Publisher Services",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Palo Alto, CA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10413594/software-development-engineer-amazon-publisher-services",
+    "job_posted_at_datetime_utc": "2026-05-07T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ff9e986e1dcf2837425f675955b3f1c0bbd386f76ac0fea2dc0199a99fead7c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "design patterns"
+      ],
+      "nice_to_have_skills": [
+        "computer science",
+        "palo alto"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-b67b1a48-8dc0-4461-9dea-cd5a75163bdc",
     "job_title": "Systems Automation Engineer, Data Center Availability Team",
     "employer_name": "Amazon Data Services, Inc.",
@@ -23851,57 +23913,6 @@
     "enrichment": {
       "required_skills": [],
       "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-0ac3c51b-36d4-4cc6-b77b-d4dd9f16ff57",
-    "job_title": "Software Development Engineer, Amazon Publisher Services",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Palo Alto, CA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10413594/software-development-engineer-amazon-publisher-services",
-    "job_posted_at_datetime_utc": "2026-05-07T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ff9e986e1dcf2837425f675955b3f1c0bbd386f76ac0fea2dc0199a99fead7c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "design patterns"
-      ],
-      "nice_to_have_skills": [
-        "computer science",
-        "palo alto"
-      ],
       "sponsors_visa": null,
       "possible_sponsor": true,
       "visa_question_present": false,
@@ -27250,6 +27261,49 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
+    "job_id": "simplify-12494fd5-2be1-4d6f-a757-727e5512be1d",
+    "job_title": "Data Management Associate",
+    "employer_name": "JP Morgan Chase",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706739",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4f0f6bacb82409a7931df7df95d8c14e4e981e380c38722abc8348d6712b26f7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
     "job_id": "simplify-075deebf-1ba2-4fcd-a41a-7b52723edf97",
     "job_title": "Database Engineer - Associate",
     "employer_name": "Peraton",
@@ -27545,49 +27599,6 @@
       "is_remote": false,
       "has_description": false,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-12494fd5-2be1-4d6f-a757-727e5512be1d",
-    "job_title": "Data Management Associate",
-    "employer_name": "JP Morgan Chase",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706739",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4f0f6bacb82409a7931df7df95d8c14e4e981e380c38722abc8348d6712b26f7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null
     },
@@ -42017,51 +42028,6 @@
     "job_posted_at": "2026-05-05T11:18:30.550Z"
   },
   {
-    "job_id": "google-115504012131738310",
-    "job_title": "Software Engineer, Gemini Enterprise Mobile, iOS",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115504012131738310",
-    "job_posted_at_datetime_utc": "2026-05-05T11:18:30.549Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ef1a5554e7dc11747725cae29b1a47809c99a975dcf39638fe3969716b6836e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T11:18:30.549Z"
-  },
-  {
     "job_id": "google-92701240483291846",
     "job_title": "Software Engineer, Security, Chrome Product Security",
     "employer_name": "Google",
@@ -42097,6 +42063,51 @@
         "data analysis",
         "reporting"
       ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T11:18:30.549Z"
+  },
+  {
+    "job_id": "google-115504012131738310",
+    "job_title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115504012131738310",
+    "job_posted_at_datetime_utc": "2026-05-05T11:18:30.549Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ef1a5554e7dc11747725cae29b1a47809c99a975dcf39638fe3969716b6836e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
@@ -42536,6 +42547,58 @@
       "question_count": 11
     },
     "job_posted_at": "2026-05-05T11:17:48.744Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974185004",
+    "job_title": "Software Engineer, Platform - Albuquerque, NM, USA",
+    "employer_name": "Speechify",
+    "job_city": "Albuquerque",
+    "job_state": "NM",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Albuquerque, NM, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974185004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b1c0e2cd22057c7a924d57fc288c7d1036aee842b9b3bcf50f5b997c838208b4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
+    "job_posted_at": "2026-05-05T11:17:48.743Z"
   },
   {
     "job_id": "greenhouse-speechify-5974189004",
@@ -43370,112 +43433,6 @@
     "job_posted_at": "2026-05-05T11:17:48.743Z"
   },
   {
-    "job_id": "greenhouse-speechify-5974185004",
-    "job_title": "Software Engineer, Platform - Albuquerque, NM, USA",
-    "employer_name": "Speechify",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Albuquerque, NM, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974185004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b1c0e2cd22057c7a924d57fc288c7d1036aee842b9b3bcf50f5b997c838208b4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "phd",
-      "experience_level_from_desc": null,
-      "question_count": 11
-    },
-    "job_posted_at": "2026-05-05T11:17:48.743Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975161004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tempe, AZ, USA",
-    "employer_name": "Speechify",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, AZ, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975161004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b102d8d87056bc1696b2d6085bc74cc5a64a6d5559201d6965ccc1376cfc4a83",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 11
-    },
-    "job_posted_at": "2026-05-05T11:17:48.742Z"
-  },
-  {
     "job_id": "greenhouse-speechify-5975329004",
     "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tallahassee, FL, USA",
     "employer_name": "Speechify",
@@ -43530,19 +43487,19 @@
     "job_posted_at": "2026-05-05T11:17:48.742Z"
   },
   {
-    "job_id": "greenhouse-speechify-5976287004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Atlanta, GA, USA",
+    "job_id": "greenhouse-speechify-5975161004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Tempe, AZ, USA",
     "employer_name": "Speechify",
-    "job_city": "Atlanta",
-    "job_state": "GA",
+    "job_city": "Tempe",
+    "job_state": "AZ",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Atlanta, GA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976287004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_location": "Tempe, AZ, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975161004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.742Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0c7ff84d10dbb3333a3b29ffdf66043afaa1c52f241b64642199b94c72847663",
+    "fingerprint": "b102d8d87056bc1696b2d6085bc74cc5a64a6d5559201d6965ccc1376cfc4a83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -43581,115 +43538,7 @@
       "experience_level_from_desc": null,
       "question_count": 11
     },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5976293004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Austin, TX, USA",
-    "employer_name": "Speechify",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, TX, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976293004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4ca5b2f857cd8d1d1eb2be5acf5e521d9f8e711cb0e2021bab3a5f1ec080442e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 11
-    },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5975280004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Bakersfield, CA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Bakersfield",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bakersfield, CA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975280004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c42a4d363004695a2a7686ab181813b4c1daca540fcd4d277346edf83bd313e5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 11
-    },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
+    "job_posted_at": "2026-05-05T11:17:48.742Z"
   },
   {
     "job_id": "greenhouse-speechify-5975317004",
@@ -44677,6 +44526,168 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4c426077c9a223a2733240568dd86b3d603634cd6eea782c3e48ec084d40f7c0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5976287004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Atlanta, GA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976287004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c7ff84d10dbb3333a3b29ffdf66043afaa1c52f241b64642199b94c72847663",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5976293004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Austin, TX, USA",
+    "employer_name": "Speechify",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5976293004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4ca5b2f857cd8d1d1eb2be5acf5e521d9f8e711cb0e2021bab3a5f1ec080442e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975280004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - Bakersfield, CA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Bakersfield",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bakersfield, CA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975280004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c42a4d363004695a2a7686ab181813b4c1daca540fcd4d277346edf83bd313e5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -53773,59 +53784,6 @@
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-dc42fdfd-f859-4845-b38e-1d7f1ddbdde8",
-    "job_title": "Software Development Engineer, Internet Monitoring",
-    "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Clara, CA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411819/software-development-engineer-internet-monitoring",
-    "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bb28b604299f119d843ada365ab9549aad310a59eb6df60d278f6ba2d0111c5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "design patterns",
-        "java"
-      ],
-      "nice_to_have_skills": [
-        "computer science"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-f96ee403-3cec-4ea9-92e1-6cdb32bc5174",
     "job_title": "Software Development Engineer, Amazon Cognito",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -53967,6 +53925,59 @@
         "linux",
         "ubuntu",
         "windows"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-dc42fdfd-f859-4845-b38e-1d7f1ddbdde8",
+    "job_title": "Software Development Engineer, Internet Monitoring",
+    "employer_name": "Amazon Data Services, Inc.",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411819/software-development-engineer-internet-monitoring",
+    "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bb28b604299f119d843ada365ab9549aad310a59eb6df60d278f6ba2d0111c5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c#",
+        "c++",
+        "design patterns",
+        "java"
+      ],
+      "nice_to_have_skills": [
+        "computer science"
       ],
       "sponsors_visa": null,
       "possible_sponsor": true,
@@ -65284,6 +65295,39 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-8baf7245-4bc0-408d-86d1-eb8af44bd76e",
+    "job_title": "Software Development Engineer, Integrated Vehicle Testing",
+    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410522/software-development-engineer-integrated-vehicle-testing",
+    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2a17708d1f8c17fd6a3d9780cca43233f4e4a49f8920561eb967ddfb100e1a4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-b8f440b6-ccb7-4f4b-8ff4-a5565a4995c4",
     "job_title": "Project Engineer, AMER Data Center Preconstruction",
     "employer_name": "Amazon Data Services, Inc.",
@@ -65818,55 +65862,6 @@
     "job_posted_at": "2026-05-03T16:00:00.000Z"
   },
   {
-    "job_id": "apple-200606475",
-    "job_title": "Hardware Engineering Internships",
-    "employer_name": "Apple",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200606475/hardware-engineering-internships",
-    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "21cc69ba6ddae8c61bacd686999450ad2b8e093d285353f72f4c2d8e593e9ac4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "system design"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-03T13:38:58.097Z"
-  },
-  {
     "job_id": "apple-200606145",
     "job_title": "Software Engineering Internships",
     "employer_name": "Apple",
@@ -65910,6 +65905,55 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-03T13:38:58.097Z"
+  },
+  {
+    "job_id": "apple-200606475",
+    "job_title": "Hardware Engineering Internships",
+    "employer_name": "Apple",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200606475/hardware-engineering-internships",
+    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "21cc69ba6ddae8c61bacd686999450ad2b8e093d285353f72f4c2d8e593e9ac4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null
     },
