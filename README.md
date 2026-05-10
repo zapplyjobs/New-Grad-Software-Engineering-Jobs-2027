@@ -390,7 +390,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Model Based Systems Engineer | China Lake, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/China-Lake-CA/Model-Based-Systems-Engineer_R0239355) |
 | 🏢 **Blue Origin** | New Glenn Avionics Systems Engineer | Greater Seattle A... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Glenn-Avionics-Systems-Engineer_R60608-1) |
 | 🏢 **MatX** | Build Systems Engineer (Bazel) | Mountain View, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/matx/jobs/5214580008) |
-| 🏢 **AMD** | PMTS Network Engineer | San Jose, CA, Uni... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85342/login) |
+| 🏢 **AMD** | PMTS Network Engineer | San Jose, CA, Uni... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85342/login) |
 | 🏢 **Microsoft** | Data Center Technician | Chicago, Illinois... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556864753) |
 | 🏢 **Leidos** | Systems Engineer | Oklahoma City, OK | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Systems-Engineer_R-00182837) |
 | 🏢 **KLA** | High Performance Computing Hardware / Systems Engineer | Ann Arbor, MI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/High-Performance-Computing-Hardware---Systems-Engineer_2636308-1) |
@@ -547,7 +547,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Google** | Customer Engineer, Google Cloud Platform | United States | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/109352845869753030) |
-| 🏢 **Handshake** | Software Engineer, Agentic Infrastructure | San Francisco, CA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/handshake/750185eb-d575-430a-93ad-51b7e83a5581/application) |
+| 🏢 **Handshake** | Software Engineer, Agentic Infrastructure | San Francisco, CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/handshake/750185eb-d575-430a-93ad-51b7e83a5581/application) |
 | 🏢 **Sigma Computing** | Technical Support Engineer | New York City, NY | 15h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714504003) |
 | 🏢 **Sigma Computing** | Technical Support Engineer | San Francisco, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714505003) |
 | 🏢 **Neuralink** | Software Engineer, Agentic AI | Austin, Texas, Un... | 18h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7729500003?gh_jid=7729500003) |
@@ -616,7 +616,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Google** | Software Engineer, Generative AI, Geo Consumer | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80834366103528134) |
 | 🏢 **Belvedere Trading** | L2 Java Engineer/Software Engineer | Boulder, Colorado | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/belvederetrading/2a3b1355-fb33-4fed-830b-0978a1bba17e/apply) |
 | 🏢 **PagerDuty** | Software Engineer - Core Product | Atlanta | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pagerduty/jobs/5987780004) |
-| 🏢 **Planet** | Engineering Program Manager | San Francisco, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/planetlabs/jobs/7455984) |
+| 🏢 **Planet** | Engineering Program Manager | San Francisco, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/planetlabs/jobs/7455984) |
 | 🏢 **Intuitive** | Applications Developer | Santa Clara, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000125348474) |
 | 🏢 **PayPal** | Software Engineer | San Jose, Califor... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0136723) |
 | 🏢 **PayPal** | Software Engineer | San Jose, Califor... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0136718) |
