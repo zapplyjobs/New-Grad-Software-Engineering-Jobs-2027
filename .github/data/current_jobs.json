@@ -71934,57 +71934,5 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "microsoft-200036459",
-    "job_title": "Solution Engineer - Cloud & AI",
-    "employer_name": "Microsoft",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863021",
-    "job_posted_at_datetime_utc": "2026-05-03T16:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5948c6764af8c90d28b5f48ac17de77805466b4678d8b3c2550595d5614da57",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "computer science",
-        "gcp",
-        "generative ai",
-        "microsoft azure"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-03T16:00:00.000Z"
   }
 ]

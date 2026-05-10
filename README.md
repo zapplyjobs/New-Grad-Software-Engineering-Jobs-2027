@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-1326-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-1325-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-208-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -547,7 +547,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Google** | Customer Engineer, Google Cloud Platform | United States | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/109352845869753030) |
-| 🏢 **Handshake** | Software Engineer, Agentic Infrastructure | San Francisco, CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/handshake/750185eb-d575-430a-93ad-51b7e83a5581/application) |
+| 🏢 **Handshake** | Software Engineer, Agentic Infrastructure | San Francisco, CA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/handshake/750185eb-d575-430a-93ad-51b7e83a5581/application) |
 | 🏢 **Sigma Computing** | Technical Support Engineer | New York City, NY | 16h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714504003) |
 | 🏢 **Sigma Computing** | Technical Support Engineer | San Francisco, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714505003) |
 | 🏢 **Neuralink** | Software Engineer, Agentic AI | Austin, Texas, Un... | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7729500003?gh_jid=7729500003) |
@@ -701,7 +701,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1326 current opportunities from 208 companies**
+**🎯 1325 current opportunities from 208 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
