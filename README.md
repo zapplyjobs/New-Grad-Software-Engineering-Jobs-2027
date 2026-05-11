@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-1825-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-1826-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-304-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -173,7 +173,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Electrical Test Automation Engineer, Intelligence Systems | Reston, Virginia,... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5103309007?gh_jid=5103309007) |
 | 🏢 **Anduril** | Electrical Test Automation Engineer, Intelligence Systems | Santa Ana, Califo... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5103311007?gh_jid=5103311007) |
 | 🏢 **CFS Energy** | R&D Measurement & Automation Engineer | Devens, MA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/cfsenergy/0cd485ad-8d10-4cc5-96ef-cb234a7be06d/apply) |
-| 🏢 **Anduril** | Manager - Test Automation Engineering | Costa Mesa, Calif... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4791848007?gh_jid=4791848007) |
+| 🏢 **Anduril** | Manager - Test Automation Engineering | Costa Mesa, Calif... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4791848007?gh_jid=4791848007) |
 | 🏢 **Sony Interactive Entertainment** | Software Development Engineer in Test - Contractor | CA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5838100004) |
 | 🏢 **Box** | AI Business Automation Engineer | Redwood City, CA,... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7909448) |
 | 🏢 **Booz Allen Hamilton** | Software Test Engineer | Fort Meade, MD | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Software-Test-Engineer_R0239857) |
@@ -220,11 +220,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **OpenAI** | Platform Engineer, Forward Deployed Engineering (FDE) - NYC | New York City | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/45ab8896-06bd-4c8e-bb76-914483d5d180/application) |
 | 🏢 **OpenAI** | Platform Engineer, Forward Deployed Engineering (FDE) -SF | San Francisco | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/059ac93e-3fc9-42e9-a4f4-367c0fd5de14/application) |
+| 🏢 **OpenAI** | Platform Engineer, Forward Deployed Engineering (FDE) - NYC | New York City | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/45ab8896-06bd-4c8e-bb76-914483d5d180/application) |
 | 🏢 **Mercor** | Site Reliability Engineer | San Francisco | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/mercor/101b679b-3ae8-4742-bc2e-4b5ee93f025a/application) |
-| 🏢 **Together AI** | AI Infrastructure Engineer | San Francisco | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/4753034007) |
 | 🏢 **Together AI** | Machine Learning, Platform Engineer | San Francisco | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/4835988007) |
+| 🏢 **Together AI** | AI Infrastructure Engineer | San Francisco | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/4753034007) |
 | 🏢 **SoFi** | Contact Platform Engineer | Cottonwood Height... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://sofi.com/careers/job/7565483003?gh_jid=7565483003) |
 | 🏢 **RunPod** | Site Reliability Engineer | Remote, USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/runpod/jobs/4108951008) |
 | 🏢 **Relativity Space** | Manager, Infrastructure Engineering | Cape Canaveral, F... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8391594002?gh_jid=8391594002) |
@@ -233,9 +233,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Figma** | Data Platform Engineer | San Francisco, CA... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5840332004?gh_jid=5840332004) |
 | 🏢 **PDI Technologies** | Software Engineer IV, Cybersecurity Platform Engineering | Alpharetta, GA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/pditechnologies/deaac21a-46cf-41c2-8c94-fb21fdc28730/apply) |
 | 🏢 **Wintermute Trading** | DevOps Engineer - OTC Trading Platform | New York | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/wintermute-trading/2d21607f-8a21-42eb-8ff9-29e12cc9b8c1/apply) |
+| 🏢 **Captivation** | Platform Engineer (Hybrid) - Python/Java/AWS/Linux | Columbia, MD - Hy... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/4694081008) |
+| 🏢 **Captivation** | Platform Engineer (Hybrid) - Python/Java/AWS/Linux | Columbia, MD - Hy... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/4694196008) |
 | 🏢 **Captivation** | DevOps Engineer - AWS/Ansible/Linux/Python | Columbia, MD | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/4694879008) |
-| 🏢 **Captivation** | DevOps Engineer - AWS/Ansible/Linux/Python | San Antonio, TX | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/4694198008) |
-| 🏢 **Captivation** | DevOps Engineer - AWS/Ansible/Linux/Python | Augusta, GA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/4694190008) |
 | 🏢 **Anthropic** | ML Infrastructure Engineer, Safeguards | San Francisco, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4778843008) |
 | 🏢 **Anthropic** | Infrastructure Engineer, Sandboxing | San Francisco, CA... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5030680008) |
 | 🏢 **Anduril** | Site Reliability Engineer, Discovery | Seattle, Washingt... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5102674007?gh_jid=5102674007) |
@@ -333,12 +333,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Applied Intuition** | Product Security Engineer | Sunnyvale, Califo... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4672843005?gh_jid=4672843005) |
 | 🏢 **Apptronik** | Security Engineer - Data Platform | Austin, TX | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5800406004?gh_jid=5800406004) |
 | 🏢 **Hermeus** | Cybersecurity Engineer | Los Angeles, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/59ecb280-1d0e-4907-b6cd-08d40bd50cc1/apply) |
+| 🏢 **Palantir** | Information Security Engineer - DLP | Washington, D.C. | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/3c788579-eec7-4897-b446-4afc944e79be/apply) |
 | 🏢 **Palantir** | Information Security Engineer - DLP | New York, NY | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/fde4cd4c-f6fd-4656-a1ce-3ca27bb1878f/apply) |
 | 🏢 **Palantir** | Information Security Engineer - Endpoint | New York, NY | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/1e77a5e8-9843-4516-a186-7c24f0ff07a0/apply) |
-| 🏢 **Palantir** | Information Security Engineer - Endpoint | Washington, D.C. | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/4bfef5e0-6689-4db8-9ffe-ab6df6836845/apply) |
-| 🏢 **Datadog** | Manager I, Security Engineering - Vulnerability Management | New York, New Yor... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.datadoghq.com/detail/7748975/?gh_jid=7748975) |
-| 🏢 **Anduril** | Manager, Enterprise Security Engineering | Costa Mesa, Calif... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5070618007?gh_jid=5070618007) |
-| 🏢 **Anduril** | Manager, Enterprise Security Engineering | Seattle, Washingt... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5075703007?gh_jid=5075703007) |
+| 🏢 **Datadog** | Manager I, Security Engineering - Vulnerability Management | New York, New Yor... | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.datadoghq.com/detail/7748975/?gh_jid=7748975) |
+| 🏢 **Anduril** | Manager, Enterprise Security Engineering | Costa Mesa, Calif... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5070618007?gh_jid=5070618007) |
+| 🏢 **Anduril** | Manager, Enterprise Security Engineering | Seattle, Washingt... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5075703007?gh_jid=5075703007) |
 | 🏢 **Scale AI** | Product Security Engineer - Public Sector | St. Louis, MO; Wa... | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4651559005) |
 | 🏢 **Cursor** | GRC Security Engineer, Federal & Public Sector | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/94ae671e-345a-48de-9b7a-2aad693351e1/application) |
 | 🏢 **KBR** | Cyber Security Engineer | El Segundo, Calif... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Cyber-Security-Engineer_R2114137) |
@@ -501,13 +501,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Astera Labs** | Quality Systems Engineer, PLM Analyst | San Jose, United ... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4674897005) |
 | 🏢 **Anthropic** | Data Center Engineer, Resource Efficiency – Compute Supply | Friendly, United ... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5159642008) |
 | 🏢 **Anduril** | Systems Engineer | Huntsville, Alaba... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5091995007?gh_jid=5091995007) |
-| 🏢 **Anduril** | Energy Systems Engineer, Maritime | Quincy, Massachus... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5077697007?gh_jid=5077697007) |
 | 🏢 **Anduril** | Fuel Systems Engineer, Air Vehicles | Costa Mesa, Calif... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4954307007?gh_jid=4954307007) |
+| 🏢 **Anduril** | Energy Systems Engineer, Maritime | Quincy, Massachus... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5077697007?gh_jid=5077697007) |
 | 🏢 **Hermeus** | Avionics Systems Engineer – Flight Safety Systems (FTS / AFSS) | Los Angeles, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/2657e7b0-bfae-4f24-afe3-0f1bc573c721/apply) |
 | 🏢 **Vultr** | Data Center Technician (Springfield, OH) - Multiple Openings | Ohio Data | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/Vultr/3e04de62-97b0-43f1-9ad5-e73efb43da81/application) |
 | 🏢 **Vultr** | Data Center Technician (Atlanta, GA) - Multiple Openings | Atlanta Data | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/Vultr/44053e9b-e637-4a09-965a-1fbb36118357/application) |
 | 🏢 **Vultr** | Data Center Technician (Atlanta) | Atlanta Data | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/Vultr/5d687ce9-f549-4a90-a955-ed43707c3967/application) |
-| 🏢 **OpenAI** | Technical Program Manager, Safety Systems Engineering | San Francisco | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/9685eb6d-8276-4111-be8c-fd1277ad4555/application) |
+| 🏢 **OpenAI** | Technical Program Manager, Safety Systems Engineering | San Francisco | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/9685eb6d-8276-4111-be8c-fd1277ad4555/application) |
 | 🏢 **Google** | Data Center Technician | United States | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140367320110244550) |
 | 🏢 **Northrop Grumman** | Modeling & Simulation Systems Engineer (Kinematic) - Level 2 or 3 | Colorado | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Modeling---Simulation-Systems-Engineer--Kinematic----Level-2-or-3_R10232451) |
 | 🏢 **Apple** | Software Engineering Systems Engineer | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662186/software-engineering-systems-engineer) |
@@ -596,9 +596,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Notion** | Partner Solutions Engineer | New York, New York | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/notion/a6a91521-87cd-41aa-b800-24dc8808d375/application) |
 | 🏢 **Verkada** | Global Solutions Engineer | United States | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4140713007) |
 | 🏢 **Tailscale** | Solutions Engineer - Commercial (New Business) | Remote (United St... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4443308005) |
+| 🏢 **Okta** | Strategic Solutions Engineer | Bellevue, Washing... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.okta.com/company/careers/opportunity/7535277?gh_jid=7535277) |
 | 🏢 **Okta** | Solutions Engineer/Auth0 | Chicago, Illinois... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.okta.com/company/careers/opportunity/7692313?gh_jid=7692313) |
 | 🏢 **Okta** | Solutions Engineer, Auth0 (Eastern USA) | Florida; Georgia;... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.okta.com/company/careers/opportunity/7425892?gh_jid=7425892) |
-| 🏢 **Okta** | Solutions Engineer, Okta (Commercial) | Georgia; New York... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.okta.com/company/careers/opportunity/7765866?gh_jid=7765866) |
 | 🏢 **Hightouch** | AI Solutions Engineer, Enterprise East | East and Central ... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/hightouch/jobs/5134194004) |
 | 🏢 **Hightouch** | AI Solutions Engineer, Enterprise West | West and Mountain... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/hightouch/jobs/5530769004) |
 | 🏢 **Grafana Labs** | Partner Solutions Engineer   East Coast   Remote | United States (Re... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/grafanalabs/jobs/5841147004) |
@@ -676,28 +676,28 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Technical Program Manager, Electronic Warfare | Costa Mesa, Calif... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5098668007?gh_jid=5098668007) |
 | 🏢 **Anduril** | Technical Program Manager, Launched Effects | Washington, Distr... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5087724007?gh_jid=5087724007) |
 | 🏢 **Anduril** | Technical Program Manager, Launched Effects | Costa Mesa, Calif... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5087722007?gh_jid=5087722007) |
-| 🏢 **OpenAI** | Technical Program Manager – Adversarial Model Research | San Francisco | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/65913e57-80e0-4a1a-bbc3-265ae8a1a41b/application) |
-| 🏢 **True Anomaly** | Technical Program Manager, RF and Regulatory | Denver, CO or Lon... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5003731007) |
-| 🏢 **Samsara** | Technical Program Manager | US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.samsara.com/company/careers/roles/7298858?gh_jid=7298858) |
-| 🏢 **Scale AI** | Technical Program Manager, Robotics Data | San Francisco, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4663997005) |
-| 🏢 **Jane Street** | Technical Program Manager | New York, New Yor... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/4902080002) |
-| 🏢 **Cohere** | Technical Program Manager, North Delivery & Release Operations | United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cohere/929b6c8e-a47c-4512-bb17-99fa9581f23e/application) |
-| 🏢 **Formlabs** | Technical Program Manager | Somerville, MA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7657605/apply/?gh_jid=7657605) |
-| 🏢 **Formlabs** | Technical Program Manager | Boston, MA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7657610/apply/?gh_jid=7657610) |
-| 🏢 **Zipline** | Technical Program Manager - Towers | South San Francis... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.zipline.com/careers?gh_jid=7681393003) |
-| 🏢 **CoreWeave** | Security Compliance - Technical Program Manager | Livingston, NJ / ... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://coreweave.com/careers/job?4671723006&board=coreweave&gh_jid=4671723006) |
-| 🏢 **Bridgewater Associates** | Technical Project Manager, AIA Labs | New York City | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/bridgewater89/jobs/8392571002) |
-| 🏢 **Aurora Innovation** | Technical Program Manager - Hardware Product Engineering | Mountain View, Ca... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://aurora.tech/jobs/8343467002?gh_jid=8343467002) |
-| 🏢 **Anthropic** | Technical Program Manager, Consumer Engineering | San Francisco, CA... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5062968008) |
-| 🏢 **Anthropic** | Technical Program Manager, Inference Performance | San Francisco, CA... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5107763008) |
-| 🏢 **Applied Intuition** | Technical Program Manager | Sunnyvale, Califo... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4664505005?gh_jid=4664505005) |
-| 🏢 **Applied Intuition** | Technical Program Manager - Defense | Washington, Distr... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4412650005?gh_jid=4412650005) |
-| 🏢 **Applied Intuition** | Technical Program Manager - Trucking | Sunnyvale, Califo... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4600381005?gh_jid=4600381005) |
-| 🏢 **Palantir** | Technical Program Manager (TPM) | New York, NY | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/7eb0dedb-37ee-4175-b29f-10a9e4340076/apply) |
-| 🏢 **Palantir** | Technical Program Manager (TPM) - Defense | Washington, D.C. | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/bd16f7ad-3bee-48fd-9902-b3ee9698b608/apply) |
-| 🏢 **Abnormal Security** | Technical Program Manager | USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://abnormal.ai/careers/jobs/7526681003?gh_jid=7526681003) |
-| 🏢 **Scale AI** | Technical Program Manager, Public Sector Engineering | New York, NY; Was... | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4691908005) |
+| 🏢 **OpenAI** | Technical Program Manager – Adversarial Model Research | San Francisco | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/65913e57-80e0-4a1a-bbc3-265ae8a1a41b/application) |
+| 🏢 **True Anomaly** | Technical Program Manager, RF and Regulatory | Denver, CO or Lon... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5003731007) |
+| 🏢 **Samsara** | Technical Program Manager | US | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.samsara.com/company/careers/roles/7298858?gh_jid=7298858) |
+| 🏢 **Scale AI** | Technical Program Manager, Robotics Data | San Francisco, CA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4663997005) |
+| 🏢 **Jane Street** | Technical Program Manager | New York, New Yor... | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/4902080002) |
+| 🏢 **Cohere** | Technical Program Manager, North Delivery & Release Operations | United States | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cohere/929b6c8e-a47c-4512-bb17-99fa9581f23e/application) |
+| 🏢 **Formlabs** | Technical Program Manager | Somerville, MA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7657605/apply/?gh_jid=7657605) |
+| 🏢 **Formlabs** | Technical Program Manager | Boston, MA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7657610/apply/?gh_jid=7657610) |
+| 🏢 **Zipline** | Technical Program Manager - Towers | South San Francis... | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.zipline.com/careers?gh_jid=7681393003) |
+| 🏢 **CoreWeave** | Security Compliance - Technical Program Manager | Livingston, NJ / ... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://coreweave.com/careers/job?4671723006&board=coreweave&gh_jid=4671723006) |
+| 🏢 **Bridgewater Associates** | Technical Project Manager, AIA Labs | New York City | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/bridgewater89/jobs/8392571002) |
+| 🏢 **Aurora Innovation** | Technical Program Manager - Hardware Product Engineering | Mountain View, Ca... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://aurora.tech/jobs/8343467002?gh_jid=8343467002) |
+| 🏢 **Anthropic** | Technical Program Manager, Consumer Engineering | San Francisco, CA... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5062968008) |
+| 🏢 **Anthropic** | Technical Program Manager, Inference Performance | San Francisco, CA... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5107763008) |
+| 🏢 **Applied Intuition** | Technical Program Manager | Sunnyvale, Califo... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4664505005?gh_jid=4664505005) |
+| 🏢 **Applied Intuition** | Technical Program Manager - Defense | Washington, Distr... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4412650005?gh_jid=4412650005) |
+| 🏢 **Applied Intuition** | Technical Program Manager - Trucking | Sunnyvale, Califo... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4600381005?gh_jid=4600381005) |
+| 🏢 **Palantir** | Technical Program Manager (TPM) | New York, NY | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/7eb0dedb-37ee-4175-b29f-10a9e4340076/apply) |
+| 🏢 **Palantir** | Technical Program Manager (TPM) - Defense | Washington, D.C. | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/bd16f7ad-3bee-48fd-9902-b3ee9698b608/apply) |
+| 🏢 **Abnormal Security** | Technical Program Manager | USA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://abnormal.ai/careers/jobs/7526681003?gh_jid=7526681003) |
 | 🏢 **Scale AI** | Technical Program Manager, Public Sector | Washington, DC | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4633072005) |
+| 🏢 **Scale AI** | Technical Program Manager, Public Sector | Colorado Springs, CO | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4667852005) |
 | 🏢 **Google** | Technical Program Manager, Power and Sustainability Strategy and Operations | United States | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/141720355067568838) |
 | 🏢 **Google** | Technical Program Manager, AI Enablement | United States | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96540546108924614) |
 | 🏢 **Merge** | Technical Program Manager | San Francisco, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/merge/jobs/5461839004) |
@@ -739,6 +739,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| 🏢 **Anduril** | Change Implementation Engineer | Costa Mesa, Calif... | 20m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5019963007?gh_jid=5019963007) |
 | 🏢 **Watershed** | Software engineer, cloud infrastructure | New York City | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/watershed/addfe8af-c2d5-4b46-90d2-23536d42629d/application) |
 | 🏢 **Whatnot** | Software Engineer, Horizontal Ops | San Francisco, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/ca607d3f-5493-4328-a124-c7a721273a0f/application) |
 | 🏢 **Whatnot** | Software Engineer, CX | San Francisco, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/aefd0c4d-6324-4ca0-8ebc-00ddfc722079/application) |
@@ -766,9 +767,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Waymo** | Software Engineer Backend - Simulation | Mountain View | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7307289) |
 | 🏢 **Waymo** | Software Engineer, Model Lifecycle | Kirkland, Washing... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7609435) |
 | 🏢 **Waymo** | Software Engineer, Sensor/Imaging | Mountain View, CA... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7587455) |
-| 🏢 **Vercel** | Forward-Deployed Engineer | San Francisco, Ne... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5752684004) |
-| 🏢 **Vercel** | Site Engineer | United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5732855004) |
-| 🏢 **Vercel** | Software Engineer, AI Gateway | San Francisco, Ne... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5798406004) |
+| 🏢 **Vercel** | Software Engineer, Compute | United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5551619004) |
+| 🏢 **Vercel** | Software Engineer, Deployment Infrastructure | San Francisco, Ne... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5633880004) |
+| 🏢 **Vercel** | Software Engineer, Growth | San Francisco, Ne... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5613601004) |
 | 🏢 **Twilio** | Software Engineer (L3) | US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7301401) |
 | 🏢 **Torc Robotics** | Software Engineer, I - BaseOS | Ann Arbor, MI | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8461448002) |
 | 🏢 **Torc Robotics** | Software Engineer I - Device Drivers | Ann Arbor, MI | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8492431002) |
@@ -799,7 +800,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Pure Storage** | Software Engineer | Santa Clara, Cali... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7681034) |
 | 🏢 **Point72** | Software Engineer, Execution Services | New York, NY | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8377040002?gh_jid=8377040002) |
 | 🏢 **Point72** | Software Engineer, Risk Technology | New York | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8161729002?gh_jid=8161729002) |
-| 🏢 **Point72** | Platform Project Manager | New York | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8467512002?gh_jid=8467512002) |
+| 🏢 **Point72** | ITSM Developer | New York, NY; Sta... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7986800002?gh_jid=7986800002) |
 | 🏢 **Postman** | Technical Enablement Program Manager | San Francisco, Ca... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/postman/jobs/7699288003) |
 | 🏢 **PlanetScale** | Software Engineer - Infrastructure | San Francisco Bay... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/planetscale/jobs/4036240009) |
 | 🏢 **Pinterest** | Engineering Manager I, Growth AI | San Francisco, CA... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=7683723) |
@@ -838,7 +839,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **D.E. Shaw** | Software Engineer, Market Data - Cumberland | Chicago | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7561710) |
 | 🏢 **Datadog** | Technical Support Engineer 3, Premier - San Francisco | San Francisco, Ca... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.datadoghq.com/detail/7758574/?gh_jid=7758574) |
 | 🏢 **Zoox** | Software Engineer - Core Sensors | Foster City, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/9abd3543-0d46-4fd8-882c-2fe93d75a51b/apply) |
-| 🏢 **Zoox** | Vehicle Dynamics Simulation Engineer | Foster City, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/51a333e2-d97c-4733-8651-1698da52fec5/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -894,7 +894,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1825 current opportunities from 304 companies**
+**🎯 1826 current opportunities from 304 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
