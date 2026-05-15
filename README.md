@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3375-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3373-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-402-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -281,7 +281,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **The New York Times** | QA Engineer | New York, NY | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4667010005) |
 | 🏢 **BeyondTrust** | AI & Automation Engineer, Endpoint Systems | Remote Canada  R... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/7662320) |
 | 🏢 **Applied Intuition** | Software Quality Assurance Engineer | Sunnyvale, Califo... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4680916005?gh_jid=4680916005) |
-| 🏢 **Microsoft** | Software Quality Engineering IC1 | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556863597) |
+| 🏢 **Microsoft** | Software Quality Engineering IC1 | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556863597) |
 | 🏢 **Johnson Controls** | Automation Engineer | Pennsylvania | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Automation-Engineer_EB00075294) |
 | 🏢 **Apple** | Software Development Engineer in Test, Retail and Marcom Engineering | Sunnyvale | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663088/software-development-engineer-in-test-retail-and-marcom-engineering) |
 | 🏢 **Jabil** | Automation Engineer I | Florence, KY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Automation-Engineer-I_J2448652) |
@@ -572,7 +572,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Google** | Software Engineer AI/ML Networking | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97664839697998534) |
 | 🏢 **Mistral AI** | Research Engineer, Data Infrastructure | Palo Alto | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/mistral/37f53ee5-dd88-43e3-be6a-70e3db159c8f/apply) |
 | 🏢 **Google** | Research Engineer, Gemini Latent Thinking, DeepMind | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112315673224323782) |
-| 🏢 **Inflection AI** | Research Engineer, Voice | Palo Alto, Califo... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/inflectionai/jobs/4681124006?gh_jid=4681124006) |
+| 🏢 **Inflection AI** | Research Engineer, Voice | Palo Alto, Califo... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/inflectionai/jobs/4681124006?gh_jid=4681124006) |
 | 🏢 **Rocket Lawyer** | AI/ML Software Engineer | Arizona ; Colorad... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5070929008) |
 | 🏢 **OpenAI** | Research Engineer, 3D & Multi-View Geometry | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/d9e942a7-a84e-4fb2-8fea-b976a1abaa68/application) |
 | 🏢 **OpenAI** | Research Engineer/Scientist - Human Alignment, Consumer Devices | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3/application) |
@@ -660,7 +660,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Apple** | Embedded Software Engineer | Austin | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662979/embedded-software-engineer) |
 | 🏢 **Apple** | OS Kernel Engineer | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663229/os-kernel-engineer) |
 | 🏢 **Schweitzer Engineering Laboratories** | Embedded Systems Engineer | Moscow, ID | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/FPGA-Design-Engineer_2025-18317) |
-| 🏢 **Booz Allen Hamilton** | Embedded Systems Engineer | Lorton, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lorton-VA/Embedded-Systems-Engineer_R0234045) |
+| 🏢 **Booz Allen Hamilton** | Embedded Systems Engineer | Lorton, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lorton-VA/Embedded-Systems-Engineer_R0234045) |
 | 🏢 **RTX** | Embedded Linux Software Engineer I (Onsite) | Cedar Rapids, IA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Linux-Software-Engineer-I--Onsite-_01793223) |
 | 🏢 **Anduril** | Embedded Software Engineer, EW | Costa Mesa, Calif... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5117734007?gh_jid=5117734007) |
 | 🏢 **SpaceX** | Embedded Software Engineer, OS/Platform (Starlink) | Bastrop, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8511391002?gh_jid=8511391002) |
@@ -945,8 +945,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cohere** | Technical Program Manager, Product Engineering | United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cohere/f00dbf81-17ff-4584-b015-67dfae1dc59c/application) |
 | 🏢 **Booz Allen Hamilton** | Scrum Master | McLean, VA + 1 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Scrum-Master_R0239947) |
 | 🏢 **Experian** | Technical Program Manager - Remote | United States, UN... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000126403370) |
-| 🏢 **Roku** | Technical Program Manager, Voice | San Jose, California | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.weareroku.com/jobs/7922814?gh_jid=7922814) |
-| 🏢 **Apple** | Technical Project Manager, Enterprise Technology Services | Sunnyvale | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663160/technical-project-manager-enterprise-technology-services) |
+| 🏢 **Roku** | Technical Program Manager, Voice | San Jose, California | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.weareroku.com/jobs/7922814?gh_jid=7922814) |
+| 🏢 **Apple** | Technical Project Manager, Enterprise Technology Services | Sunnyvale | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663160/technical-project-manager-enterprise-technology-services) |
 | 🏢 **Planet** | Technical Program Manager | San Francisco, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/planetlabs/jobs/7907773) |
 | 🏢 **Anthropic** | Technical Program Manager, Research | San Francisco, CA... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5203545008) |
 | 🏢 **Google** | Technical Program Manager, Energy Modeling | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127783938885067462) |
@@ -1168,7 +1168,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3375 current opportunities from 402 companies**
+**🎯 3373 current opportunities from 402 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
