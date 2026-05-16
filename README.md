@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3343-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3342-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-401-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -202,7 +202,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Software Engineer, Full-stack | Costa Mesa, Calif... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5104521007?gh_jid=5104521007) |
 | 🏢 **Rockstar Games** | Full Stack Engineer (C#/React) | Manhattan, New Yo... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rockstargames/jobs/7711703003) |
 | 🏢 **Booz Allen Hamilton** | Analytical Applications Full-Stack Developer | Albuquerque, NM | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/Analytical-Applications-Full-Stack-Developer_R0239973) |
-| 🏢 **Apptronik** | Full Stack Software Engineer - Fleet Connect | Austin, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5978803004?gh_jid=5978803004) |
+| 🏢 **Apptronik** | Full Stack Software Engineer - Fleet Connect | Austin, TX | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5978803004?gh_jid=5978803004) |
 | 🏢 **CACI** | Software Engineer – Full Stack | Annapolis Junctio... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Annapolis-Junction/Software-Engineer---Full-Stack_326004) |
 | 🏢 **Google** | Software Engineer, Full Stack, NotebookLM | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128931197664273094) |
 | 🏢 **Benchling** | Software Engineer, Full Stack (Process Execution) | San Francisco, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/benchling/4cc84632-9ac2-473c-81ac-8a35cb77c62b/application) |
@@ -395,7 +395,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Zoom** | AI Infrastructure Engineer | Seattle | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Infrastructure-Engineer_R18263-1) |
 | 🏢 **Sumo Logic** | Site Reliability Engineer I | San Jose, Costa Rica | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sumologic/jobs/7819085) |
 | 🏢 **Backblaze** | Site Reliability Engineer I | US | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/backblaze/jobs/5199141008) |
-| 🏢 **Tailscale** | Infrastructure Engineer | Remote (United St... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4480736005) |
+| 🏢 **Tailscale** | Infrastructure Engineer | Remote (United St... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4480736005) |
 | 🏢 **StubHub** | Platform Engineer - Core Compute Platform | New York, New Yor... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4850341101) |
 | 🏢 **ClickHouse** | Cloud Engineer - Product Metrics | United States (re... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/clickhouse/jobs/5755082004) |
 | 🏢 **ClickHouse** | Cloud Platform Engineer - Control Plane | United States (re... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/clickhouse/jobs/5802320004) |
@@ -775,8 +775,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Ameriprise Financial** | Systems Engineer | Minneapolis, Minn... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Systems-Engineer_R26_1802) |
 | 🏢 **KBR** | Network Engineer | El Segundo, Calif... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Network-Engineer_R2123354) |
 | 🏢 **LLNL** | Linux Systems Administrator | Livermore, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013111917) |
-| 🏢 **Disney** | Content Systems Engineer | Glendale, CA + 6 ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Content-Systems-Engineer_10146067) |
-| 🏢 **Neuralink** | IT Systems Administrator | Austin, Texas, Un... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7715119003?gh_jid=7715119003) |
+| 🏢 **Disney** | Content Systems Engineer | Glendale, CA + 6 ... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Content-Systems-Engineer_10146067) |
+| 🏢 **Neuralink** | IT Systems Administrator | Austin, Texas, Un... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7715119003?gh_jid=7715119003) |
 | 🏢 **RTX** | Systems Engineer I (Hybrid - Aguadilla, PR) | Aguadilla, PR | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Systems-Engineer-I--Hybrid---Aguadilla--PR-_01845150) |
 | 🏢 **Google** | Technical Program Manager, PMO Data Center | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140026823692952262) |
 | 🏢 **Google** | Data Center Mechanical Engineer, Technical Infrastructure | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120427105509876422) |
@@ -1037,9 +1037,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Apple** | Program Manager, Apple Health | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663223/program-manager-apple-health) |
 | 🏢 **Workday Inc** | Large Enterprise Account Executive - Healthcare | USA, MA, Boston | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-MA-Boston/Large-Enterprise-Account-Executive---Healthcare_JR-0105923) |
 | 🏢 **Anduril** | C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, Calif... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5125189007?gh_jid=5125189007) |
-| 🏢 **General Motors** | Software Engineer - Chassis Controls | Warren, Michigan,... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Chassis-Controls_JR-202522564) |
-| 🏢 **Tenable** | Technical Support Engineer (Hybrid/Columbia MD) | Maryland | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tenableinc/jobs/5206353008) |
-| 🏢 **Anduril** | Rust Software Engineer, Air Vehicle Autonomy | Costa Mesa, Calif... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5125172007?gh_jid=5125172007) |
+| 🏢 **General Motors** | Software Engineer - Chassis Controls | Warren, Michigan,... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Chassis-Controls_JR-202522564) |
+| 🏢 **Tenable** | Technical Support Engineer (Hybrid/Columbia MD) | Maryland | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tenableinc/jobs/5206353008) |
+| 🏢 **Anduril** | Rust Software Engineer, Air Vehicle Autonomy | Costa Mesa, Calif... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5125172007?gh_jid=5125172007) |
 | 🏢 **RTX** | 2026 Raytheon Full Time-Missile Defense Sensors Software Engineer I-(Onsite) | Woburn, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Raytheon-Full-Time-Missile-Defense-Sensors-Software-Engineer-I--Onsite-_01837131) |
 | 🏢 **SEL** | System Protection Support Engineer | Alabama Huntsvill... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Alabama---Huntsville/System-Protection-Support-Engineer_2026-20041) |
 | 🏢 **The New York Times** | Software Engineer, Programming | New York, NY | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4656665005) |
@@ -1163,7 +1163,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3343 current opportunities from 401 companies**
+**🎯 3342 current opportunities from 401 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
