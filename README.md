@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3352-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3349-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-401-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -563,12 +563,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **ByteDance** | Graduate Research Engineer - Seed Infra | Seattle, WA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7610599648994265397/detail) |
 | 🏢 **ByteDance** | Graduate Research Engineer - Agent Evaluation & Training Infrastructure - Seed Infra | Seattle, WA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7610602401397639477/detail) |
 | 🏢 **TikTok** | Software Engineer Graduate - Data Arch - AI/ML Infrastructure | San Jose, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7535215880842791176) |
-| 🏢 **HPE (University)** | HPE Labs -  Research Engineer (Post-doc) | Santa Barbara, Ca... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Santa-Barbara-California-United-States-of-America/HPE-Labs----Research-Engineer--Post-doc-_1206348) |
+| 🏢 **HPE (University)** | HPE Labs -  Research Engineer (Post-doc) | Santa Barbara, Ca... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Santa-Barbara-California-United-States-of-America/HPE-Labs----Research-Engineer--Post-doc-_1206348) |
 | 🏢 **Salesforce** | Adversarial AI & Research Engineer | California San Fr... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Product-Security-Senior-Penetration-Tester_JR328222) |
 | 🏢 **Waabi** | Research Engineer, Calibration | San Francisco, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/waabi/4c352ae0-53b0-4510-8d46-894b87d96ede/apply) |
 | 🏢 **KLA** | Software Engineer - AI/ML | Ann Arbor, MI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Software-Engineer---AI-ML_2634351-1) |
 | 🏢 **Google** | Software Engineer AI/ML Networking | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97664839697998534) |
-| 🏢 **Mistral AI** | Research Engineer, Data Infrastructure | Palo Alto | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/mistral/37f53ee5-dd88-43e3-be6a-70e3db159c8f/apply) |
+| 🏢 **Mistral AI** | Research Engineer, Data Infrastructure | Palo Alto | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/mistral/37f53ee5-dd88-43e3-be6a-70e3db159c8f/apply) |
 | 🏢 **Google** | Research Engineer, Gemini Latent Thinking, DeepMind | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112315673224323782) |
 | 🏢 **Inflection AI** | Research Engineer, Voice | Palo Alto, Califo... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/inflectionai/jobs/4681124006?gh_jid=4681124006) |
 | 🏢 **Rocket Lawyer** | AI/ML Software Engineer | Arizona ; Colorad... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5070929008) |
@@ -857,7 +857,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Google** | Product Solutions Engineer, Authentication and Security, gTech Ads | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98066248415224518) |
 | 🏢 **Snowflake** | Cloud Partner Solutions Engineer (AWS / Azure / Google Cloud) | Remote | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/c6737b02-5f22-489c-8565-659fd1e5051a/application) |
 | 🏢 **CrowdStrike** | Manager, Corporate Sales Engineering (Remote) | 2 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Manager--Corporate-Sales-Engineering--Remote-_R28798-1) |
-| 🏢 **Cloudflare** | Solutions Engineer Manager, Associate Programs | Austin, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7826916?gh_jid=7826916) |
+| 🏢 **Cloudflare** | Solutions Engineer Manager, Associate Programs | Austin, TX | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7826916?gh_jid=7826916) |
 | 🏢 **Sigma Computing** | Commercial Solution Engineer | New York | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7726057003) |
 | 🏢 **OpenAI** | Solutions Engineering, Ads Solutions | New York City | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/9f179118-5df6-4ccb-b8d1-cfb0642fba37/application) |
 | 🏢 **OpenAI** | Solutions Engineer, Core Digital Natives | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/56fceb8e-589b-410e-8b21-24f9945ccb9d/application) |
@@ -1164,7 +1164,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3352 current opportunities from 401 companies**
+**🎯 3349 current opportunities from 401 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
