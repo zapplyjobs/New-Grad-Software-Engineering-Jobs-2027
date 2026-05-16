@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3344-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3343-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-401-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -190,7 +190,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Google** | Forward Deployed Full Stack Group Product Manager | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/115185816258388678) |
 | 🏢 **Whatnot** | Fullstack Engineer, International | New York, NY | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/0216402f-19b1-46c2-b71d-d06890f29de9/application) |
-| 🏢 **General Motors** | Full Stack Developer | Warren, Michigan,... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/PROGRAMMER-FULL-STACK_JR-202603193) |
+| 🏢 **General Motors** | Full Stack Developer | Warren, Michigan,... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/PROGRAMMER-FULL-STACK_JR-202603193) |
 | 🏢 **Parsons** | Junior Full Stack Developer | Hoffman Estates, IL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IL-Schaumburg/Junior-Full-Stack-Developer_R179262-2) |
 | 🏢 **Google** | Software Engineer, Full Stack, gUP Engineering | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120479753218990790) |
 | 🏢 **Instabase** | Full-stack Software Engineer (New Grad) | San Francisco, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/instabase/jobs/8548929002) |
@@ -1053,7 +1053,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CrowdStrike** | Associate Analyst, Falcon Complete | St. Louis, MO | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---St-Louis-MO/Associate-Analyst--Falcon-Complete_R28679) |
 | 🏢 **CACI** | Mongo Database Engineer | MD Linthicum + 1 ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Linthicum/Mongo-Database-Engineer_326141) |
 | 🏢 **Apple** | Backend Software Engineer, Creativity Apps | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663197/backend-software-engineer-creativity-apps) |
-| 🏢 **Applied Intuition** | Robotic Software Engineer (Drone Stack) | Washington, Distr... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4677114005?gh_jid=4677114005) |
+| 🏢 **Applied Intuition** | Robotic Software Engineer (Drone Stack) | Washington, Distr... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4677114005?gh_jid=4677114005) |
 | 🏢 **Google** | Cloud Customer Engineer, Google Cloud Platform | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111516940303770310) |
 | 🏢 **Caterpillar** | Electrical System Integration Engineer | Lafayette, Indiana | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Lafayette-Indiana/Electrical-System-Integration-Engineer_R0000363636-1) |
 | 🏢 **Latitude AI** | GIS Solutions Analyst - Back End Services | Pittsburgh, PA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/latitude/jobs/7871032) |
@@ -1163,7 +1163,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3344 current opportunities from 401 companies**
+**🎯 3343 current opportunities from 401 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
