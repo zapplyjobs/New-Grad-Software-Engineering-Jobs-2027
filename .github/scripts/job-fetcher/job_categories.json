@@ -1,193 +1,159 @@
 {
-  "mobile": {
-    "title": "Mobile Development",
-    "emoji": "\ud83d\udcf1",
+  "software_engineering": {
+    "title": "Software Engineering",
+    "emoji": "💻",
     "keywords": [
-      "ios",
-      "android",
+      "software engineer",
+      "software developer",
+      "software development",
+      "swe",
+      "backend engineer",
+      "backend developer",
+      "frontend engineer",
+      "frontend developer",
+      "full stack",
+      "fullstack",
+      "web developer",
+      "web engineer",
+      "mobile engineer",
       "mobile developer",
+      "ios engineer",
+      "android engineer",
       "ios developer",
       "android developer",
-      "mobile engineer",
-      "react native",
-      "flutter",
+      "application developer",
+      "application engineer",
+      "platform developer",
+      "platform engineer",
+      "java developer",
+      "python developer",
+      "javascript developer",
+      "mobile development",
+      "frontend",
+      "react",
+      "angular",
+      "vue",
       "swift",
       "kotlin"
     ]
   },
-  "frontend": {
-    "title": "Frontend",
-    "emoji": "\ud83c\udfa8",
-    "keywords": [
-      "frontend",
-      "front-end",
-      "front end",
-      "ui engineer",
-      "web developer",
-      "react developer",
-      "vue developer",
-      "frontend engineer",
-      "frontend developer",
-      "angular developer",
-      "typescript developer",
-      "web development",
-      "design engineer"
-    ]
-  },
-  "full_stack": {
-    "title": "Full Stack",
-    "emoji": "\ud83c\udf10",
-    "keywords": [
-      "full stack",
-      "fullstack",
-      "full-stack",
-      "full stack engineer",
-      "full stack developer"
-    ]
-  },
-  "qa_engineering": {
-    "title": "QA Engineering",
-    "emoji": "\ud83e\uddea",
-    "keywords": [
-      "qa engineer",
-      "quality assurance",
-      "quality engineer",
-      "sdet",
-      "test engineer",
-      "automation engineer",
-      "software development engineer in test",
-      "quality assurance engineer"
-    ]
-  },
-  "devops_infrastructure": {
-    "title": "DevOps & Infrastructure",
-    "emoji": "\u2699\ufe0f",
-    "keywords": [
-      "devops",
-      "site reliability",
-      "~sre",
-      "platform engineer",
-      "infrastructure engineer",
-      "cloud engineer",
-      "kubernetes",
-      "reliability engineer",
-      "build engineer",
-      "release engineer"
-    ]
-  },
-  "security_engineering": {
-    "title": "Security Engineering",
-    "emoji": "\ud83d\udd10",
-    "keywords": [
-      "security engineer",
-      "cybersecurity",
-      "infosec",
-      "information security",
-      "application security",
-      "appsec",
-      "cloud security",
-      "security analyst",
-      "vulnerability management",
-      "penetration tester",
-      "ciam",
-      "identity and access"
-    ]
-  },
   "ai_ml_engineering": {
     "title": "AI / ML Engineering",
-    "emoji": "\ud83e\udd16",
+    "emoji": "🤖",
     "keywords": [
-      "ai engineer",
+      "machine learning",
       "ml engineer",
-      "machine learning engineer",
-      "applied ai",
-      "llm engineer",
-      "genai",
-      "ai/ml",
-      "artificial intelligence engineer",
+      "ai engineer",
+      "artificial intelligence",
       "deep learning",
-      "robotics software",
-      "ml platform",
-      "ai platform",
       "computer vision",
+      "nlp engineer",
+      "natural language",
+      "data scientist",
+      "data science",
       "research engineer",
-      "applied scientist"
+      "applied scientist",
+      "applied researcher",
+      "research scientist",
+      "data engineer",
+      "data analyst"
     ]
   },
-  "embedded_systems": {
-    "title": "Embedded & Systems",
-    "emoji": "\ud83d\udd27",
+  "infrastructure_security": {
+    "title": "Infrastructure & Security",
+    "emoji": "🔒",
     "keywords": [
-      "embedded",
-      "firmware",
-      "flight software",
-      "systems software",
-      "kernel",
-      "driver engineer",
-      "low-level",
-      "real-time",
-      "~rtos"
-    ]
-  },
-  "systems_infrastructure": {
-    "title": "Systems & Network Engineering",
-    "emoji": "\ud83d\udcbb",
-    "keywords": [
-      "systems engineer",
-      "linux engineer",
+      "devops",
+      "devops engineer",
+      "site reliability",
+      "sre",
+      "infrastructure engineer",
+      "cloud engineer",
+      "reliability engineer",
+      "cloud architect",
       "network engineer",
+      "system administrator",
+      "systems administrator",
+      "qa engineer",
+      "qa engineering",
+      "quality assurance",
+      "test engineer",
+      "testing engineer",
+      "automation engineer",
+      "sdet",
+      "security engineer",
+      "security software",
+      "product security",
+      "cybersecurity",
+      "cyber security",
+      "information security",
+      "appsec",
+      "netsec",
+      "penetration tester",
+      "vulnerability",
+      "cryptography engineer",
+      "security analyst",
+      "soc analyst",
+      "threat engineer",
+      "security architect"
+    ]
+  },
+  "systems_embedded": {
+    "title": "Systems & Embedded",
+    "emoji": "⚙️",
+    "keywords": [
+      "embedded engineer",
+      "embedded systems",
+      "firmware engineer",
+      "firmware developer",
+      "systems engineer",
+      "systems engineering",
+      "hardware engineer",
+      "electrical engineer",
+      "fpga",
+      "asic",
+      "silicon engineer",
+      "chip design",
+      "rf engineer",
+      "signal processing",
+      "linux engineer",
       "data center",
       "it systems",
       "it support",
-      "systems administrator",
-      "database administrator"
+      "network engineering",
+      "systems programming",
+      "kernel",
+      "driver",
+      "iot",
+      "robotics software",
+      "robotics engineer",
+      "controls engineer"
     ]
   },
-  "solutions_presales": {
-    "title": "Solutions & Pre-Sales",
-    "emoji": "\ud83d\udca1",
+  "solutions_pm": {
+    "title": "Solutions & Program Management",
+    "emoji": "📋",
     "keywords": [
       "solutions architect",
       "solutions engineer",
-      "solution architect",
-      "solution engineer",
       "deployment strategist",
       "implementation consultant",
-      "presales",
-      "pre-sales",
-      "sales engineer"
-    ]
-  },
-  "technical_pm": {
-    "title": "Technical Program Management",
-    "emoji": "\ud83d\udccb",
-    "keywords": [
+      "sales engineer",
       "technical program manager",
       "technical project manager",
       "scrum master",
-      "technical program"
+      "product manager",
+      "technical product manager",
+      "product analyst",
+      "program coordinator",
+      "project coordinator",
+      "pre-sales",
+      "presales"
     ]
   },
-  "backend": {
-    "title": "Software Engineering",
-    "emoji": "\ud83d\udcbb",
-    "keywords": [
-      "software engineer",
-      "software developer",
-      "software development engineer",
-      "backend",
-      "back-end",
-      "back end",
-      "backend engineer",
-      "backend developer",
-      "api engineer",
-      "sde",
-      "application developer",
-      "it engineer",
-      "java developer",
-      "python developer",
-      "javascript developer",
-      "forward deployed engineer"
-    ]
+  "other": {
+    "title": "Other Software Roles",
+    "emoji": "📂",
+    "keywords": []
   }
 }
