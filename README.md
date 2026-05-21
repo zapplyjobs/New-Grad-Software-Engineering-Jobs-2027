@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2915-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-381-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2912-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-379-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -226,7 +226,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fiserv** | AI Engineer | Columbus Ohio + 2... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Columbus-Ohio/Data-Scientist---Cybersecurity-AI---Advanced-Analytics_R-10388404-1) |
 | **AeroVironment** | Machine Learning Engineering Intern | 20521 Seneca Mead... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Machine-Learning-Engineering-Intern_7790) |
 | **NVIDIA** | Machine Learning Systems Engineer, Ne... | US, CA, Santa Clara | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Machine-Learning-Systems-Engineer--Networking_JR2018261) |
-| **SEL** | Associate Research Engineer | Pullman | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Research-Engineer_2026-20932-1) |
+| **SEL** | Associate Research Engineer | Pullman | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Research-Engineer_2026-20932-1) |
 | **Scale AI** | Research Scientist, Safety Post Training | San Francisco, CA... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4696595005) |
 | **Pinterest** | Data Scientist II, Infrastructure | San Francisco, CA... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=7816424) |
 | **Vanguard** | AI Engineer — Workplace AI | Wayne, PA + 3 more | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Domain-Architect--AI-ML--Specialist_177745-1) |
@@ -308,7 +308,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Trace3** | DevOps | United States | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
 | **Honeywell** | Information Systems Intern - IT - Cyb... | United States | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393) |
 | **Tesla** | Operational Automation Engineer Intern | Draper, UT | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150) |
-| **OpenAI** | Forward Deployed Security Engineer | Washington, DC | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41/application) |
+| **OpenAI** | Forward Deployed Security Engineer | Washington, DC | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41/application) |
 | **Philips** | Software Test Engineer | Cambridge (US), M... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Software-Development-Test-Engineer_573555-1) |
 | **Jabil** | Automation Engineer | St. Petersburg/Ta... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Automation-Engineer_J2448213) |
 | **Jabil** | Automation Engineer | St. Petersburg/Ta... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Automation-Engineer_J2448215) |
@@ -335,7 +335,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Caterpillar** | Automation Engineering Specialist | Mossville Illinoi... | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Automation-Engineering-Specialist_R0000367212) |
 | **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
 | **Varda Space** | Mission Operations and Automation Eng... | El Segundo, Calif... | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7742305003) |
-| **Rocket Lab** | Cybersecurity Engineer II | Long Beach, CA | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7742153003) |
+| **Rocket Lab** | Cybersecurity Engineer II | Long Beach, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7742153003) |
 | **AMD** | Hardware Diagnostic QA Engineer | Santa Clara, CA, ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/86182/login) |
 | **LSEG** | DevOps Engineer | St. Loui, Missouri | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lseg.wd3.myworkdayjobs.com/Careers/job/St-Loui-Missouri/Senior-DevOps-Engineer_R0112138-1) |
 | **Intel** | Information Security Engineer | California Folsom... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer_JR0284155) |
@@ -425,19 +425,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intel** | OS Kernel Engineer | Oregon Hillsboro ... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/OS-Kernel-Engineer_JR0281962) |
 | **Intel** | IT Support Specialist | Costa Rica, San Jose | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/IT-Support-Specialist_JR0283623) |
 | **Pure Storage** | Associate Systems Engineer | Chicago, Illinois... | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7931226) |
-| **Rocket Lab** | Systems Engineering Intern Fall 2026 | Long Beach, CA | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
+| **Rocket Lab** | Systems Engineering Intern Fall 2026 | Long Beach, CA | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
 | **AMD** | Data Center Systems Engineer | Austin, TX, Unite... | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/86260/login) |
 | **Boston Dynamics** | Perception Systems Engineer | Waltham | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Principal-Systems-Engineer_R2063) |
 | **Johnson & Johnson** | Robotics and Controls Engineer - Stra... | Santa Clara, Cali... | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Robotics-and-Controls-Engineer---Strategic-Robotics_R-077354) |
-| **Anduril** | Systems Engineer, Battlespace | Waltham, Massachu... | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5143685007?gh_jid=5143685007) |
-| **Amazon Data Services, Inc.** | NPD Manufacturing Engineer, Data Cent... | Austin, TX | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10426549/npd-manufacturing-engineer-data-center-engineering-electrical-products-and-services) |
+| **Anduril** | Systems Engineer, Battlespace | Waltham, Massachu... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5143685007?gh_jid=5143685007) |
+| **Amazon Data Services, Inc.** | NPD Manufacturing Engineer, Data Cent... | Austin, TX | 21h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10426549/npd-manufacturing-engineer-data-center-engineering-electrical-products-and-services) |
 | **NVIDIA** | Data Center MODS Technical Program Ma... | US, CA, Santa Clara | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Center-MODS-Technical-Program-Manager_JR2018281) |
 | **Experian** | Claims and Remit Support Developer - ... | United States, UN... | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000127518049) |
 | **Veritiv** | Class A Driver | CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---CA---Tracy/Class-A-Driver_R30957) |
 | **Amazon Development Center U.S., Inc.** | Software Dev Engineer, AWS Hardware E... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10425605/software-dev-engineer-aws-hardware-engineering) |
 | **NBCUniversal** | Broadcast Systems Engineer, NBC Boston | Needham, Massachu... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000127312899) |
 | **Anduril** | Systems Engineer, Battlespace | Broomfield, Color... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5142407007?gh_jid=5142407007) |
-| **Sony Interactive Entertainment** | Systems Engineer I | WA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6000422004) |
+| **Sony Interactive Entertainment** | Systems Engineer I | WA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6000422004) |
 | **Palo Alto Networks** | Channel Systems Engineer Manager | 4 Locations | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Atlanta-United-States-of-America/Channel-SE-Manager_JR-017477-1) |
 | **Generac** | Field Project Engineer-Data Centers | Houston, TX + 6 more | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Houston-TX---USA/Field-Project-Engineer-Data-Centers_JR14173-1) |
 | **Generac** | Field Project Engineer-Data Centers | Houston, TX + 6 more | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Houston-TX---USA/Field-Project-Engineer-Data-Centers_JR14172) |
@@ -459,7 +459,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Computer Security Systems Engineer As... | USA IN Crane | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-IN-Crane/Computer-Security-Systems-Engineer-Associate_RQ219742-1) |
 | **Bosch Group** | Controls Systems Engineer (Multiple P... | Fountain Inn, SC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000127214024) |
 | **Corning** | Digital Systems Engineer | Westlake, TX | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://corningjobs.corning.com/job/Keller-Digital-Systems-Engineer-TX-76248/1391877500/?ats=successfactors) |
-| **SEL** | Embedded Systems Engineer | Pullman | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/FPGA-Design-Engineer_2025-18317) |
+| **SEL** | Embedded Systems Engineer | Pullman | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/FPGA-Design-Engineer_2025-18317) |
 | **Apple** | Wireless Systems Engineer | Cupertino | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200663708/wireless-systems-engineer) |
 | **Magna** | IOT Developer | Highland Park, Mi... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/IOT-Developer_R00243135) |
 | **Jabil** | IT Systems Engineer | Hunt Valley, MD | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Hunt-Valley-MD/IT-Systems-Engineer_J2450142) |
@@ -582,7 +582,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2915 current opportunities from 381 companies**
+**🎯 2912 current opportunities from 379 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
