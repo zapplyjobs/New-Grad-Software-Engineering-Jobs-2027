@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2790-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2786-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-388-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -128,7 +128,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Full Stack Software Engineer | Santa Maria, CA, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Santa-Maria-CA-US/Full-Stack-Software-Engineer_326752) |
 | **CACI** | Software Engineer (Multiple Levels) | Fort Meade MD US ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Fort-Meade-MD-US/Software-Engineer--Multiple-Levels-_325683) |
 | **CACI** | Forward Deploy Software Engineer | Chantilly, VA, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Chantilly-VA-US/Senior-Infrastructure-DevSecOps-Engineer_324395) |
-| **Baker Hughes** | Software Engineer (C#, WPF) | Ka, IN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Senior-Software-Engineer--C---WPF-_R164068) |
+| **Baker Hughes** | Software Engineer (C#, WPF) | Ka, IN | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Senior-Software-Engineer--C---WPF-_R164068) |
 | **Booz Allen Hamilton** | AI Software Engineer | Washington, DC | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-ML-Infrastructure-Software-Development-Engineer_R0238288) |
 | **Booz Allen Hamilton** | AI Software Engineer | Washington, DC | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI---ML-Software-Development-Engineer_R0238284-1) |
 | **Booz Allen Hamilton** | Full Stack Software Engineer | Chantilly, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0240598) |
@@ -209,7 +209,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Citadel Securities** | Quantitative Research Engineer | Miami, FL | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) |
 | **Graphcore** | Research Scientist (Visual Generative... | Cambridge, UK | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8559604002) |
 | **Zayo** | Network Automation & AI Engineer Inte... | Denver, CO | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Network-Automation---AI-Engineer-Intern---WaaS_R0016176) |
-| **SpaceX** | ML Engineer, Surrogate Modeling (Vehi... | Hawthorne, CA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8559035002?gh_jid=8559035002) |
+| **SpaceX** | ML Engineer, Surrogate Modeling (Vehi... | Hawthorne, CA | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8559035002?gh_jid=8559035002) |
 | **AeroVironment** | Machine Learning Engineering Intern | 20521 Seneca Mead... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Machine-Learning-Engineering-Intern_7790) |
 | **State Street** | Artificial Intelligence & Machine Lea... | Boston, Massachus... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Artificial-Intelligence---Machine-Learning_R-790788) |
 | **Northrop Grumman** | Research Scientist Manager 2 | Utah | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Research-Scientist-Manager-2_R10233533) |
@@ -240,7 +240,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Salesforce** | Adversarial AI & Research Engineer | California + 4 more | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Remote/Adversarial-AI---Research-Engineer_JR332451) |
 | **Cerebras Systems** | AI Engineer, Model Quality and Perfor... | Sunnyvale, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cerebrassystems/jobs/7735288003) |
 | **PlusAI** | Machine Learning Infrastructure Engin... | Santa Clara, CA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4/apply) |
-| **KBR** | Radar Research Engineer | Chantilly, Virginia | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Radar-Research-Engineer_R2123641) |
 | **State Street** | BestX AI Engineer, Full-time Internsh... | Quincy, Massachus... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/BestX-AI-Engineer--Full-time-Internship--July---Dec-2026-_R-784548) |
 | **Homebase** | AI Engineering Intern (Hybrid) | San Francisco | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/homebase/b61bc585-57bf-4918-8154-b8be27ff5a5e/application) |
 | **Rocket Lawyer** | Data Engineering Intern (AI & Automat... | Arizona ; Califor... | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5203906008) |
@@ -295,7 +294,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Guidehouse** | Cybersecurity Consultant | VA McLean + 1 more | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Cybersecurity-Consultant_39371) |
 | **Guidehouse** | Security Engineer | Remote | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Security-Engineer_39532) |
 | **Caterpillar** | Logistics Automation Engineer | Mossville, Illinois | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Logistics-Automation-Engineer_R0000357197-1) |
-| **Comcast** | Engineer 3, Network Engineering | 3 Locations | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/GA---Atlanta-2605-Circle-75-Pkwy-SE/Engineer-3--Network-Engineering_R437729-1) |
+| **Comcast** | Engineer 3, Network Engineering | 3 Locations | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/GA---Atlanta-2605-Circle-75-Pkwy-SE/Engineer-3--Network-Engineering_R437729-1) |
 | **CACI** | Junior Network Engineer | Colorado Springs,... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Colorado-Springs-CO-US/Junior-Network-Engineer_324712) |
 | **CACI** | Network Engineer (SD-WAN) | High Point, NC, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/High-Point-NC-US/Network-Engineer--SD-WAN-_324235) |
 | **CACI** | Network Engineer (SD-WAN) | High Point, NC, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/High-Point-NC-US/Network-Engineer--SD-WAN-_324236) |
@@ -312,7 +311,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Trace3** | DevOps | United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
 | **Honeywell** | Information Systems Intern - IT - Cyb... | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393) |
 | **Tesla** | Operational Automation Engineer Intern | Draper, UT | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150) |
-| **XPENG Motors** | Agentic Infrastructure Engineer Intern | Santa Clara, CA | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8559314002) |
+| **XPENG Motors** | Agentic Infrastructure Engineer Intern | Santa Clara, CA | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8559314002) |
 | **Caterpillar** | Automation Engineering Specialist | Mossville Illinoi... | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Automation-Engineering-Specialist_R0000367212) |
 | **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
 | **Varda Space** | Mission Operations and Automation Eng... | El Segundo, Calif... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7742305003) |
@@ -396,7 +395,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Carnegie Mellon University** | Hourly Shuttle/Escort Driver - Facili... | Pittsburgh, PA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Hourly-Shuttle-Escort-Driver---Facilities-Management---Campus-Services--FMCS-_2023909) |
 | **Booz Allen Hamilton** | Dataflow Systems Engineer | Columbia, MD + 1 ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Columbia-MD/Dataflow-Systems-Engineer_R0240585) |
 | **Booz Allen Hamilton** | Systems Engineer | Huntsville, AL | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Systems-Engineer_R0234228) |
-| **Booz Allen Hamilton** | Systems Engineer | El Segundo, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/Systems-Engineer_R0239488) |
+| **Booz Allen Hamilton** | Systems Engineer | El Segundo, CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/Systems-Engineer_R0239488) |
 | **Boeing** | Entry-Level Systems Engineer (Digital... | El Segundo, CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Systems-Engineer--Digital-Comm---Networks-Sys-Engrg-_JR2026510769-1) |
 | **Boeing** | Experienced Systems Engineer (Systems... | Berkeley, MO | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Systems-Engineer--Systems-Integration--Verification---Validation-_JR2026506151-1) |
 | **Boeing** | Systems Engineer | Oklahoma City, OK | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Systems-Engineer_JR2026510911-1) |
@@ -417,10 +416,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson & Johnson** | Robotics and Controls Engineer - Stra... | Santa Clara, Cali... | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Robotics-and-Controls-Engineer---Strategic-Robotics_R-077354) |
 | **Anduril** | Systems Engineer, Battlespace | Waltham, Massachu... | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5143685007?gh_jid=5143685007) |
 | **Sierra Nevada Corporation** | Systems Engineer I | Dayton, OH | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Systems-Engineer-I_R0029876) |
-| **NVIDIA** | Data Center MODS Technical Program Ma... | US, CA, Santa Clara | 16h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Center-MODS-Technical-Program-Manager_JR2018281) |
-| **Experian** | Claims and Remit Support Developer - ... | United States, UN... | 16h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000127518049) |
+| **NVIDIA** | Data Center MODS Technical Program Ma... | US, CA, Santa Clara | 17h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Center-MODS-Technical-Program-Manager_JR2018281) |
+| **Experian** | Claims and Remit Support Developer - ... | United States, UN... | 17h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000127518049) |
 | **ALTEN Technology** | Systems Engineer - Discrete Event Sim... | North Reading, MA | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5143520007) |
-| **Veritiv** | Class A Driver | CA | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---CA---Tracy/Class-A-Driver_R30957) |
+| **Veritiv** | Class A Driver | CA | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---CA---Tracy/Class-A-Driver_R30957) |
 | **Amazon Development Center U.S., Inc.** | Software Dev Engineer, AWS Hardware E... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10425605/software-dev-engineer-aws-hardware-engineering) |
 | **NBCUniversal** | Broadcast Systems Engineer, NBC Boston | Needham, Massachu... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000127312899) |
 | **Anduril** | Systems Engineer, Battlespace | Broomfield, Color... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5142407007?gh_jid=5142407007) |
@@ -493,8 +492,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Edge Processing Solutions Engineer | Rome, NY | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Edge-Processing-Solutions-Engineer_R0240568) |
 | **Boston Dynamics** | Manager, Technical Program Manager | Waltham | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Technical-Program-Manager_R2457) |
 | **Amentum** | Business Systems Analyst III (Scrum M... | Vienna, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Vienna/Business-Systems-Analyst-III--Scrum-Master-_R0161803) |
-| **Kodiak Robotics** | Hardware Technical Program Manager | Mountain View, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/kodiak/jobs/4254544009) |
-| **Notion** | Product Manager, AI Governance and Ad... | New York, New York | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/notion/2dd301f6-42da-40a2-a064-0f6fcfbdca77/application) |
+| **Kodiak Robotics** | Hardware Technical Program Manager | Mountain View, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/kodiak/jobs/4254544009) |
+| **Notion** | Product Manager, AI Governance and Ad... | New York, New York | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/notion/2dd301f6-42da-40a2-a064-0f6fcfbdca77/application) |
 | **Etsy** | Program Coordinator, Workforce Planning | Brooklyn, New York | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Program-Coordinator--Workforce-Planning_JR5622-1) |
 | **EliseAI** | Associate Solutions Engineer   Housing | New York City | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/5b6f3775-3e79-4269-a255-47ee3057265d/application) |
 | **EliseAI** | Associate Solutions Engineer   Health... | New York City | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/68e1e7e0-0089-4cd5-9603-24bae85891a9/application) |
@@ -578,7 +577,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2790 current opportunities from 388 companies**
+**🎯 2786 current opportunities from 388 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
