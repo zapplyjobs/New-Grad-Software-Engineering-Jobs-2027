@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2795-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2793-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-388-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -212,7 +212,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boston Dynamics** | Research Engineer, Atlas Physics Simu... | Waltham | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Engineer--Atlas-Physics-Simulation-for-RL_R2741) |
 | **Graphcore** | Research Scientist (Visual Generative... | Cambridge, UK | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8559604002) |
 | **Zayo** | Network Automation & AI Engineer Inte... | Denver, CO | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Network-Automation---AI-Engineer-Intern---WaaS_R0016176) |
-| **SpaceX** | ML Engineer, Surrogate Modeling (Vehi... | Hawthorne, CA | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8559035002?gh_jid=8559035002) |
+| **SpaceX** | ML Engineer, Surrogate Modeling (Vehi... | Hawthorne, CA | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8559035002?gh_jid=8559035002) |
 | **State Street** | Artificial Intelligence & Machine Lea... | Boston, Massachus... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Artificial-Intelligence---Machine-Learning_R-790788) |
 | **Northrop Grumman** | Research Scientist Manager 2 | Utah | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Research-Scientist-Manager-2_R10233533) |
 | **Marvell** | AI/ML Data Engineer | Santa Clara, CA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-ML-Data-Engineer_2601154-1) |
@@ -318,7 +318,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boston Dynamics** | Software Quality Automation Engineer | Waltham, MA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Software-Quality-Automation-Engineer_R2777) |
 | **AIG** | SDN Automation Engineer | 200 South College... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/200-South-College-Street-Charlotte-NC-USA/SDN-Automation-Engineer_JR2602295) |
 | **Aerospace Corporation** | Kubernetes Site Reliability Engineer | El Segundo, CA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Kubernetes-Site-Reliability-Engineer_R015452) |
-| **XPENG Motors** | Agentic Infrastructure Engineer Intern | Santa Clara, CA | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8559314002) |
+| **XPENG Motors** | Agentic Infrastructure Engineer Intern | Santa Clara, CA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8559314002) |
 | **Caterpillar** | Automation Engineering Specialist | Mossville Illinoi... | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Automation-Engineering-Specialist_R0000367212) |
 | **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
 | **Varda Space** | Mission Operations and Automation Eng... | El Segundo, Calif... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7742305003) |
@@ -420,10 +420,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Aerospace Corporation** | Digital Systems Engineer | Albuquerque, NM | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/Albuquerque-NM/Sr-Digital-Systems-Engineer_R015429) |
 | **Johnson & Johnson** | Robotics and Controls Engineer - Stra... | Santa Clara, Cali... | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Robotics-and-Controls-Engineer---Strategic-Robotics_R-077354) |
 | **Anduril** | Systems Engineer, Battlespace | Waltham, Massachu... | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5143685007?gh_jid=5143685007) |
-| **NVIDIA** | Data Center MODS Technical Program Ma... | US, CA, Santa Clara | 17h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Center-MODS-Technical-Program-Manager_JR2018281) |
-| **Experian** | Claims and Remit Support Developer - ... | United States, UN... | 17h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000127518049) |
+| **NVIDIA** | Data Center MODS Technical Program Ma... | US, CA, Santa Clara | 18h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Center-MODS-Technical-Program-Manager_JR2018281) |
+| **Experian** | Claims and Remit Support Developer - ... | United States, UN... | 18h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000127518049) |
 | **ALTEN Technology** | Systems Engineer - Discrete Event Sim... | North Reading, MA | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5143520007) |
-| **Veritiv** | Class A Driver | CA | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---CA---Tracy/Class-A-Driver_R30957) |
+| **Veritiv** | Class A Driver | CA | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---CA---Tracy/Class-A-Driver_R30957) |
 | **Amazon Development Center U.S., Inc.** | Software Dev Engineer, AWS Hardware E... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10425605/software-dev-engineer-aws-hardware-engineering) |
 | **NBCUniversal** | Broadcast Systems Engineer, NBC Boston | Needham, Massachu... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000127312899) |
 | **Anduril** | Systems Engineer, Battlespace | Broomfield, Color... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5142407007?gh_jid=5142407007) |
@@ -496,8 +496,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Capital One** | Endpoint Security Product Manager | New York, NY + 2 ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Cyber-Product-Owner_R240601) |
 | **Amentum** | Business Systems Analyst III (Scrum M... | Vienna, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Vienna/Business-Systems-Analyst-III--Scrum-Master-_R0161803) |
 | **Boston Dynamics** | Manager, Technical Program Manager | Waltham | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Technical-Program-Manager_R2457) |
-| **Kodiak Robotics** | Hardware Technical Program Manager | Mountain View, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/kodiak/jobs/4254544009) |
-| **Notion** | Product Manager, AI Governance and Ad... | New York, New York | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/notion/2dd301f6-42da-40a2-a064-0f6fcfbdca77/application) |
+| **Kodiak Robotics** | Hardware Technical Program Manager | Mountain View, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/kodiak/jobs/4254544009) |
+| **Notion** | Product Manager, AI Governance and Ad... | New York, New York | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/notion/2dd301f6-42da-40a2-a064-0f6fcfbdca77/application) |
 | **Etsy** | Program Coordinator, Workforce Planning | Brooklyn, New York | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Program-Coordinator--Workforce-Planning_JR5622-1) |
 | **EliseAI** | Associate Solutions Engineer   Housing | New York City | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/5b6f3775-3e79-4269-a255-47ee3057265d/application) |
 | **EliseAI** | Associate Solutions Engineer   Health... | New York City | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/68e1e7e0-0089-4cd5-9603-24bae85891a9/application) |
@@ -580,7 +580,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2795 current opportunities from 388 companies**
+**🎯 2793 current opportunities from 388 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
