@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2882-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-375-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2862-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-374-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -308,7 +308,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Trace3** | DevOps | United States | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
 | **Honeywell** | Information Systems Intern - IT - Cyb... | United States | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393) |
 | **Tesla** | Operational Automation Engineer Intern | Draper, UT | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150) |
-| **OpenAI** | Forward Deployed Security Engineer | Washington, DC | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41/application) |
+| **OpenAI** | Forward Deployed Security Engineer | Washington, DC | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41/application) |
 | **Philips** | Software Test Engineer | Cambridge (US), M... | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Software-Development-Test-Engineer_573555-1) |
 | **Jabil** | Automation Engineer | St. Petersburg/Ta... | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Automation-Engineer_J2448213) |
 | **Jabil** | Automation Engineer | St. Petersburg/Ta... | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Automation-Engineer_J2448215) |
@@ -339,8 +339,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AMD** | Hardware Diagnostic QA Engineer | Santa Clara, CA, ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/86182/login) |
 | **LSEG** | DevOps Engineer | St. Loui, Missouri | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lseg.wd3.myworkdayjobs.com/Careers/job/St-Loui-Missouri/Senior-DevOps-Engineer_R0112138-1) |
 | **Intel** | Information Security Engineer | California Folsom... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer_JR0284155) |
-| **Oracle** | GDI Information Security Analyst Inte... | Reston, VA, Unite... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389) |
-| **Oracle** | Site Reliability Developer 4 | United States | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334399) |
+| **Oracle** | GDI Information Security Analyst Inte... | Reston, VA, Unite... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389) |
+| **Oracle** | Site Reliability Developer 4 | United States | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334399) |
 | **Snap** | Security Engineer, Level 5 | Los Angeles, Cali... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Security-Engineer--Level-5_H126SWES6-1) |
 | **Smiths Group** | Teamcenter Systems Administrator | Morton Grove, IL | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000127305989) |
 | **State Street** | Infrastructure Engineering, Off | Quincy, Massachus... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Infrastructure-Engineering--Off_R-789694-1) |
@@ -425,16 +425,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intel** | OS Kernel Engineer | Oregon Hillsboro ... | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/OS-Kernel-Engineer_JR0281962) |
 | **Intel** | IT Support Specialist | Costa Rica, San Jose | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/IT-Support-Specialist_JR0283623) |
 | **Pure Storage** | Associate Systems Engineer | Chicago, Illinois... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7931226) |
-| **Rocket Lab** | Systems Engineering Intern Fall 2026 | Long Beach, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
+| **Rocket Lab** | Systems Engineering Intern Fall 2026 | Long Beach, CA | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
 | **AMD** | Data Center Systems Engineer | Austin, TX, Unite... | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/86260/login) |
 | **Boston Dynamics** | Perception Systems Engineer | Waltham | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Principal-Systems-Engineer_R2063) |
 | **Johnson & Johnson** | Robotics and Controls Engineer - Stra... | Santa Clara, Cali... | 22h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Robotics-and-Controls-Engineer---Strategic-Robotics_R-077354) |
-| **Anduril** | Systems Engineer, Battlespace | Waltham, Massachu... | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5143685007?gh_jid=5143685007) |
-| **Amazon Data Services, Inc.** | NPD Manufacturing Engineer, Data Cent... | Austin, TX | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10426549/npd-manufacturing-engineer-data-center-engineering-electrical-products-and-services) |
+| **Anduril** | Systems Engineer, Battlespace | Waltham, Massachu... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5143685007?gh_jid=5143685007) |
+| **Amazon Data Services, Inc.** | NPD Manufacturing Engineer, Data Cent... | Austin, TX | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10426549/npd-manufacturing-engineer-data-center-engineering-electrical-products-and-services) |
 | **NVIDIA** | Data Center MODS Technical Program Ma... | US, CA, Santa Clara | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Center-MODS-Technical-Program-Manager_JR2018281) |
 | **Experian** | Claims and Remit Support Developer - ... | United States, UN... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000127518049) |
 | **Veritiv** | Class A Driver | CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---CA---Tracy/Class-A-Driver_R30957) |
-| **Amazon Development Center U.S., Inc.** | Software Dev Engineer, AWS Hardware E... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10425605/software-dev-engineer-aws-hardware-engineering) |
+| **Amazon Development Center U.S., Inc.** | Software Dev Engineer, AWS Hardware E... | Seattle, WA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10425605/software-dev-engineer-aws-hardware-engineering) |
 | **NBCUniversal** | Broadcast Systems Engineer, NBC Boston | Needham, Massachu... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000127312899) |
 | **Anduril** | Systems Engineer, Battlespace | Broomfield, Color... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5142407007?gh_jid=5142407007) |
 | **Sony Interactive Entertainment** | Systems Engineer I | WA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6000422004) |
@@ -467,10 +467,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Satellite Systems Engineer | Aurora, CO, US | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Aurora-CO-US/Satellite-Systems-Engineer_314919-2) |
 | **Moog** | Intern, Systems Engineering | Salt Lake City, UT | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Intern--Systems-Engineering_R-26-16547) |
 | **IMC Trading** | Data Center Engineer | United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4869766101) |
-| **Oracle** | Data Center Technical Program Manager | United States | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/332899) |
+| **Oracle** | Data Center Technical Program Manager | United States | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/332899) |
 | **HPE** | Hardware Engineering Program Manager 2 | Sunnyvale, Califo... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-2_1206366-1) |
 | **HPE (University)** | Hardware Engineering Program Manager 2 | Sunnyvale, Califo... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-2_1206366-3) |
-| **Amazon.com Services LLC** | Systems Development Engineer, Control... | Boston, MA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10421945/systems-development-engineer-controls-engineering) |
+| **Amazon.com Services LLC** | Systems Development Engineer, Control... | Boston, MA | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10421945/systems-development-engineer-controls-engineering) |
 | **WHOOP** | Embedded Engineer | Boston, MA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/whoop/e8171c38-fbc5-4ce2-a8e5-fe9e4934bbae/apply) |
 | **SpaceX** | Data & Control Systems Engineer | Cape Canaveral, FL | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8552660002?gh_jid=8552660002) |
 | **GDIT** | CDAO Advana - Systems Engineer | USA DC Washington | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/CDAO-Advana---Systems-Engineer_RQ220249) |
@@ -582,7 +582,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2882 current opportunities from 375 companies**
+**🎯 2862 current opportunities from 374 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -590,6 +590,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: May 21, 2026
+**Last Updated**: May 22, 2026
 
 </div>
