@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2522-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-355-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2490-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-352-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -196,7 +196,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Data Engineer/Data Scientist | Remote | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Data-Engineer-Data-Scientist_326886) |
 | **Apple** | Machine Learning Engineer — Generativ... | Cupertino | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200662933/machine-learning-engineer-generative-models-productivity-apps) |
 | **Johnson & Johnson** | Data Scientist- Clinical Decision Sup... | Danvers, Massachu... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Data-Scientist--Clinical-Decision-Support--LLMs_R-077082-1) |
-| **Jabil** | data scientist | St. Petersburg/Ta... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/data-scientist_J2447396) |
+| **Jabil** | data scientist | St. Petersburg/Ta... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/data-scientist_J2447396) |
 | **Autodesk** | Data Engineer | California + 3 more | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Data-Engineer_26WD97843-1) |
 | **Booz Allen Hamilton** | Azure Data Engineer | McLean, VA + 1 more | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Azure-Data-Engineer_R0240295) |
 | **Apple** | On-Device ML Integration Engineer, Gr... | Cupertino | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200642883/on-device-ml-integration-engineer-graphics-games-and-machine-learning) |
@@ -277,7 +277,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Site Reliability Engineer - CTJ - Poly | Redmond, Washingt... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556868612) |
 | **Okta** | Manager, Site Reliability Engineering | San Francisco, Ca... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/7904652?gh_jid=7904652) |
 | **RunPod** | Site Reliability Engineer | Remote, USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/runpod/jobs/5229443008) |
-| **Groundswell** | SAP Cybersecurity Specialist | Washington DC | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://groundswell.wd12.myworkdayjobs.com/groundswell/job/Client-Site--Washington-DC/SAP-Cybersecurity-Specialist_JR101007) |
+| **Groundswell** | SAP Cybersecurity Specialist | Washington DC | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://groundswell.wd12.myworkdayjobs.com/groundswell/job/Client-Site--Washington-DC/SAP-Cybersecurity-Specialist_JR101007) |
 | **Per Scholas** | Technical Instructor (AWS DevOps) | United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4683084006) |
 | **Robinhood** | Security Engineer, AI Vulnerability M... | Menlo Park, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) |
 | **IDEXX** | Security Operations (Cybersecurity) i... | Westbrook, ME | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
@@ -309,8 +309,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Baseten** | Data Center Network Engineer | San Francisco | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/baseten/8570f34d-edfe-4bc2-b2b1-eda37155eddb/application) |
 | **d-Matrix** | ASIC Functional Test Engineering Intern | Santa Clara | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/d-matrix/5e90beb2-1c51-4daa-8739-7ad7d1f83f79/application) |
 | **Synergy ECP** | Network Engineer | Annapolis Junctio... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/5305b9ca-2b87-42b2-bbda-797a0e0f8e1e/apply) |
-| **Johnson & Johnson** | Automation Engineer II | Cornelia, Georgia... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Automation-Engineer-II_R-069935-1) |
-| **CVS Health** | Software Quality Automation Engineer | AZ Scottsdale + 1... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Software-Quality-Automation-Engineer_R0897984-1) |
+| **Johnson & Johnson** | Automation Engineer II | Cornelia, Georgia... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Automation-Engineer-II_R-069935-1) |
+| **CVS Health** | Software Quality Automation Engineer | AZ Scottsdale + 1... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Software-Quality-Automation-Engineer_R0897984-1) |
 | **OpenAI** | Forward Deployed Security Engineer | Washington, DC | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41/application) |
 | **Jabil** | Automation Engineer | St. Petersburg/Ta... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Automation-Engineer_J2448213) |
 | **Jabil** | Automation Engineer | St. Petersburg/Ta... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Automation-Engineer_J2448215) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KLA** | Systems Engineer (Electron Beam) | Milpitas, CA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Systems-Engineer--Electron-Beam-_2636685-1) |
 | **Apple** | Apple Business Systems Engineer Manager | Austin | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200646658/apple-business-systems-engineer-manager) |
 | **Rocket Lab** | RF Systems Engineer I/II - TS/SCI Pip... | Long Beach, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7746572003) |
-| **HP Inc** | 3LS Quality Systems Engineer | Spring, Texas, Un... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/XMLNAME-3LS-Quality-Systems-Engineer_3160550) |
+| **HP Inc** | 3LS Quality Systems Engineer | Spring, Texas, Un... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/XMLNAME-3LS-Quality-Systems-Engineer_3160550) |
 | **Intel** | OS Kernel Engineer | Oregon Hillsboro ... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/OS-Kernel-Engineer_JR0281962) |
 | **Pure Storage** | Associate Systems Engineer | Chicago, Illinois... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7931226) |
 | **Rocket Lab** | Systems Engineering Intern Fall 2026 | Long Beach, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
@@ -414,7 +414,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Experian** | Claims and Remit Support Developer - ... | United States, UN... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000127518049) |
 | **Apple** | Solution Engineer, Corporate Systems ... | Austin | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200626160/solution-engineer-corporate-systems-engineering) |
 | **Apple** | Wireless Systems Engineer | Austin | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200660863/wireless-systems-engineer) |
-| **Veritiv** | Class A Driver | CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---CA---Tracy/Class-A-Driver_R30957) |
+| **Veritiv** | Class A Driver | CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---CA---Tracy/Class-A-Driver_R30957) |
 | **Carnegie Mellon University** | Hourly Shuttle/Escort Driver - Facili... | Pittsburgh, PA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Hourly-Shuttle-Escort-Driver---Facilities-Management---Campus-Services--FMCS-_2023909) |
 | **NVIDIA** | Data Center MODS Technical Program Ma... | US, CA, Santa Clara | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Center-MODS-Technical-Program-Manager_JR2018281) |
 | **Sierra Nevada Corporation** | Systems Engineer III | Dayton, OH | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Systems-Engineer-III_R0029718) |
@@ -490,9 +490,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **OpenAI** | Technical Program Manager, Core Netwo... | San Francisco | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/6d642115-b495-4119-818d-cdef2003ae93/application) |
 | **Together AI** | Junior Technical Program Manager — In... | San Francisco | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/5139762007) |
 | **Anduril** | Engineering Solutions Technical Progr... | Costa Mesa, Calif... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5141078007?gh_jid=5141078007) |
-| **Aptiv** | Technical Program Manager - Software | Troy, MI - USA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Technical-Program-Manager---Software_J000696229) |
-| **Lowe's** | Product Manager | Lowe's Charlotte ... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Product-Manager_JR-02494737) |
-| **Cisco** | Solutions Engineer - Splunk (Remote) | North Carolina + ... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Remote---North-Carolina-USA/Solutions-Engineer---Splunk--Remote-_2009577-1) |
 | **Comcast** | Comcast Technical Program Manager Co-op | Philadelphia, PA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Technical-Program-Manager-Co-op_R436171) |
 
 <p align="center">Apply for more jobs at</p>
@@ -549,7 +546,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2522 current opportunities from 355 companies**
+**🎯 2490 current opportunities from 352 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
