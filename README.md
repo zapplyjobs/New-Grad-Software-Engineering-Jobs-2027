@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2491-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-362-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2487-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-361-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -82,7 +82,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LSEG** | Software Engineer - FX Trading | New York City, Un... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lseg.wd3.myworkdayjobs.com/Careers/job/New-York-City-United-States/Software-Engineer---FX-Trading_R0120214) |
 | **HPE (University)** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206917-2) |
 | **HPE (University)** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206916-2) |
-| **HPE (University)** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1207422-2) |
+| **HPE (University)** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1207422-2) |
 | **HPE** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206917) |
 | **HPE** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206916) |
 | **HPE** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1207422) |
@@ -189,9 +189,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Citadel Securities** | Quantitative Research Engineer – PhD ... | Miami, FL | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) |
 | **Citadel Securities** | Quantitative Research Engineer | Miami, FL | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) |
 | **Drata** | Applied Research Engineer | San Francisco | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/drata/51a418d1-c371-4f9f-b248-2c3b542bec42/application) |
-| **Google** | Machine Learning Engineer, XLS, Compiler | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142249195464467142) |
-| **Google** | Research Engineer, Security and Priva... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/90906328553136838) |
-| **Google** | Research Engineer, Gemmaverse Variant... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86310936884716230) |
+| **Google** | Machine Learning Engineer, XLS, Compiler | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142249195464467142) |
+| **Google** | Research Engineer, Security and Priva... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/90906328553136838) |
+| **Google** | Research Engineer, Gemmaverse Variant... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86310936884716230) |
 | **PlusAI** | Research Engineer Intern - Mapping & ... | Santa Clara, CA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply) |
 | **PlusAI** | Research Engineer Intern | Santa Clara, CA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca/apply) |
 | **CACI** | Data Engineer/Data Scientist | Remote | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Data-Engineer-Data-Scientist_326886) |
@@ -261,14 +261,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Trace3** | DevOps | United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
 | **Tesla** | Operational Automation Engineer Intern | Draper, UT | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150) |
 | **ATPCO** | Cloud Engineer Intern — Flexible Remo... | Herndon, VA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/atpco1/744000128563576) |
-| **D.E. Shaw** | Client Platforms Security Engineer | Chicago | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
+| **D.E. Shaw** | Client Platforms Security Engineer | Chicago | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
 | **Accenture Federal Services** | Site Reliability Engineer | Arlington, VA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4683281006?gh_jid=4683281006) |
 | **Accenture Federal Services** | Enterprise AI Security Engineer (ISSE) | Arlington, VA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4683272006?gh_jid=4683272006) |
 | **Faire** | IT Operations Automation Engineer | San Francisco, CA | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8564497002?gh_jid=8564497002) |
 | **Freedom Technology Solutions Group** | Cloud Engineer | Chantilly, VA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5146265007) |
-| **Google** | Cloud Infrastructure Engineer, HPC, T... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/134733376358621894) |
-| **Google** | Engineering Lab Manager, Platforms In... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99464680103125702) |
-| **Google** | Security Engineer | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104649942579978950) |
+| **Google** | Cloud Infrastructure Engineer, HPC, T... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/134733376358621894) |
+| **Google** | Engineering Lab Manager, Platforms In... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99464680103125702) |
+| **Google** | Security Engineer | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104649942579978950) |
 | **Zoom** | AI Infrastructure Engineer | Seattle | 15h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Infrastructure-Engineer_R18263-1) |
 | **Zoom** | Enterprise Systems QA Engineer | San Jose | 15h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Enterprise-Systems-QA-Engineer_R18853-2) |
 | **Zoom** | SRE - Linux Administration | San Jose | 15h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18412) |
@@ -368,11 +368,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **University of Texas at Austin** | Linux Systems Engineering Scientist A... | Austin, TX | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Linux-Systems-Engineering-Scientist-Associate_R_00044919) |
 | **Corning** | Digital Systems Engineer | Westlake, TX | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://corningjobs.corning.com/job/Keller-Digital-Systems-Engineer-TX-76248/1391877500/?ats=successfactors) |
 | **Honeywell** | Systems Engineering – Recent Grad/Ful... | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113413) |
-| **Torc Robotics** | Systems Engineer I - Test Automation | Remote, US | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8554813002) |
+| **Torc Robotics** | Systems Engineer I - Test Automation | Remote, US | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8554813002) |
 | **Archer** | Airborne Electronic Hardware Systems ... | San Jose, Califor... | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/archer56/jobs/7740894003) |
-| **Google** | Technical Program Manager II, Hardwar... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131244105198904006) |
-| **Google** | Technical Program Manager III, System... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95380335855837894) |
-| **Google** | Civil and Structural Data Center Engi... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92899975062528710) |
+| **Google** | Technical Program Manager II, Hardwar... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131244105198904006) |
+| **Google** | Technical Program Manager III, System... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95380335855837894) |
+| **Google** | Civil and Structural Data Center Engi... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92899975062528710) |
 | **GlobalFoundries** | Systems Engineer - Networking | Texas Richardson ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineer---Networking_JR-2601903) |
 | **GlobalFoundries** | Software Systems Engineer | Texas Richardson ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Software-Systems-Engineer_JR-2601938) |
 | **Leidos** | Junior Reliability and Systems Engineer | Huntsville, AL | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Reliability-and-Systems-Engineer_R-00183959) |
@@ -452,9 +452,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ICF** | Scrum Master (Top Secret cleared) | Washington, DC | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Washington-DC/Scrum-Master--Top-Secret-cleared-_R2601802) |
 | **Booz Allen Hamilton** | Scrum Master | McLean, VA + 2 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Scrum-Master_R0240878) |
 | **Boston Dynamics** | Manager, Technical Program Manager | Waltham | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Technical-Program-Manager_R2457) |
-| **Google** | Technical Program Manager II, Enterpr... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91408662559367878) |
-| **Google** | Technical Program Manager III, Gemini... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140308835540574918) |
-| **Google** | Technical Program Manager III, ML Inf... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/85732181451645638) |
+| **Google** | Technical Program Manager II, Enterpr... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91408662559367878) |
+| **Google** | Technical Program Manager III, Gemini... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140308835540574918) |
+| **Google** | Technical Program Manager III, ML Inf... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/85732181451645638) |
 | **Zoom** | Upmarket Solutions Engineer | 2 Locations | 15h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--SC/Solutions-Engineer_R18870-1) |
 | **Zoom** | Contact Center Consulting Solutions E... | 2 Locations | 15h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--AZ/Contact-Center-Consulting-Solutions-Engineer_R18583-1) |
 | **HPE (University)** | Engineering Technical Program Manager | 3 Locations | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Technical-Program-Manager_1206118) |
@@ -541,7 +541,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2491 current opportunities from 362 companies**
+**🎯 2487 current opportunities from 361 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
