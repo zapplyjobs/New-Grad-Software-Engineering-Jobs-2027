@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2551-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2545-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-361-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -380,7 +380,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Varda Space** | IT Support Technician | El Segundo, Calif... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7747305003) |
 | **Microsoft** | Data Center Program Manager | Goodyear, Arizona... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556749027) |
 | **CVS Health** | Delivery Driver/Pharmacy Technician, ... | Spartanburg, SC | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/SC---Spartanburg/Delivery-Driver-Pharmacy-Technician--Back-End_R0914910-1) |
-| **Lynk** | Ground Station Systems Engineer - Mis... | Chantilly, VA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/1af67704-9c8d-47a4-a48c-7a50dabef6e1/application) |
+| **Lynk** | Ground Station Systems Engineer - Mis... | Chantilly, VA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/1af67704-9c8d-47a4-a48c-7a50dabef6e1/application) |
 | **HP Inc** | Software Automation Systems Engineer | Corvallis, Oregon... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-Automation-Systems-Engineer_3162871-1) |
 | **Northrop Grumman** | Systems Engineer - Level 4 | Alabama | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Systems-Engineer---Level-4_R10233931-1) |
 | **Northrop Grumman** | Cyber Systems Engineer | Florida | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Cyber-Systems-Engineer_R10233834) |
@@ -435,12 +435,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **VAST** | Life Support Systems Engineer II | Long Beach, Calif... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4682799006?gh_jid=4682799006) |
 | **Johnson Controls** | Controls Systems Engineer | Virginia | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Rockville-Virginia-United-States-of-America/HVAC-Controls-Systems-Engineer_WD30269889) |
 | **Philips** | Systems Engineer – Ultrasound (Cambri... | 2 Locations | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Systems-Engineer---Ultrasound--Cambridge--MA-_575000) |
-| **Captivation** | Systems Engineer 2 (Travel Required) ... | Annapolis Junctio... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5225272008) |
 | **Moog** | Intern, Systems Engineering | Salt Lake City, UT | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Intern--Systems-Engineering_R-26-16547) |
 | **CAE** | Systems Engineering Co-op (Summer) | Tampa | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Systems-Engineering-Co-op--Summer-_121982) |
 | **Moog** | Intern, Systems Engineering | Buffalo, NY | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-16992) |
 | **Johnson & Johnson** | FIRST Robotics Engineering Intern | 3 Locations | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/FIRST-Robotics-Engineering-Intern_R-063040-1) |
 | **Entegris** | Digital Manufacturing Systems Enginee... | Bedford, MA | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Digital-Manufacturing-Systems-Engineer-Co-Op---Fall-2026_REQ-10156) |
+| **Curtiss-Wright** | Software/Electrical Engineering Intern | Newtown, PA | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Newtown-TTC/Software-Electrical-Engineering-Intern_JR11947-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -551,7 +551,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2551 current opportunities from 361 companies**
+**🎯 2545 current opportunities from 361 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
