@@ -18,8 +18,8 @@
 <div align="center">
 
 ![Software Jobs](https://img.shields.io/badge/Software_Jobs-2633-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-1976-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-414-blue?style=flat&logo=building)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-1976-purple?style=flat&logo=tag)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
