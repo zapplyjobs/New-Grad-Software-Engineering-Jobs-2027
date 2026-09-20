@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | AI Data & Infrastructure Engineer | Sunnyvale | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200683893?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Apple** | AI Data & Infrastructure Engineer | Sunnyvale | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200683893?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | NCIS Cloud Engineer   Active Secret clearance | USA VA Quantico | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228815?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Cybersecurity Engineer | USA LA New Orleans | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228669?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Information Security Analyst | USA VA Virginia Beach | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228576?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -543,11 +543,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Aerospace Corporation** | 2027 Reliability and Statistics Undergraduate Intern | El Segundo, CA | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016594?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Aerospace Corporation** | 2027 Reliability and Statistics Undergraduate Intern | El Segundo, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016594?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Ameriprise Financial** | Distribution & Analytics GenAI Forward Deployed Engineer | Boston, Massachusetts | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_2943?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | ICAM Engineer - Edge Services | USA MD Fort Meade | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228685?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Nominal** | Mission Dev Engineer - New Grad (Summer 2027) | New York, United States | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDpgt_L0hB_S2rbd-acejJJS?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Nominal** | Mission Dev Engineer - Internship (Summer 2027) | New York, United States | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDq1JPt4gojJg-2VrQLT89PU?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Nominal** | Mission Dev Engineer - New Grad (Summer 2027) | New York, United States | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDpgt_L0hB_S2rbd-acejJJS?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Nominal** | Mission Dev Engineer - Internship (Summer 2027) | New York, United States | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDq1JPt4gojJg-2VrQLT89PU?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Microsoft** | Solution Engineer - AI Business Process | United States | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200052807?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Project Engineer Intern (Summer 2027) Onsite | CT-WINDSOR LOCKS-B1 | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872660?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Amentum** | Project Engineer - Flight Projects | TX-Houston | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0168259?s=gh-new-grad-software-engineering-jobs-2027) |
