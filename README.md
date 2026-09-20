@@ -16,7 +16,7 @@
 <p align="center">🚀 Software engineering jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Jobs-5890-3FB950?style=flat&logo=briefcase" height="30" alt="Software Jobs">
+  <img src="https://img.shields.io/badge/Software%20Jobs-5897-3FB950?style=flat&logo=briefcase" height="30" alt="Software Jobs">
   <img src="https://img.shields.io/badge/Infrastructure%20%26%20Security-660-2F81F7?style=flat&logo=briefcase" height="30" alt="Infrastructure & Security">
   <img src="https://img.shields.io/badge/Companies-624-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -125,7 +125,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Micron Technology** | Full Stack AI Engineer | Boise, ID - Main Site | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR111970?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Citi** | Software Engineer GEN AI, Assistant Vice President | Irving Texas United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26992613?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Citi** | Backend Engineering Lead(Java, Microservices & DevOps) - Assistant Vice President | Irving Texas United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26992930?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Blue Origin** | Embedded Software Engineer III - New Glenn Avionics | Greater Seattle Area | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R72444?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Johnson Controls** | Embedded Software Engineer I - Product Development | New Freedom-Pennsylvania-United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30272369?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Leidos** | Angular Developer | 6314 Remote/Teleworker US | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192485?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cardinal Health** | Software Engineer, Commercial Technologies (Specialty Networks) | Ohio, OH | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187636?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -165,6 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Twitch** | Software Engineer, Data Platform | San Francisco, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-twitch-8817023002?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Rubrik** | Software Engineering Winter Internship | Palo Alto, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rubrik-8171088?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Together AI** | Software Engineer, New Grad (2027) | San Francisco | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-togetherai-5211582007?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Together AI** | Software Engineer Intern (Winter 2027) | San Francisco | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-togetherai-5238031007?s=gh-new-grad-software-engineering-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -335,7 +335,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zayo** | Software Automation Engineer | United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zayo-zayo-careers-R0016139?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Trimble** | Site Reliability Engineer | CO Westminster | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57473?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Elevance Health** | CyberArk EPM Operations Security Analyst III | 2 Locations | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR200597?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Prudential Financial** | Specialist, Network Security Analyst | Newark, NJ, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pru-careers-R-125032?s=gh-new-grad-software-engineering-jobs-2027) |
 | **General Motors** | Endpoint Intelligence & Automation Engineer | Warren, Michigan, United States... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202617548?s=gh-new-grad-software-engineering-jobs-2027) |
 | **General Motors** | Software Test Engineer | Milford, Michigan, United... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202620540?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boeing** | Site Reliability Engineer (Associate, Experienced, or Senior) | USA - Berkeley, MO | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523837?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -364,6 +363,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Coupang** | Security Automation Engineer | Seattle, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-coupang-8207116?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Xometry** | Site Reliability Engineer II (SRE) | Denver, CO | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-xometry-5241088007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Xometry** | Site Reliability Engineer II (SRE) | Lexington, KY | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-xometry-5241087007?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Prudential Financial** | Specialist, Network Security Analyst | Newark, NJ, USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pru-careers-R-125032?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | Software DevOps Engineer, Networking | US, CA, Santa Clara | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025882?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Allstate** | Managing Engineer - Data Security Engineering | Remote | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35183?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Allegion** | DevOps Engineer | Carmel, IN | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allegion-careers-JR37668?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -599,7 +599,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Onto Innovation** | Development Engineer 1 | Wilmington-MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-onto-onto-careers-R-6389?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Stanley Black & Decker** | Project Engineer, CAE | Towson, MD, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052025?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CME Group** | Year-Long Technology Internship (Summer 2027-Spring 2028) | Chicago | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34831?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Allison Transmission** | Product Engineering Intern - Summer 2027 | Indianapolis, IN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008017?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Uline** | Workforce Management Systems Specialist | Kenosha, WI | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R263435?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AeroVironment** | Software Eng II Embedded | 14501 Princeton, Moorpark, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-8151?s=gh-new-grad-software-engineering-jobs-2027) |
 | **F5** | National Partner Manager - CDW | Field, IL | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ffive-f5jobs-RP1038753?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -643,6 +642,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amentum** | Range Systems Supervisor - Radar | FL-Kennedy Space | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0171067?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Veolia Environnement SA** | SAP & ServiceNow AI Automation Intern | Trevose, PA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000150460339?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Formlabs** | Enterprise Architect - Business Systems (Internal) | Somerville, MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-formlabs-8214510?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Accenture Federal Services** | Pega Developer | Washington, DC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4714762006?s=gh-new-grad-software-engineering-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -719,7 +719,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 5890 current opportunities from 624 companies**
+**🎯 5897 current opportunities from 624 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
