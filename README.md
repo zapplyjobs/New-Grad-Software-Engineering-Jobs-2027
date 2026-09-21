@@ -16,9 +16,9 @@
 <p align="center">🚀 Software engineering jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Jobs-5924-3FB950?style=flat&logo=briefcase" height="30" alt="Software Jobs">
+  <img src="https://img.shields.io/badge/Software%20Jobs-5923-3FB950?style=flat&logo=briefcase" height="30" alt="Software Jobs">
   <img src="https://img.shields.io/badge/Infrastructure%20%26%20Security-656-2F81F7?style=flat&logo=briefcase" height="30" alt="Infrastructure & Security">
-  <img src="https://img.shields.io/badge/Companies-627-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Companies-626-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -65,11 +65,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | System Software Engineer - CUDA Chips | US, CA, Santa Clara | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026249?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Disney** | Software Engineer | Orlando, FL, USA | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10157986?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Northrop Grumman** | 2027 Associate Embedded Software Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250982?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Northrop Grumman** | 2027 Embedded Software Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251459?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Northrop Grumman** | 2027 Embedded Software Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251464?s=gh-new-grad-software-engineering-jobs-2027) |
+| **NVIDIA** | System Software Engineer - CUDA Chips | US, CA, Santa Clara | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026249?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Disney** | Software Engineer | Orlando, FL, USA | 34m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10157986?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 Associate Embedded Software Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250982?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 Embedded Software Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251459?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 Embedded Software Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251464?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Astreya** | Software Engineer III - Mulesoft Developer | Oakland, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017490?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Engineer II (Onsite) | AZ-TUCSON | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866754?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Engineer I (Onsite) | AZ-TUCSON | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866752?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -443,7 +443,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Broadcom** | ASIC Implementation Engineer PD | USA-CA San Jose Innovation Drive | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadcom-external-career-R026204?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Broadcom** | ASIC Implementation Engineer STA | USA-CA San Jose Innovation Drive | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadcom-external-career-R026202?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | IEC Systems Engineer - TS/SCI | VA Springfield | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ220860?s=gh-new-grad-software-engineering-jobs-2027) |
-| **GDIT** | Linux Systems Engineer | VA Springfield | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ224527?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Linux Systems Engineer | VA Springfield | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ224527?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Eversource Energy** | Distribution Management Systems Engineer (Hybrid Schedule) | Windsor, CT | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-eversource-externalsite-R-031451?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Insulet Corporation** | Co-op, Systems Engineering - Design Verification: January - June 2027 (Onsite) | Acton, Massachusetts | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18144?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Amentum** | Systems Engineer Interface Control Documents (SME2) | AL-Huntsville | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170888?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -543,15 +543,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Carnegie Mellon University** | Research Assistant - School of Computer Science - LTI | Pittsburgh, PA | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025116?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Cisco** | Forward Deployed Engineer- Splunk | San Francisco, California, US | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2020310?s=gh-new-grad-software-engineering-jobs-2027) |
-| **CrowdStrike** | Security Advisor, Falcon Complete | Australia, WA | 34m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R29592?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Northrop Grumman** | 2027  Digital Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251171?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Northrop Grumman** | 2027 Associate Digital Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251163?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Northrop Grumman** | 2027 Digital Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251150?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Johnson & Johnson** | Advanced Process Analytics Co-op | Titusville, New Jersey, United... | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098443?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Ameriprise Financial** | Distribution & Analytics GenAI Forward Deployed Engineer | Boston, Massachusetts | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_2943?s=gh-new-grad-software-engineering-jobs-2027) |
-| **AstraZeneca** | Generative AI Cloud Operations Engineer - Evinova | Gaithersburg - MD | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-229736?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Carnegie Mellon University** | Research Assistant - School of Computer Science - LTI | Pittsburgh, PA | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025116?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Cisco** | Forward Deployed Engineer- Splunk | San Francisco, California, US | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2020310?s=gh-new-grad-software-engineering-jobs-2027) |
+| **CrowdStrike** | Security Advisor, Falcon Complete | Australia, WA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R29592?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027  Digital Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251171?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 Associate Digital Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251163?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 Digital Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251150?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Johnson & Johnson** | Advanced Process Analytics Co-op | Titusville, New Jersey, United... | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098443?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Ameriprise Financial** | Distribution & Analytics GenAI Forward Deployed Engineer | Boston, Massachusetts | 44m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_2943?s=gh-new-grad-software-engineering-jobs-2027) |
+| **AstraZeneca** | Generative AI Cloud Operations Engineer - Evinova | Gaithersburg - MD | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-229736?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Becton Dickinson** | Clinical Systems Specialist | USA MD - Sparks | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-555417?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | DO Process Engineering Internship - Summer 2027 (Onsite) | CT-MIDDLETOWN | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872686?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | ICAM Engineer - Edge Services | USA MD Fort Meade | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228685?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -719,7 +719,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 5924 current opportunities from 627 companies**
+**🎯 5923 current opportunities from 626 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
