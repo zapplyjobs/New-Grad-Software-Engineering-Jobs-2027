@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | Software Development Engineer in Test, IS&T Customer Systems | Austin | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200667747?s=gh-new-grad-software-engineering-jobs-2027) |
-| **RTX** | Software Engineering Co-op (Summer/Fall 2027) | OR-WILSONVILLE | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873970?s=gh-new-grad-software-engineering-jobs-2027) |
-| **RTX** | Software Engineering Co-op (Summer/Fall 2027) | OR-WILSONVILLE | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870236?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Apple** | Software Development Engineer in Test, IS&T Customer Systems | Austin | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200667747?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Software Engineering Co-op (Summer/Fall 2027) | OR-WILSONVILLE | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873970?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Software Engineering Co-op (Summer/Fall 2027) | OR-WILSONVILLE | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870236?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Capital One** | Full-stack Engineer 5 (Python, Angular) | McLean, VA | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001635?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Google** | Software Engineer III, AI/ML Computer Vision, Google Cloud | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-117058085482046150?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Google** | Software Engineer III, Infrastructure, Google Cloud Networking | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-100310324367762118?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -549,7 +549,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Chemistry/Materials Engineering Internship (Summer 2027)(Onsite) | CA-FAIRFIELD | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873098?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Chemistry/Materials Engineering Internship (Summer 2027)(Onsite) | CA-FAIRFIELD | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873098?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Antares** | Supply Chain Engineering Intern - Summer 2027 | Los Angeles | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-antares-f98379e4-ca61-4d0e-9cf8-c9d23e0f0e6a?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GlobalFoundries** | Device Engineering Intern, ULP CMOS (Fall 2026) | USA - New York - Malta | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2502830?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Capital One** | Full-stack Engineer 5 | Chicago, IL | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001878?s=gh-new-grad-software-engineering-jobs-2027) |
