@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Brown & Brown Insurance** | Cloud Platform Engineer | Plano, TX, USA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002801?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Brown & Brown Insurance** | Cloud Platform Engineer | Plano, TX, USA | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002801?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Expedia Group** | Software Development Engineer III, Media Solutions | Washington - Seattle | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-expedia-private-R-109666?s=gh-new-grad-software-engineering-jobs-2027) |
-| **OpenAI** | Software Engineer, Enterprise Controls | San Francisco | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-88164d12-c8ed-4b62-ae26-dcb6f1cc8482?s=gh-new-grad-software-engineering-jobs-2027) |
-| **OpenAI** | Software Engineer, OpenAI Presence | San Francisco | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-b94099f6-8418-48b0-82b5-5953a27d636f?s=gh-new-grad-software-engineering-jobs-2027) |
+| **OpenAI** | Software Engineer, Enterprise Controls | San Francisco | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-88164d12-c8ed-4b62-ae26-dcb6f1cc8482?s=gh-new-grad-software-engineering-jobs-2027) |
+| **OpenAI** | Software Engineer, OpenAI Presence | San Francisco | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-b94099f6-8418-48b0-82b5-5953a27d636f?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Broadridge** | Junior Full Stack Software Engineer (Hybrid) | Newark, NJ | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086388?s=gh-new-grad-software-engineering-jobs-2027) |
 | **University of Texas at Austin** | R&D Software Development Associate | PICKLE RESEARCH | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049174?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boeing** | Flight Simulation Software Engineers (Associate, Experienced, and Senior) | USA - Berkeley, MO | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026517936?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -554,8 +554,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Highmark Health** | Intermediate Middleware Engineer | PA, Working at Home - Pennsylvania | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J283744?s=gh-new-grad-software-engineering-jobs-2027) |
-| **NXP** | Device / Process Integration Engineer | Austin | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nxp-careers-R-10066752?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Highmark Health** | Intermediate Middleware Engineer | PA, Working at Home - Pennsylvania | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J283744?s=gh-new-grad-software-engineering-jobs-2027) |
+| **NXP** | Device / Process Integration Engineer | Austin | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nxp-careers-R-10066752?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CAE** | Avionics Simulator Technician | USA-CA-Edwards AFB | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cae-career-122092?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Philips** | Technical Support Engineer (New England) | United States of America -... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-588904?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Guidehouse** | IT Project Manager | VA, McLean | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-43550?s=gh-new-grad-software-engineering-jobs-2027) |
