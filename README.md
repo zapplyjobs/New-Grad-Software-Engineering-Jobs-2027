@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KLA** | Embedded Software Engineer | Milpitas, CA | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2636490?s=gh-new-grad-software-engineering-jobs-2027) |
-| **KLA** | Diagnostics Software Engineer (AI/ML) | Milpitas, CA | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2638974?s=gh-new-grad-software-engineering-jobs-2027) |
-| **KLA** | HPC Software Engineer | Milpitas, CA | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2638794?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Jabil** | Python & Java Full Stack Developer (AI-Capabilities) | Remote - USA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2466341?s=gh-new-grad-software-engineering-jobs-2027) |
+| **KLA** | Embedded Software Engineer | Milpitas, CA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2636490?s=gh-new-grad-software-engineering-jobs-2027) |
+| **KLA** | Diagnostics Software Engineer (AI/ML) | Milpitas, CA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2638974?s=gh-new-grad-software-engineering-jobs-2027) |
+| **KLA** | HPC Software Engineer | Milpitas, CA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2638794?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Jabil** | Python & Java Full Stack Developer (AI-Capabilities) | Remote - USA | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2466341?s=gh-new-grad-software-engineering-jobs-2027) |
 | **TD Bank** | 2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE) | Mount Laurel, New Jersey | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510796?s=gh-new-grad-software-engineering-jobs-2027) |
 | **JPMorgan Chase** | Software and Data Engineer - Software Engineer III- Agentic Pricing | Jersey City, NJ, United States | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795946?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Aerospace Corporation** | Software Engineer | El Segundo, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016732?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KLA** | Algorithm Engineer - Deep Learning | Milpitas, CA | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2636296?s=gh-new-grad-software-engineering-jobs-2027) |
-| **KLA** | Algorithm Engineer (Image Processing/Computer Vision) | Milpitas, CA | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2639184?s=gh-new-grad-software-engineering-jobs-2027) |
+| **KLA** | Algorithm Engineer - Deep Learning | Milpitas, CA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2636296?s=gh-new-grad-software-engineering-jobs-2027) |
+| **KLA** | Algorithm Engineer (Image Processing/Computer Vision) | Milpitas, CA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2639184?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Allstate** | Data Engineer (Remote, US) | USA - IL | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35408?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Guidehouse** | Data Analyst (Dashboard Developer) | VA Arlington | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-42740?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | Research Scientist, Fundamental Generative AI - New College Grad 2026 | US, CA, Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2012698?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -287,10 +287,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Embedded Software Security Engineer II - S3E | AZ-TUCSON | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879899?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Embedded Software Security Engineer II - S3E | AZ-TUCSON | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879899?s=gh-new-grad-software-engineering-jobs-2027) |
 | **TD Bank** | 2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps | Mount Laurel, New Jersey | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510799?s=gh-new-grad-software-engineering-jobs-2027) |
 | **TD Bank** | 2027 Summer Internship Program - Global Technology & Solutions - Cyber Security | Mount Laurel, New Jersey | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510795?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Apple** | Traffic and Secure Services Network SRE Engineer | Seattle | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200686351?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Apple** | Traffic and Secure Services Network SRE Engineer | Seattle | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200686351?s=gh-new-grad-software-engineering-jobs-2027) |
 | **HP Inc** | Software Product Security Engineer - HP IQ | San Francisco, California,... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4816?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Salesforce** | Site Reliability Engineer (MTS) GovCloud 24x7 | Colorado Denver | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR357830?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Vanguard** | College to Corporate IT Internship-Risk & Security Engineer (PA) | Malvern, PA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vanguard-vanguard-external-182784?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Caterpillar** | Autonomy Systems Engineer | Irving, Texas | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392589?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Caterpillar** | Autonomy Systems Engineer | Irving, Texas | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392589?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Hitachi** | Controls Engineering Internship/Co-op | Auburn Hills, Michigan, United... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0143858?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Hitachi** | Controls Engineering Internship/Co-op | Holland, Michigan, United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144971?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Hitachi** | Controls Engineering Internship/Co-op | Holland, Michigan, United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144972?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -553,9 +553,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Capital One** | Full-stack Engineer 4 | New York, NY | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001455?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Caterpillar** | Manufacturing Project Engineer – Sanford Advanced Manufacturing | Sanford, North Carolina | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397838?s=gh-new-grad-software-engineering-jobs-2027) |
-| **RTX** | Digital Technology Intern (Summer 2027) | CT-EAST HARTFORD-ETC | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01867772?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Capital One** | Full-stack Engineer 4 | New York, NY | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001455?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Caterpillar** | Manufacturing Project Engineer – Sanford Advanced Manufacturing | Sanford, North Carolina | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397838?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Digital Technology Intern (Summer 2027) | CT-EAST HARTFORD-ETC | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01867772?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Hitachi** | Applications Engineering Internship/Co-op | Holland, Michigan, United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144978?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CrowdStrike** | Analyst, Falcon Complete - SkillBridge | USA - St. Louis, MO | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30295?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Network Installs Admin | USA NC Fort Liberty | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229666?s=gh-new-grad-software-engineering-jobs-2027) |
