@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Disney** | Software Engineer II | Glendale, CA | 56m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10143792?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Disney** | Software Engineer II | Glendale, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10143792?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Graphics Software Engineer | Austin | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688305?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Microsoft** | Full Stack Engineer II- Fabric | United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200057888?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Anduril** | Software Engineer, Strategic Defense | Costa Mesa, California, United... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5260733007?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -585,7 +585,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boston Dynamics** | Applications/Integration Engineer- RMAC | Savannah | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bostondynamics-boston-dynamics-R3230?s=gh-new-grad-software-engineering-jobs-2027) |
 | **ConceptPlus** | Drupal Developer | Remote (United States) | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/rippling-conceptplus-49f005de-bd68-402f-b15a-0a0010f41415?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Bosch Group** | Manufacturing Engineering Intern | Grand Rapids, MI | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154762134?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Olsson** | Project Engineer - Site Design | Fayetteville, AR | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-olsson-5448994008?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Olsson** | Project Engineer - Site Design | Fayetteville, AR | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-olsson-5448994008?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Eight Sleep** | Security & IT Intern | Remote - US | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-eightsleep-0ae8cdbe-8100-4f59-b702-16d836ab5550?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RELX** | Editor-in-Chief, Device | Medford, MA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-relx-relx-R119563?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Federal Reserve System** | Research Facilitator | Kansas City, MO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033648?s=gh-new-grad-software-engineering-jobs-2027) |
