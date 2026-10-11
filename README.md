@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Amentum** | Data Engineer | TX-Houston | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170371?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Amentum** | Data Engineer | TX-Houston | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170374?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Amentum** | Data Engineer | TX-Houston | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170371?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Amentum** | Data Engineer | TX-Houston | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170374?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Booz Allen Hamilton** | Agentic AI Engineer | Alexandria, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249306?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Booz Allen Hamilton** | Data Engineer | Fort Belvoir, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250764?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Booz Allen Hamilton** | Data Scientist | O'Fallon, IL | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251443?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Marvell** | Test Solutions Engineering Intern, BS - Summer 2027 | Burlington, VT | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603835?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Marvell** | Test Solutions Engineering Intern, BS - Summer 2027 | Burlington, VT | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603835?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Project Engineer / Technical Project Manager - Advanced Platforms | IA-CEDAR RAPIDS | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01867484?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Intel** | Network Systems and Solutions Engineer | California Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0283130?s=gh-new-grad-software-engineering-jobs-2027) |
 | **EliseAI** | Associate Solutions Engineer   Housing | New York City | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-eliseai-469230dd-a9f3-4fc1-9904-04d3e052253b?s=gh-new-grad-software-engineering-jobs-2027) |
