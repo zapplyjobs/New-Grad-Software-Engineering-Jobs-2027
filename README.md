@@ -483,7 +483,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Barclays** | Operational Risk SME - Data Risk | New York 745 7th Avenue | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000107853?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Barclays** | Operational Risk SME - Data Risk | New York 745 7th Avenue | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000107853?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Google** | Forward Deployed Engineering Intern, BS/MS, Summer 2027 | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-75665705386549958?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Booz Allen Hamilton** | Modeling and Simulation Engineer, Junior | McLean, VA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251453?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 Operations Manufacturing Engineering Intern | United States-Florida-Melbourne | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253688?s=gh-new-grad-software-engineering-jobs-2027) |
