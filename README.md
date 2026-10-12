@@ -16,7 +16,7 @@
 <p align="center">🚀 Software engineering jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Jobs-2366-3FB950?style=flat&logo=briefcase" height="30" alt="Software Jobs">
+  <img src="https://img.shields.io/badge/Software%20Jobs-2365-3FB950?style=flat&logo=briefcase" height="30" alt="Software Jobs">
   <img src="https://img.shields.io/badge/Infrastructure%20%26%20Security-208-2F81F7?style=flat&logo=briefcase" height="30" alt="Infrastructure & Security">
   <img src="https://img.shields.io/badge/Companies-409-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | Software Engineer, DL Kernel Libraries - New College Grad 2027 | US, CA, Santa Clara | 51m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027337?s=gh-new-grad-software-engineering-jobs-2027) |
+| **NVIDIA** | Software Engineer, DL Kernel Libraries - New College Grad 2027 | US, CA, Santa Clara | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027337?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CACI** | Junior Software Engineer | Sarasota, FL, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333295?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boeing** | Test and Inspection Embedded Software Engineer (Experienced or Senior) | Hazelwood, MO | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526356?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boeing** | Flight Simulation Software Engineer (Associate, Experienced, and Senior) | USA - Daytona Beach, FL | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026510755?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -144,8 +144,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northrop Grumman** | 2027 Software Developer Intern- Chantilly VA | United States-Virginia-Chantilly | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254863?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 Software Engineering Intern - Roy UT | United States-Utah-Roy | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254852?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Handshake** | Software Engineer I, Build Review & Test | San Francisco, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-handshake-b434ac30-8288-417a-96b0-29fa8dac7d58?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Motorola Solutions** | Software Development Intern - Summer 2027 Internship | St. Petersburg Business | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68576?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Motorola Solutions** | Software Engineer - Summer 2027 Internship | Westminster, CO | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68997?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Persona** | Software Engineer, Intern (Summer 2027) | San Francisco | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-persona-eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Microsoft** | Software Engineering Internship Opportunities | United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200059070?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AeroVironment** | Software Engineer (EMB), I | Moorpark, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9055?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -165,6 +163,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amentum** | Entry Level Software Engineer | VA-Dahlgren | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0171494?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, BS, Software Engineer, Model Eval | Mountain View, CA, USA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8257660?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, MS, PhD, Software Engineer | Mountain View, California,... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8250220?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8817974002?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Affirm** | Software Engineer, Early Career (SF) | San Francisco, California,... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-8010617003?s=gh-new-grad-software-engineering-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -661,7 +661,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2366 current opportunities from 409 companies**
+**🎯 2365 current opportunities from 409 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
