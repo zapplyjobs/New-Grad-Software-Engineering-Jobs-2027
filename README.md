@@ -484,7 +484,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Barclays** | Operational Risk SME - Data Risk | New York 745 7th Avenue | 4m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000107853?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Barclays** | Operational Risk SME - Data Risk | New York 745 7th Avenue | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000107853?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 Intern Engineer - Product Support | United States-Florida-Melbourne | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255457?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boeing** | Experienced or Senior Interiors Payloads Support Engineer | USA - North Charleston, SC | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524254?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Factory Enablement Digital Engineer (Spring/Summer Co-op) | IA-CEDAR RAPIDS | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01876473?s=gh-new-grad-software-engineering-jobs-2027) |
