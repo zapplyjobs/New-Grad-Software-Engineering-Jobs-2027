@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | Software Engineer, DL Kernel Libraries - New College Grad 2027 | US, CA, Santa Clara | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027337?s=gh-new-grad-software-engineering-jobs-2027) |
+| **NVIDIA** | Software Engineer, DL Kernel Libraries - New College Grad 2027 | US, CA, Santa Clara | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027337?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Carnegie Mellon SEI** | AI Security Software Engineer Intern – Summer 2027 | Pittsburgh, PA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-sei-2025200?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | C++ Software Engineer, Infrastructure Tools - New College Grad 2027 | US, CA, Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027431?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Sierra Nevada Corporation** | Software Engineer I | Lone Tree, CO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030529?s=gh-new-grad-software-engineering-jobs-2027) |
