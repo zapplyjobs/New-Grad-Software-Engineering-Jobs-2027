@@ -245,7 +245,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **USAA** | Assistant Vice President (AVP), Security Engineering (Executive Level) | San Antonio Home | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120611?s=gh-new-grad-software-engineering-jobs-2027) |
+| **USAA** | Assistant Vice President (AVP), Security Engineering (Executive Level) | San Antonio Home | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120611?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Bosch Group** | Information Security and Privacy Intern | Farmington Hills, MI | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154757409?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Arcesium** | Infrastructure Engineer Intern | New York | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-arcesiumllc-5257199007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Allison Transmission** | IT Security Analyst Internship - Summer 2027 | Indianapolis, IN | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008295?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -356,7 +356,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Delivery Driver/Rx Tech Back End Full Time | FL - Tampa | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1062416?s=gh-new-grad-software-engineering-jobs-2027) |
+| **CVS Health** | Delivery Driver/Rx Tech Back End Full Time | FL - Tampa | 34m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1062416?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Materials** | Systems Engineer, New College Grad- Bachelor's/Master's (Santa Clara, CA) | Santa Clara,CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2629143?s=gh-new-grad-software-engineering-jobs-2027) |
 | **UPS** | Buildings & Systems Engineering Maintenance Mechanic | HOUSTON, Texas | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26027414?s=gh-new-grad-software-engineering-jobs-2027) |
 | **MITRE** | Systems Engineering Intern | Bedford, Massachusetts | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117680?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -371,7 +371,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Per Scholas** | Instructional Assistant, Data Center | United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perscholashires-4720127006?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AeroVironment** | Summer 2027 Autonomy & Robotics Engineering Intern | Simi Valley, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-8556?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Thorlabs** | Photonics Systems Engineer I | Newton, New Jersey | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-thorlabs-9CCB3177FA?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Caterpillar** | Control Systems Engineering Specialist | Mossville, Illinois | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000398275?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Caterpillar** | Control Systems Engineering Specialist | Mossville, Illinois | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000398275?s=gh-new-grad-software-engineering-jobs-2027) |
 | **General Motors** | 2027 Summer Intern, Systems Engineer, ASD | 2 Locations | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621989?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Nissan** | Systems Engineer Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00214882?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AeroVironment** | Systems Engineer I | Petaluma, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9041?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -482,8 +482,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **The Travelers Companies** | Outside Auto Appraiser | OH - Independence | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53145?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Barclays** | Operational Risk SME - Data Risk | New York 745 7th Avenue | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000107853?s=gh-new-grad-software-engineering-jobs-2027) |
+| **The Travelers Companies** | Outside Auto Appraiser | OH - Independence | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53145?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Barclays** | Operational Risk SME - Data Risk | New York 745 7th Avenue | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000107853?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Google** | Forward Deployed Engineering Intern, BS/MS, Summer 2027 | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-75665705386549958?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 Operations Manufacturing Engineering Intern | United States-Florida-Melbourne | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253688?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Shield AI** | Engineer I, Software - Factory Team (R6235) | Washington, D.C. | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-59e0cf9b-04d7-43c0-8a65-9d411fe56c68?s=gh-new-grad-software-engineering-jobs-2027) |
