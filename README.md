@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CACI** | Software Engineering Co-op - Summer & Fall 2027 | Danbury, CT, US | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331354?s=gh-new-grad-software-engineering-jobs-2027) |
+| **CACI** | Software Engineering Co-op - Summer & Fall 2027 | Danbury, CT, US | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331354?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Materials** | New College Grad Software Engineer I (Bachelors - Santa Clara, CA) | Santa Clara,CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2628998?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Engineering Intern (Summer 2027) | TX-MCKINNEY | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879520?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Microsoft** | Software Engineering | Redmond, Washington, United States | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200056150?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -358,7 +358,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **VAST** | Fluid Systems Engineering | Long Beach, California, United... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vast-4715767006?s=gh-new-grad-software-engineering-jobs-2027) |
+| **VAST** | Fluid Systems Engineering | Long Beach, California, United... | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vast-4715767006?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CVS Health** | Delivery Driver/Rx Tech Back End Full Time | FL - Tampa | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1062416?s=gh-new-grad-software-engineering-jobs-2027) |
 | **LLNL** | Engineering Technical Associate - Laser Systems Engineering and Operations Division | Livermore, CA | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016071216?s=gh-new-grad-software-engineering-jobs-2027) |
 | **DV Trading** | Data Center Engineer Intern - Summer 2027 | Chicago | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-dvtrading-4742962005?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -491,7 +491,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Jabil** | Project Engineer I | Clinton, MA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2460043?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Materials** | Business Unit Operations IV - (B4) | Santa Clara,CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2629856?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Figure AI** | Deployment Engineering Intern | San Jose, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figureai-4721113006?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Verizon** | Coord-Tech Customer Svc | Temple Terrace Florida | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101915?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Verizon** | Coord-Tech Customer Svc | Temple Terrace Florida | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101915?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Bridge Engineering Intern - Summer 2027 | MD, Baltimore, R187084 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187084?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Drainage Engineering Intern - Summer 2027 | VA, Centreville, R187149 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187149?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Roadway Engineering Intern - Summer 2027 | VA, Centreville, R187080 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187080?s=gh-new-grad-software-engineering-jobs-2027) |
