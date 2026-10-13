@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Esri** | Product Engineer I - Spatial Analysis & Data Science | Redlands, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-esri-5220093007?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Esri** | Product Engineer I - Spatial Analysis & Data Science | Redlands, CA | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-esri-5220093007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Duolingo** | AI Research Engineer, New PhD Graduate | New York, NY | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-duolingo-8881612002?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Nissan** | Financial AI Engineering Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00214241?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Perpay** | Super Day - Data Engineering Internship | Philadelphia, Pennsylvania,... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perpay-5260444007?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -247,8 +247,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Bosch Group** | Information Security and Privacy Intern | Farmington Hills, MI | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000155120934?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Microsoft** | Cloud Network Engineering Internship Oportunities | Redmond, Washington, United States | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061277?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Bosch Group** | Information Security and Privacy Intern | Farmington Hills, MI | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000155120934?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Microsoft** | Cloud Network Engineering Internship Oportunities | Redmond, Washington, United States | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061277?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CACI** | Cyber Security Intern - Summer 2027 | Springfield, VA, US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333046?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Arcesium** | Infrastructure Engineer Intern | New York | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-arcesiumllc-5257199007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Elevance Health** | Information Security Advisor | GA-ATLANTA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR209189?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -484,7 +484,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Jensen Hughes** | Construction Inspector | Phoenix, Arizona, United States | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-jensenhughes-5445996008?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Jensen Hughes** | Construction Inspector | Phoenix, Arizona, United States | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-jensenhughes-5445996008?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AbbVie** | Engineer, Technology I | North Chicago, IL | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016070631?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Jabil** | Project Engineer I | Clinton, MA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2460043?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Materials** | Business Unit Operations IV - (B4) | Santa Clara,CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2629856?s=gh-new-grad-software-engineering-jobs-2027) |
