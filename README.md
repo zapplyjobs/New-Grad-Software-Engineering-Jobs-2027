@@ -488,7 +488,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Booz Allen Hamilton** | ServiceNow Developer, Junior | McLean, VA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251800?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Apple** | Pre-silicon Compute and ML Framework Manager | Cupertino | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200678347?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Apple** | Pre-silicon Compute and ML Framework Manager | Cupertino | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200678347?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Amazon Development Center U.S., Inc. - B02** | Systems Development Engineer, Early Career – 2026 (US) | Seattle, WA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-5dce7087-f333-45e4-8cd5-9618df46eef9?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Sierra Nevada Corporation** | Project Engineer I - Development | Lone Tree, CO | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030853?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Sierra Nevada Corporation** | Project Engineer I | Lone Tree, CO | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030904?s=gh-new-grad-software-engineering-jobs-2027) |
