@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | 6m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026958?s=gh-new-grad-software-engineering-jobs-2027) |
+| **NVIDIA** | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026958?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Engineer I, Onsite | IA-CEDAR RAPIDS | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878662?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Carnegie Mellon SEI** | AI Security Software Engineer Intern – Summer 2027 | Pittsburgh, PA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-sei-2025200?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boeing** | Data Fusion Systems Software Engineer/Analyst (Associate, Experienced or Senior) | Berkeley, MO | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526826?s=gh-new-grad-software-engineering-jobs-2027) |
