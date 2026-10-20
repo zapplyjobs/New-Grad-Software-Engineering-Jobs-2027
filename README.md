@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Part time Software Engineer Co-op (Remote) | CO-AURORA-S75 | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883452?s=gh-new-grad-software-engineering-jobs-2027) |
-| **RTX** | Part time Software Engineer Co-op (Remote) | TX-RICHARDSON-C17 | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883545?s=gh-new-grad-software-engineering-jobs-2027) |
-| **RTX** | Flight Control Software Engineer I (Onsite) | IA-CEDAR RAPIDS | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871038?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Part time Software Engineer Co-op (Remote) | CO-AURORA-S75 | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883452?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Part time Software Engineer Co-op (Remote) | TX-RICHARDSON-C17 | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883545?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Flight Control Software Engineer I (Onsite) | IA-CEDAR RAPIDS | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871038?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Palantir** | Software Engineer, Internship - Query Engines | New York, NY | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-palantir-da774f81-c98c-4dcf-9b9c-949fd7d90a13?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Palantir** | Software Engineer, New Grad - Query Engines | New York, NY | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-palantir-90329118-d9b7-4b96-acdf-13377e3196ac?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Relativity Space** | Software Development Engineer in Test I | Long Beach, California, United... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-relativity-8892460002?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -461,7 +461,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Entegris** | Manufacturing Systems Engineer Co-Op | Rockrimmon, Colorado Springs, CO | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14437?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Draper** | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draper-draper-careers-JR002882?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Caterpillar** | 2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering | Mossville Illinois | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392394?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Qualcomm** | Wireless Systems Engineering Internship - Summer 2027 | San Diego, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3095750?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Qualcomm** | Wireless Systems Engineering Internship - Summer 2027 | San Diego, CA | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3095750?s=gh-new-grad-software-engineering-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -497,7 +497,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RTX** | Project Engineering Co-op (Spring/Summer 2027) (Onsite) | ME-NORTH BERWICK | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882221?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Mercor** | Mercor AI Research Fund Grants: Economics of AI | San Francisco | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-mercor-c34c84d9-b7f8-436e-ae8d-a9a9120cecac?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Anthropic** | Audit, Security GRC | San Francisco, CA  Seattle, WA... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-anthropic-5457137008?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Axon** | Technical Support Engineer I | Scottsdale, Arizona, United States | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-axon-8011724003?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Axon** | Technical Support Engineer I | Scottsdale, Arizona, United States | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-axon-8011724003?s=gh-new-grad-software-engineering-jobs-2027) |
 | **North Wind Group** | Security Systems Specialist 04243 NWD | PIKETON, Ohio | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-north-wind-group-ac59505802e3?s=gh-new-grad-software-engineering-jobs-2027) |
 | **TD Synnex** | LC Associate | Southaven, MS | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56917?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Allegion** | Summer Intern - Advanced Manufacturing Engineering, Computer Engineering | Carmel, IN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allegion-careers-JR37433?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -587,7 +587,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Motorola Solutions** | Product Owner (Product Data Hub) | Illinois, US Offsite, More... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R65464?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Amentum** | Technical Order Distribution Office (TODO) Coordinator (HH-60W) | MD-Andrews AFM | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172857?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CACI** | Mission IT Operator | Denver, CO, US | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331385?s=gh-new-grad-software-engineering-jobs-2027) |
-| **CACI** | Mission IT Operator | Las Cruces, NM, US | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-328690?s=gh-new-grad-software-engineering-jobs-2027) |
+| **CACI** | Mission IT Operator | Las Cruces, NM, US | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-328690?s=gh-new-grad-software-engineering-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
