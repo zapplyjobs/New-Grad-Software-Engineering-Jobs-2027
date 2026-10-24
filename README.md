@@ -16,8 +16,8 @@
 <p align="center">🚀 Software engineering jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Jobs-2360-3FB950?style=flat&logo=briefcase" height="30" alt="Software Jobs">
-  <img src="https://img.shields.io/badge/Infrastructure%20%26%20Security-222-2F81F7?style=flat&logo=briefcase" height="30" alt="Infrastructure & Security">
+  <img src="https://img.shields.io/badge/Software%20Jobs-2359-3FB950?style=flat&logo=briefcase" height="30" alt="Software Jobs">
+  <img src="https://img.shields.io/badge/Infrastructure%20%26%20Security-221-2F81F7?style=flat&logo=briefcase" height="30" alt="Infrastructure & Security">
   <img src="https://img.shields.io/badge/Companies-413-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -494,7 +494,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **CVS Health** | Pharmacy Technician Backend-PT | MI - Grand Rapids | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1076964?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Figure AI** | Developer Productivity Intern \[Winter 2027\] | San Jose, CA | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figureai-4724521006?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Epic Games** | Tools Programmer Intern (Graphics) | Cary,North Carolina,United States | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6232770004?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Epic Games** | Tools Programmer Intern (Graphics) | Cary,North Carolina,United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6232770004?s=gh-new-grad-software-engineering-jobs-2027) |
 | **ASML** | Optical Fabrication CNC Technician Back End Days 6am – 6pm ( Thursday, Friday, Saturday,... | Wilton, CT, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00354468?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AES Corporation** | Generation Support Engineer Intern (Summer 2027) | US, Indianapolis, IN | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aes-aes-us-R1065284?s=gh-new-grad-software-engineering-jobs-2027) |
 | **FactSet** | Client Solutions Associate - Enterprise Data Solutions - San Francisco, CA   Boston, MA... | San Francisco, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-factset-factsetcareers-R33489?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -668,7 +668,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2360 current opportunities from 413 companies**
+**🎯 2359 current opportunities from 413 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
