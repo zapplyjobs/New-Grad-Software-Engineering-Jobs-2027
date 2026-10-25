@@ -476,7 +476,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Intapp** | Client Technology Strategist (CTS) | NY New York | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intapp-intapp-R2025421?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Intapp** | Client Technology Strategist (CTS) | NY New York | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intapp-intapp-R2025421?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Roadway Engineering Intern - Summer 2027 | FL, Fort Lauderdale, R186484 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R186484?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Roadway Engineering Intern | CO, Denver, R186268 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R186268?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Construction Engineering Intern - Summer 2027 | CO, Westminster, R185972 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R185972?s=gh-new-grad-software-engineering-jobs-2027) |
