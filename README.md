@@ -241,7 +241,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Aerospace Corporation** | 2027 Cloud Solutions Engineer / Site Reliability Grad Intern | El Segundo, CA | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016715?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Aerospace Corporation** | 2027 Cloud Solutions Engineer / Site Reliability Grad Intern | El Segundo, CA | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016715?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Schweitzer Engineering Laboratories** | PE I - Automation Engineer | Pennsylvania - King of Prussia | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-22741?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Wing Information Security Support (Located in Qatar) | Remote (Any Location), R185875 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R185875?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Trace3** | DevOps | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-596239?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -476,7 +476,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **HPE (University)** | AI/ML Developer Intern | San Jose, California | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1217413?s=gh-new-grad-software-engineering-jobs-2027) |
+| **HPE (University)** | AI/ML Developer Intern | San Jose, California | 27m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1217413?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Roadway Engineering Intern - Summer 2027 | FL, Fort Lauderdale, R186484 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R186484?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Roadway Engineering Intern | CO, Denver, R186268 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R186268?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Construction Engineering Intern - Summer 2027 | CO, Westminster, R185972 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R185972?s=gh-new-grad-software-engineering-jobs-2027) |
