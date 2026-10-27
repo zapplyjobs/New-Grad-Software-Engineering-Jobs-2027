@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Flight Control Software Engineer I (Onsite) | IA-CEDAR RAPIDS | 41m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870923?s=gh-new-grad-software-engineering-jobs-2027) |
-| **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 51m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Flight Control Software Engineer I (Onsite) | IA-CEDAR RAPIDS | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870923?s=gh-new-grad-software-engineering-jobs-2027) |
+| **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 Software Engineering Intern - Beavercreek OH | United States-Ohio-Beavercreek | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257656?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Highmark Health** | Summer 2027 Software Engineer enGen Undergraduate Intern | PA, Working at Home - Pennsylvania | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290027?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Highmark Health** | Summer 2027 Software Engineer enGen Undergraduate Intern | PA, Working at Home - Pennsylvania | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289812?s=gh-new-grad-software-engineering-jobs-2027) |
