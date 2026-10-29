@@ -65,16 +65,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **JM Family Enterprises** | Software Engineer Intern | Florida Deerfield Beach | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105158?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Cigna** | Software Engineering Advisor- Hybrid | Morris Plains, NJ | 19m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26010428?s=gh-new-grad-software-engineering-jobs-2027) |
-| **KLA** | Software Engineer Intern | Milpitas, CA | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642721?s=gh-new-grad-software-engineering-jobs-2027) |
-| **CACI** | Software Engineering Co-op/Intern - Spring 2027 | Rochester, NY, US | 34m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334160?s=gh-new-grad-software-engineering-jobs-2027) |
+| **JM Family Enterprises** | Software Engineer Intern | Florida Deerfield Beach | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105158?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Cigna** | Software Engineering Advisor- Hybrid | Morris Plains, NJ | 27m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26010428?s=gh-new-grad-software-engineering-jobs-2027) |
+| **KLA** | Software Engineer Intern | Milpitas, CA | 41m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642721?s=gh-new-grad-software-engineering-jobs-2027) |
+| **CACI** | Software Engineering Co-op/Intern - Spring 2027 | Rochester, NY, US | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334160?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Microsoft** | Software Engineering | United States | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064597?s=gh-new-grad-software-engineering-jobs-2027) |
 | **LinkedIn** | Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) | Mountain View, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000158394370?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Crusoe** | Software Engineer I, Network | San Francisco, CA - US | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-crusoe-9a5223c4-9eb7-4fdb-b97c-f43525df35ed?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Glean** | Software Engineer, University Grad | Mountain View, CA | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gleanwork-4748567005?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Engineer I (Onsite) | MD-FULTON | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883899?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Veolia Environnement SA** | Junior Manufacturing Software Engineer | Boulder, CO | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158336900?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Veolia Environnement SA** | Junior Manufacturing Software Engineer | Boulder, CO | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158336900?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Intuitive** | Manufacturing Software Engineering Intern | Sunnyvale, CA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000158313919?s=gh-new-grad-software-engineering-jobs-2027) |
 | **VSP Vision** | Internship, Software Engineer | Remote US | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10071?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Salesforce** | Software Engineering, SMTS - Qualified | California - San Francisco | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR365458?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -241,8 +241,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Software Security Engineer I | CA-EL SEGUNDO-E01 | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885443?s=gh-new-grad-software-engineering-jobs-2027) |
-| **GDIT** | Penetration Tester - TS/SCI with Polygraph | USA VA McLean | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231130?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Software Security Engineer I | CA-EL SEGUNDO-E01 | 26m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885443?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Penetration Tester - TS/SCI with Polygraph | USA VA McLean | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231130?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boston Scientific** | Software & Systems Testing Engineering Intern | Arden Hills US-MN, United... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813862694?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Figma** | PhD Intern, Security Engineer (2027) | San Francisco, CA • New York, NY | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figma-6238015004?s=gh-new-grad-software-engineering-jobs-2027) |
 | **The Nuclear Company** | Spring 2027 Security Engineer Intern | Washington, D.C. | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenuclearcompany-5466153008?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -352,7 +352,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CACI** | Systems Engineering Co-op/Intern - Spring 2027 | Rochester, NY, US | 34m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334157?s=gh-new-grad-software-engineering-jobs-2027) |
+| **CACI** | Systems Engineering Co-op/Intern - Spring 2027 | Rochester, NY, US | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334157?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Rocket Lab** | Spacecraft Propulsion Systems Engineer I | Long Beach, CA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8058455003?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Rocket Lab** | Systems Engineer I | Long Beach, CA | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8054797003?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Intuitive** | Robotics Engineering Intern | Sunnyvale, CA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000158313717?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -463,7 +463,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boston Scientific** | AI Solutions Engineering Intern | Arden Hills US-MN, United... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813547675?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Boston Scientific** | AI Solutions Engineering Intern | Arden Hills US-MN, United... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813547675?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Google** | Technical Solutions Engineer I, Infrastructure, Compute, Google Cloud | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-133679366251913926?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Project Manager - G&A Solutions Engineering (GSE) PMO, IS&T | Sunnyvale | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200687627?s=gh-new-grad-software-engineering-jobs-2027) |
 
@@ -477,9 +477,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Salesforce** | Associate Analyst, Corporate Communications (Emerging Talent) | New York - New York | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR366304?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Sonos** | Software Partner Engineering Intern (Boston) | Boston, MA | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sonos-sonos-R2886?s=gh-new-grad-software-engineering-jobs-2027) |
-| **GDIT** | Tier I Security Operations Center (SOC) Analyst | USA LA Bossier City | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230985?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Salesforce** | Associate Analyst, Corporate Communications (Emerging Talent) | New York - New York | 26m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR366304?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Sonos** | Software Partner Engineering Intern (Boston) | Boston, MA | 26m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sonos-sonos-R2886?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Tier I Security Operations Center (SOC) Analyst | USA LA Bossier City | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230985?s=gh-new-grad-software-engineering-jobs-2027) |
 | **John Deere** | 2027 Intern - Product Engineering | Various... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-johndeere-137482769212?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Materials** | DDP - Technical Configuration Management (TCM) | Austin,TX | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2629506?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Booz Allen Hamilton** | Digital Engineer, Junior | Wharton, NJ | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252540?s=gh-new-grad-software-engineering-jobs-2027) |
