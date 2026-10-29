@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KLA** | Software Engineer Intern | Milpitas, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642721?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Microsoft** | Software Engineering | United States | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064597?s=gh-new-grad-software-engineering-jobs-2027) |
+| **KLA** | Software Engineer Intern | Milpitas, CA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642721?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Microsoft** | Software Engineering | United States | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064597?s=gh-new-grad-software-engineering-jobs-2027) |
 | **LinkedIn** | Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) | Mountain View, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000158394370?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Crusoe** | Software Engineer I, Network | San Francisco, CA - US | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-crusoe-9a5223c4-9eb7-4fdb-b97c-f43525df35ed?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Glean** | Software Engineer, University Grad | Mountain View, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gleanwork-4748567005?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -241,8 +241,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Figma** | PhD Intern, Security Engineer (2027) | San Francisco, CA • New York, NY | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figma-6238015004?s=gh-new-grad-software-engineering-jobs-2027) |
-| **The Nuclear Company** | Spring 2027 Security Engineer Intern | Washington, D.C. | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenuclearcompany-5466153008?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Figma** | PhD Intern, Security Engineer (2027) | San Francisco, CA • New York, NY | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figma-6238015004?s=gh-new-grad-software-engineering-jobs-2027) |
+| **The Nuclear Company** | Spring 2027 Security Engineer Intern | Washington, D.C. | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenuclearcompany-5466153008?s=gh-new-grad-software-engineering-jobs-2027) |
 | **HP Inc** | Software Product Security Intern - HP IQ | San Francisco, California,... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4810?s=gh-new-grad-software-engineering-jobs-2027) |
 | **HP Inc** | Software Quality Assurance Intern | San Francisco, California,... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4802?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Network Security Engineer Junior | USA VA Ashburn | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230028?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -483,7 +483,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Shield AI** | Summer 2027 - Product Support Engineering Intern #6470 & #6442 | Dallas, Texas | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-5fb0fc3c-3747-4351-92fd-459b3df7c82c?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Transportation Engineering Intern - Summer 2027 | KY, Louisville, R187975 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187975?s=gh-new-grad-software-engineering-jobs-2027) |
 | **SharkNinja** | Spring 2027: Product Strategy & Development Co-Op (January to June) | Needham, MA, United States | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4723344006?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Rocket Lab** | Spacecraft GNC Engineer I | Littleton, CO | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8043199003?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Rocket Lab** | Spacecraft GNC Engineer I | Littleton, CO | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8043199003?s=gh-new-grad-software-engineering-jobs-2027) |
 | **1Password** | Junior Developer | Remote (United States  Canada) | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-a492badd-a02f-4360-aa15-7ea8c6e2c85e?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boston Dynamics** | Atlas VLA Research Intern | Waltham | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bostondynamics-boston-dynamics-R3317?s=gh-new-grad-software-engineering-jobs-2027) |
 | **North Wind Group** | Security Systems Specialist 04243 NWD | PIKETON, Ohio | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-north-wind-group-ac59505802e3?s=gh-new-grad-software-engineering-jobs-2027) |
