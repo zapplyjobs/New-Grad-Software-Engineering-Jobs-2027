@@ -71,7 +71,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Citi** | Junior Application Developer | Tampa Florida United States | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-261003010?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CACI** | Software Engineering Co-op/Intern - Spring 2027 | Rochester, NY, US | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334160?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Samsung Semiconductor** | Intern, Systems Software Engineering | San Jose, California, United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8046887003?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Northwood Space** | Software Engineer, Platform (Early Career) | Torrance, CA | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-northwoodspace-f7b9e8d5-7368-4a54-b445-ff647f12b1b6?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Northwood Space** | Software Engineer, Platform (Early Career) | Torrance, CA | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-northwoodspace-f7b9e8d5-7368-4a54-b445-ff647f12b1b6?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Engineer I, Software Engineer - Test Engineering (Onsite) | IA-CEDAR RAPIDS | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884730?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Talos Trading** | Software Engineer Intern, Dealer | New York | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-talos-trading-91fd5274-3b6b-43cf-b366-9f6dc2ae5977?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Talos Trading** | Software Engineer Intern, RFQ | New York | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-talos-trading-2c833180-484f-4657-80e3-f822cf1a0285?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -351,8 +351,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Verizon** | Engineer I-Systems Engineering | Temple Terrace, Florida | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1103177?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Bosch Group** | IT Systems Engineering Intern (19 hours per week) | Roseville, CA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000158620079?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Verizon** | Engineer I-Systems Engineering | Temple Terrace, Florida | 49m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1103177?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Bosch Group** | IT Systems Engineering Intern (19 hours per week) | Roseville, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000158620079?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CACI** | Systems Engineering Co-op/Intern - Spring 2027 | Rochester, NY, US | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334157?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Moog** | Intern, Systems Engineering | Buffalo, NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20920?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Moog** | Intern, Systems Engineering | Buffalo, NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20918?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -474,7 +474,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CME Group** | Trade Practice Investigator | Chicago | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34935?s=gh-new-grad-software-engineering-jobs-2027) |
+| **CME Group** | Trade Practice Investigator | Chicago | 49m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34935?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Salesforce** | Employee Success Business Partner | Washington Seattle | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR365841?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Salesforce** | Employee Success Business Partner | Washington - Seattle | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR365617?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AeroVironment** | GNC / Autonomy Engineering Intern | Simi Valley, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9222?s=gh-new-grad-software-engineering-jobs-2027) |
