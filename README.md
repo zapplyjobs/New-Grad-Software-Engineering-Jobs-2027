@@ -16,7 +16,7 @@
 <p align="center">🚀 Software engineering jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Jobs-2076-3FB950?style=flat&logo=briefcase" height="30" alt="Software Jobs">
+  <img src="https://img.shields.io/badge/Software%20Jobs-2075-3FB950?style=flat&logo=briefcase" height="30" alt="Software Jobs">
   <img src="https://img.shields.io/badge/Infrastructure%20%26%20Security-198-2F81F7?style=flat&logo=briefcase" height="30" alt="Infrastructure & Security">
   <img src="https://img.shields.io/badge/Companies-408-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | Redmond, Washington, United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042199?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | Redmond, Washington, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042199?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Zebra** | Software Engineer, Professional I | Holtsville, New York | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103835?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | AI Systems Software Engineering Intern – Summer 2027 | US, TX, Austin | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027170?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | SoC Software Engineer – New College Graduate 2026 | US, CA, Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027552?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -481,7 +481,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Federal Reserve System** | Undergraduate Intern – Technology Focus | Minneapolis, MN | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033975?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Federal Reserve System** | Undergraduate Intern – Technology Focus | Minneapolis, MN | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033975?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Microsoft** | Explore Program Engineering Internship Opportunities: First-Year Students, Redmond | Redmond, Washington, United States | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042630?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Astreya** | Zero-trust VPN Security | New York, NY | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017562?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | PhD Research Intern, Cross-Disciplinary Vision Science - Summer 2027 | CA Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026499?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -580,7 +580,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Base Power** | Engineering Technician | Austin, TX | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-19abe943-42d5-4e1a-8ad6-d72cbbc435fa?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Materials** | DDP - Technical Configuration Management (TCM) | Austin,TX | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2629506?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Schonfeld** | 2027 DMFI Intern | New York, New York, United States | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-schonfeld-8324611?s=gh-new-grad-software-engineering-jobs-2027) |
-| **TD Synnex** | RMA Associate I | Ft. Worth, Texas, United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R54479?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Carrier Global** | Project Engineering Intern - Summer | CAV20: ALC - Virginia, 4948... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220971?s=gh-new-grad-software-engineering-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -667,7 +667,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2076 current opportunities from 408 companies**
+**🎯 2075 current opportunities from 408 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
