@@ -362,7 +362,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 S/W Embedded Engineering Intern – Sykesville MD | United States-Maryland-Sykesville | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 S/W Embedded Engineering Intern – Sykesville MD | United States-Maryland-Sykesville | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Sierra Nevada Corporation** | Systems Engineer I | Lone Tree, CO | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031314?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Systems Engineer Junior to Senior LEVELS | MD Germantown | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ224299?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | AI Compiler and Kernel Intern – Summer 2027 | US, TX, Austin | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029220?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -488,7 +488,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Uline** | Workforce Management Systems Specialist | Kenosha, WI | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268907?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Uline** | Workforce Management Systems Specialist | Kenosha, WI | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268907?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Tier I Security Operations Center (SOC) Analyst | USA LA Bossier City | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230985?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Guidehouse** | eDiscovery Technical Advisor | DC, Washington | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-45942?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Applied Materials** | Technical Configuration Management | Santa Clara,CA | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2632551?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -496,7 +496,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Applied Materials** | Technical Configuration Management | Santa Clara,CA | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2632585?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Impulse Space** | IT Service Delivery Technician (AI&T) | Redondo Beach, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/pinpoint-impulsespace-613392?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Eaton** | Product Owner - Cloud | Beachwood, Ohio, USA, 44122 | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687239830943?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Bosch Group** | Logistics Specialist - Command Center | Florence, KY | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000159485979?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Bosch Group** | Logistics Specialist - Command Center | Florence, KY | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000159485979?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Alarm.com** | Software Rotation Program Associate | Tysons, Virginia | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-alarmcom-8923631002?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Illumio** | Technical Account Manager | Florida - Remote | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-illumio-47cb8a57-c44e-426c-828a-ccdf4f60424e?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Microsoft** | Technical Support Engineering D & D | United States | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061457?s=gh-new-grad-software-engineering-jobs-2027) |
