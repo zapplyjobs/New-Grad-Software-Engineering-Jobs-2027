@@ -487,7 +487,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cadence** | IT Internship (Techstop Support) | SAN JOSE | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cadence-external-careers-R57021?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Cadence** | IT Internship (Techstop Support) | SAN JOSE | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cadence-external-careers-R57021?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cadence (University)** | IT Internship (Techstop Support) | SAN JOSE | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cadence-univ-careers-R57021?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Depot Automation | San Francisco, California | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8350687?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Twitch** | Software Dev Engineer I - Security Platform | Irvine, CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-twitch-8931345002?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -498,7 +498,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | App Store Frameworks | Cupertino | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693452?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Impulse Space** | Manufacturing Engineering Intern (Spring 2027) | Redondo Beach, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/pinpoint-impulsespace-590465?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Base Power** | Engineering Technician | Austin, TX | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-19abe943-42d5-4e1a-8ad6-d72cbbc435fa?s=gh-new-grad-software-engineering-jobs-2027) |
-| **John Deere** | Part-Time Student - Product Engineering - Urbandale, IA | Urbandale,Iowa,United States | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-johndeere-137483675893?s=gh-new-grad-software-engineering-jobs-2027) |
+| **John Deere** | Part-Time Student - Product Engineering - Urbandale, IA | Urbandale,Iowa,United States | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-johndeere-137483675893?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Parsons** | Digital Engineering Intern Summer 2027 | VA, Centreville, R188195 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R188195?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AbbVie** | 2027 Drug Substance Engineering Intern (PhD) | North Chicago, IL | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016617146?s=gh-new-grad-software-engineering-jobs-2027) |
 | **DraftKings** | Surveillance Associate | Nashua, NH | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draftkings-draftkings-JR13414?s=gh-new-grad-software-engineering-jobs-2027) |
