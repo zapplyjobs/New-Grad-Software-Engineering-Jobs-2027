@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Software Engineer I | MA-TEWKSBURY-TB3 | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885871?s=gh-new-grad-software-engineering-jobs-2027) |
-| **JM Family Enterprises** | Software Engineer Intern | Florida - Deerfield Beach | 46m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105199?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Software Engineer I | MA-TEWKSBURY-TB3 | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885871?s=gh-new-grad-software-engineering-jobs-2027) |
+| **JM Family Enterprises** | Software Engineer Intern | Florida - Deerfield Beach | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105199?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Microsoft** | Research Intern - Research in Software Engineering, ML Systems, Agents | Redmond, Washington, United States | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200065702?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boston Scientific** | Software Development Engineer Intern | Waltham, US-MA, USA | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813567960?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Figma** | PhD Intern, Software Engineer - Interaction Design (2027) | San Francisco, CA • New York, NY | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figma-6241542004?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -364,7 +364,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Hitachi** | Controls Engineering Internship/Co-op | Holland, Michigan, United States | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144972?s=gh-new-grad-software-engineering-jobs-2027) |
-| **UPS** | Temporary Buildings and Systems Engineering Mechanic | ARLINGTON, Texas | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26021775?s=gh-new-grad-software-engineering-jobs-2027) |
+| **UPS** | Temporary Buildings and Systems Engineering Mechanic | ARLINGTON, Texas | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26021775?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 S/W Embedded Engineering Intern – Sykesville MD | United States-Maryland-Sykesville | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-new-grad-software-engineering-jobs-2027) |
 | **General Motors** | Software Systems Engineer, Data Labeling Engineering - Early Career | 2 Locations | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619939?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CACI** | Systems Engineering Co-op/Intern - Summer 2027 | Rochester, NY, US | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334157?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -489,8 +489,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Parsons** | Summer Embedded Developer Intern | MD, Columbia, R188299 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R188299?s=gh-new-grad-software-engineering-jobs-2027) |
-| **The Travelers Companies** | Experienced Outside Property Claim Rep | NC Greensboro | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53627?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Cadence (University)** | IT Internship (Techstop Support) | SAN JOSE | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cadence-univ-careers-R57021?s=gh-new-grad-software-engineering-jobs-2027) |
+| **The Travelers Companies** | Experienced Outside Property Claim Rep | NC Greensboro | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53627?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Cadence (University)** | IT Internship (Techstop Support) | SAN JOSE | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cadence-univ-careers-R57021?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cadence** | IT Internship (Techstop Support) | SAN JOSE | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cadence-external-careers-R57021?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Depot Automation | San Francisco, California | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8350687?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Twitch** | Software Dev Engineer I - Security Platform | Irvine, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-twitch-8931345002?s=gh-new-grad-software-engineering-jobs-2027) |
