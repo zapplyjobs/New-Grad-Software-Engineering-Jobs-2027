@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Platform Engineer I | MA-WOBURN-WB1 | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886989?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Platform Engineer I | MA-WOBURN-WB1 | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886989?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 Software Engineering Intern - Roy UT | United States-Utah-Roy | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259181?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 DevOps Software Engineering Intern - Roy UT | United States-Utah-Roy | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259178?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 Cybersecurity Software Engineering Intern - Roy UT | United States-Utah-Clearfield | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259177?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -365,7 +365,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Northrop Grumman** | 2027 S/W Embedded Engineering Intern – Sykesville MD | United States-Maryland-Sykesville | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Hitachi** | Controls Engineering Internship/Co-op | Holland, Michigan, United States | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144972?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Hitachi** | Controls Engineering Internship/Co-op | Holland, Michigan, United States | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144972?s=gh-new-grad-software-engineering-jobs-2027) |
 | **UPS** | Temporary Buildings and Systems Engineering Mechanic | ARLINGTON, Texas | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26021775?s=gh-new-grad-software-engineering-jobs-2027) |
 | **General Motors** | Software Systems Engineer, Data Labeling Engineering - Early Career | 2 Locations | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619939?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Zebra** | 2027 Summer Internship (US) - Systems Engineer | Germantown, Maryland | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103659?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -488,9 +488,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | High Temperature Composites Engineering Intern (Summer 2027)(Onsite) | CA-SANTA FE SPRINGS | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885228?s=gh-new-grad-software-engineering-jobs-2027) |
-| **RTX** | Factory Enablement Digital Engineer Intern (Summer 2027) | IA-CEDAR RAPIDS | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887084?s=gh-new-grad-software-engineering-jobs-2027) |
-| **RTX** | Factory Enablement Digital Engineer (Spring/Summer Co-op) | IA-CEDAR RAPIDS | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01876473?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | High Temperature Composites Engineering Intern (Summer 2027)(Onsite) | CA-SANTA FE SPRINGS | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885228?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Factory Enablement Digital Engineer Intern (Summer 2027) | IA-CEDAR RAPIDS | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887084?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Factory Enablement Digital Engineer (Spring/Summer Co-op) | IA-CEDAR RAPIDS | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01876473?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Depot Automation | San Francisco, California | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8350687?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Twitch** | Software Dev Engineer I - Security Platform | Irvine, CA | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-twitch-8931345002?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Twitch** | Software Dev Engineer I - Security Platform | Seattle, WA | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-twitch-8931343002?s=gh-new-grad-software-engineering-jobs-2027) |
