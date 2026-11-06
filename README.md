@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Rocket Companies** | Software Engineer I | Detroit, MI | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-083975?s=gh-new-grad-software-engineering-jobs-2027) |
-| **CACI** | Software Engineering Co-op - Spring 2027 | King of Prussia, PA, US | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334665?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Rocket Companies** | Software Engineer I | Detroit, MI | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-083975?s=gh-new-grad-software-engineering-jobs-2027) |
+| **CACI** | Software Engineering Co-op - Spring 2027 | King of Prussia, PA, US | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334665?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apex Technology** | Ground Software Engineering Internship (Spring or Summer 2027) | Los Angeles | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-apex-technology-inc-2d5ad921-241f-4e7a-b9ff-9d01763da88c?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apex Technology** | Software Engineering Internship, Test & Automation (Summer 2027) | Los Angeles | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-apex-technology-inc-692bb497-59ba-44df-bacf-fffd2f7c6344?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Palantir** | Software Engineer, Internship - Sovereign AI Systems | New York, NY | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-palantir-cd64bcd4-50bb-4aeb-a135-4e0487ffd312?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -489,7 +489,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Wex** | IT Undergraduate Student | Remote | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wexinc-wexinc-R22554?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Wex** | IT Undergraduate Student | Remote | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wexinc-wexinc-R22554?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Software & Tools Engineering Project Manager | San Jose | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693434?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Toyota Research Institute** | Accelerated Science Intern, Multi-Agent Learning and Coordination | Los Altos, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-86e6a285-bb0a-4e84-8bf9-bd498d45c33d?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Mixpanel** | GRC Specialist | San Francisco | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-mixpanel-8354380?s=gh-new-grad-software-engineering-jobs-2027) |
