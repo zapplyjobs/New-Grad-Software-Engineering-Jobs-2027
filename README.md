@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GE Aerospace** | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029622?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GE Aerospace** | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029622?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AbbVie** | Associate Software Engineer I | North Chicago, IL | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016715126?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Astranis** | Embedded Software Developer, Network/Payload Intern (Winter 2027) | San Francisco | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4704571006?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Engineer I | MA-TEWKSBURY-TB3 | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885871?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -371,7 +371,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **UPS** | Buildings and Systems Engineering Specialist | PHILADELPHIA, Pennsylvania | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040934?s=gh-new-grad-software-engineering-jobs-2027) |
+| **UPS** | Buildings and Systems Engineering Specialist | PHILADELPHIA, Pennsylvania | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040934?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Carrier Global** | Systems Engineering Intern - Summer | CAG01: CTD-Athens, 700 Olympic... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220566?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Moog** | Intern, Systems Engineering | Buffalo, NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20920?s=gh-new-grad-software-engineering-jobs-2027) |
 | **General Motors** | Entry Level Mainframe Systems Engineer | Warren, Michigan, United States... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202623745?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -496,8 +496,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GE Aerospace** | Engines Engineering Intern – US – Summer 2027 | Evendale | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029621?s=gh-new-grad-software-engineering-jobs-2027) |
-| **GE Aerospace** | Manufacturing Engineering Intern – US – Summer 2027 | Evendale | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029659?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GE Aerospace** | Engines Engineering Intern – US – Summer 2027 | Evendale | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029621?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GE Aerospace** | Manufacturing Engineering Intern – US – Summer 2027 | Evendale | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029659?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Aesthetics Science Manager, Look Development | Cupertino | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693953?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Carrier Global** | General Engineering Intern - Summer | OH07: 3868 Congress Parkway,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30221656?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Carnegie Mellon University** | Temporary Employment Services (TES) - Temporary Testing Center Assistant | Pittsburgh, PA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025331?s=gh-new-grad-software-engineering-jobs-2027) |
