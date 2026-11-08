@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **GE Aerospace** | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029622?s=gh-new-grad-software-engineering-jobs-2027) |
-| **AbbVie** | Associate Software Engineer I | North Chicago, IL | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016715126?s=gh-new-grad-software-engineering-jobs-2027) |
+| **AbbVie** | Associate Software Engineer I | North Chicago, IL | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016715126?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Engineer I | MA-TEWKSBURY-TB3 | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885871?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Rocket Companies** | Software Engineer I | Detroit, MI | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-083975?s=gh-new-grad-software-engineering-jobs-2027) |
 | **General Motors** | 2027 Summer Intern – Software Engineer, AV/AI Platform | 2 Locations | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621696?s=gh-new-grad-software-engineering-jobs-2027) |
