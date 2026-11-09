@@ -499,9 +499,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Palo Alto Networks** | Technical Account Manager | Remote - USA - CA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-024048?s=gh-new-grad-software-engineering-jobs-2027) |
-| **GDIT** | Information Assurance Associate - Hickam AFB | USA HI Hickam AFB | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232022?s=gh-new-grad-software-engineering-jobs-2027) |
-| **GDIT** | Systems Specialist - Active TS/SCI w/Poly | USA MD Annapolis Junction | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231909?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Palo Alto Networks** | Technical Account Manager | Remote - USA - CA | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-024048?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Information Assurance Associate - Hickam AFB | USA HI Hickam AFB | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232022?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Systems Specialist - Active TS/SCI w/Poly | USA MD Annapolis Junction | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231909?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Adobe** | 2027 Intern — Employee Communications | San Jose | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R173412?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Nike** | Product Information Analyst I | Beaverton, Oregon | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-97063?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Trimble** | AI Automation Intern | OH Dayton | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R58148?s=gh-new-grad-software-engineering-jobs-2027) |
