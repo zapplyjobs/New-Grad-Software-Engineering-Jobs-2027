@@ -498,8 +498,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | Information Assurance Associate - Hickam AFB | USA HI Hickam AFB | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232022?s=gh-new-grad-software-engineering-jobs-2027) |
-| **GDIT** | Systems Specialist - Active TS/SCI w/Poly | USA MD Annapolis Junction | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231909?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Information Assurance Associate - Hickam AFB | USA HI Hickam AFB | 41m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232022?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Systems Specialist - Active TS/SCI w/Poly | USA MD Annapolis Junction | 41m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231909?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Analog Devices** | Design Evaluation Engineering Intern | US, CA, San Jose, Rio Robles | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267479?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Barclays** | CCO Supervision & Controls - Controls Professional | New York, 745 7th Avenue | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000117731?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Adobe** | 2027 Intern — Employee Communications | San Jose | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R173412?s=gh-new-grad-software-engineering-jobs-2027) |
