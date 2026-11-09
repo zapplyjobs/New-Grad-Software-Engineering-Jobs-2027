@@ -281,7 +281,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ICD** | Summer 2027 Cyber Security Internship | New York, NY, United States | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-icd-301991?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Tradeweb** | Summer 2027 Cyber Security Internship | New York, NY, United States | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tradeweb-301991?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Sierra Nevada Corporation** | DevOps Engineer Intern (Summer 2027) | Southern Pines, NC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031238?s=gh-new-grad-software-engineering-jobs-2027) |
-| **GDIT** | Penetration Tester - TS/SCI with Polygraph | USA VA McLean | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231130?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Penetration Tester - TS/SCI with Polygraph | USA VA McLean | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231130?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Network Security Engineer Junior | USA VA Ashburn | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230028?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Penetration Tester Junior | USA VA Ashburn | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230003?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Plexus** | Intern - Automation Engineer (Summer 2027) | Nampa, ID | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-plexus-plexus-careers-R041024?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -371,7 +371,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GE Aerospace** | Sub Section Manager- Systems Engineering (Network Switch Products) | Grand Rapids | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042807?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GE Aerospace** | Sub Section Manager- Systems Engineering (Network Switch Products) | Grand Rapids | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042807?s=gh-new-grad-software-engineering-jobs-2027) |
 | **UPS** | Building and Systems Engineering Specialist | NEW ORLEANS, Louisiana | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26033046?s=gh-new-grad-software-engineering-jobs-2027) |
 | **UPS** | Maintenance Mechanic- Building & Systems Engineering (BaSE) | MEMPHIS, Tennessee | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26026787?s=gh-new-grad-software-engineering-jobs-2027) |
 | **UPS** | Buildings and Systems Engineering Specialist | PHILADELPHIA, Pennsylvania | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040934?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -496,7 +496,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boeing** | Cloud Application Deployment and Migration Specialist (Mid-Level, Senior or Lead) **Sign on... | Berkeley, MO | 6m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507046?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Boeing** | Cloud Application Deployment and Migration Specialist (Mid-Level, Senior or Lead) **Sign on... | Berkeley, MO | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507046?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Abbott** | Software Quality Engineer I | United States - California - Sylmar | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165508?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GE Aerospace** | Engines Engineering Intern – US – Summer 2027 | Evendale | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029621?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GE Aerospace** | Manufacturing Engineering Intern – US – Summer 2027 | Evendale | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029659?s=gh-new-grad-software-engineering-jobs-2027) |
