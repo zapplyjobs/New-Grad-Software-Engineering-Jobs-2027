@@ -497,8 +497,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | Information Assurance Associate - Hickam AFB | USA HI Hickam AFB | 54m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232022?s=gh-new-grad-software-engineering-jobs-2027) |
-| **GDIT** | Systems Specialist - Active TS/SCI w/Poly | USA MD Annapolis Junction | 54m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231909?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Information Assurance Associate - Hickam AFB | USA HI Hickam AFB | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232022?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Systems Specialist - Active TS/SCI w/Poly | USA MD Annapolis Junction | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231909?s=gh-new-grad-software-engineering-jobs-2027) |
 | **KLA** | Software Intern | Milpitas, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642954?s=gh-new-grad-software-engineering-jobs-2027) |
 | **KLA** | Algorithm Engineering Intern | Ann Arbor, MI | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641512?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Digital Technology Intern (Summer 2027) | MA-ANDOVER-AR2 | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871051?s=gh-new-grad-software-engineering-jobs-2027) |
