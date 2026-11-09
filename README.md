@@ -498,7 +498,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boeing** | Cloud Application Deployment and Migration Specialist (Mid-Level, Senior or Lead) **Sign on... | Berkeley, MO | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507046?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Boeing** | Cloud Application Deployment and Migration Specialist (Mid-Level, Senior or Lead) **Sign on... | Berkeley, MO | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507046?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Systems Specialist - Active TS/SCI w/Poly | USA MD Annapolis Junction | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231909?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GE Vernova** | GE Vernova- Grid Engineering Internship - Summer 2027 | Bellevue | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5056820?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Abbott** | Software Quality Engineer I | United States - California - Sylmar | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165508?s=gh-new-grad-software-engineering-jobs-2027) |
