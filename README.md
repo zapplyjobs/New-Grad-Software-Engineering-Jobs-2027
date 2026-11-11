@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Astranis** | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4704569006?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Astranis** | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4704569006?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | AV Project Manager, SWE Employee Experience | Cupertino | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200694406?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Sedaro** | Software Engineer Intern | Arlington, Virginia | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/bamboohr-sedarotech-97?s=gh-new-grad-software-engineering-jobs-2027) |
 | **T-Mobile** | Summer 2027 T-Ads Software Engineering Internship | Philadelphia, Pennsylvania | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ381219?s=gh-new-grad-software-engineering-jobs-2027) |
