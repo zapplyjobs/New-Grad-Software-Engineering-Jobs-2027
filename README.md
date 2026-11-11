@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Software Engineering Intern (ISET-IN-2) | VA-STERLING | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888017?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Software Engineering Intern (ISET-IN-2) | VA-STERLING | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888017?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Astranis** | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4704569006?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | AV Project Manager, SWE Employee Experience | Cupertino | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200694406?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Sedaro** | Software Engineer Intern | Arlington, Virginia | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/bamboohr-sedarotech-97?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -371,7 +371,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Philips** | Intern –Systems Engineering, Oral Healthcare – Bothell, WA – Summer 2027 | Bothell, Washington, United States | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592938?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Philips** | Intern –Systems Engineering, Oral Healthcare – Bothell, WA – Summer 2027 | Bothell, Washington, United States | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592938?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Medtronic** | Systems Engineer I | Mounds View, Minnesota, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R81599?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RELX** | Founding Editor-in-Chief, Cell Biotech (Cell Press) | Medford, MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-relx-relx-R115305?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GlobalFoundries** | Systems Engineering Intern (Summer 2027) | USA - Texas - Richardson | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604045?s=gh-new-grad-software-engineering-jobs-2027) |
