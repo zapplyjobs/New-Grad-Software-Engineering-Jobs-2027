@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **BAE Systems** | Entry Level Software Engineer | Wayne, New Jersey | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-131372BR?s=gh-new-grad-software-engineering-jobs-2027) |
-| **BAE Systems** | Embedded Software Engineer Spring/Summer 2027 | Maple Grove, Minnesota | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-130781BR?s=gh-new-grad-software-engineering-jobs-2027) |
-| **NBCUniversal** | Software Engineering Internships – Summer 2027 | Universal City, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000161179529?s=gh-new-grad-software-engineering-jobs-2027) |
+| **BAE Systems** | Entry Level Software Engineer | Wayne, New Jersey | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-131372BR?s=gh-new-grad-software-engineering-jobs-2027) |
+| **BAE Systems** | Embedded Software Engineer Spring/Summer 2027 | Maple Grove, Minnesota | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-130781BR?s=gh-new-grad-software-engineering-jobs-2027) |
+| **NBCUniversal** | Software Engineering Internships – Summer 2027 | Universal City, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000161179529?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Engineering Co-op (Spring/Summer 2027) | IA-CEDAR RAPIDS | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882134?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Twitch** | Software Engineer I, Commerce | San Francisco, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-twitch-8934067002?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cox** | Software Engineering Intern - Summer 2027 (Atlanta, GA) | Atlanta GA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682166?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -263,9 +263,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ServiceNow** | Assoc Security Engineering & Automation Intern | Santa Clara, CALIFORNIA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161209810?s=gh-new-grad-software-engineering-jobs-2027) |
+| **ServiceNow** | Assoc Security Engineering & Automation Intern | Santa Clara, CALIFORNIA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161209810?s=gh-new-grad-software-engineering-jobs-2027) |
 | **ServiceNow** | Assoc Information Security Engineer Intern | San Diego, CALIFORNIA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161204235?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Atlantic Health System** | Cybersecurity Engineer I | Morristown, NJ, United States | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32509?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Atlantic Health System** | Cybersecurity Engineer I | Morristown, NJ, United States | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32509?s=gh-new-grad-software-engineering-jobs-2027) |
 | **T-Mobile** | Summer 2027 Site Reliability Engineering Internship | Frisco Texas | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ381393?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Sedaro** | DevOps Intern | Arlington, Virginia | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/bamboohr-sedarotech-96?s=gh-new-grad-software-engineering-jobs-2027) |
 | **BAE Systems** | Network Engineer_Voice & Video | Sterling, Virginia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-131259BR?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -503,7 +503,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **ServiceNow** | Assoc Detection Engineering Intern | Kirkland, Washington | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161210069?s=gh-new-grad-software-engineering-jobs-2027) |
-| **AMAX** | R&D Engineering Intern | Fremont, California | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-amax-1-19B39953E1?s=gh-new-grad-software-engineering-jobs-2027) |
+| **AMAX** | R&D Engineering Intern | Fremont, California | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-amax-1-19B39953E1?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Riot Games** | Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027 | Los Angeles, USA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-riotgames-8356789?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Formlabs** | 2027 (Summer) - Manufacturing - Manufacturing Test Software Intern | Somerville, MA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-formlabs-8374598?s=gh-new-grad-software-engineering-jobs-2027) |
 | **SharkNinja** | Forward Deployed Engineer - Entry Level | Needham, MA, United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4728305006?s=gh-new-grad-software-engineering-jobs-2027) |
