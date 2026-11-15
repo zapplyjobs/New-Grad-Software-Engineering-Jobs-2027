@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-new-grad-software-engineering-jobs-2027) |
+| **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Sierra Nevada Corporation** | Software Engineer I | Lone Tree, CO | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031292?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Engineering Co-op (Summer/Fall) | TX-RICHARDSON-C17 | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884404?s=gh-new-grad-software-engineering-jobs-2027) |
 | **The Travelers Companies** | Software Engineer I (TypeScript, React, AWS, AI-Assisted Development) | CT - Hartford | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53687?s=gh-new-grad-software-engineering-jobs-2027) |
