@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Analog Devices** | Software Engineering Intern (Medical Device & Healthcare Integration) | US, MA, Wilmington | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R269165?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Analog Devices** | Software Engineering Intern (Medical Device & Healthcare Integration) | US, MA, Wilmington | 24m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R269165?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Viavi Solutions** | Software Engineering Co-op | Germantown, MD USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005308?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | 2027 Summer Intern - Software Engineering - Onsite | CA-EL SEGUNDO-E04 | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885225?s=gh-new-grad-software-engineering-jobs-2027) |
 | **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -503,7 +503,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Graco** | Manufacturing Engineering Intern | North Canton, Ohio, USA | 28m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-graco-graco-careers-R0023570?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Graco** | Manufacturing Engineering Intern | North Canton, Ohio, USA | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-graco-graco-careers-R0023570?s=gh-new-grad-software-engineering-jobs-2027) |
 | **BAE Systems** | Programmer Analyst Intern - Summer 2027 | Fort Wayne, Indiana | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-132614BR?s=gh-new-grad-software-engineering-jobs-2027) |
 | **ServiceNow** | AI Identity Intern | Kirkland, Washington | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161594249?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Network Circuit Provisioning Manager, Infrastructure Services | Dallas - Fort Worth Metro Area | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200694991?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -551,7 +551,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **VetsEZ** | Storage Administrator (Remote Opportunity) | Atlanta, Georgia | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-vetsez-6a8de9a0ef8101?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GlobalFoundries** | Principal Packaging Design Integration Engineer (2027 New College Graduate) | USA - New York - Malta | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2602837?s=gh-new-grad-software-engineering-jobs-2027) |
 | **KION Group** | A.I. Engineering Intern | Grand Rapids, MI, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0096963?s=gh-new-grad-software-engineering-jobs-2027) |
-| **VetsEZ** | Junior Appian Integration Developer (Remote Opportunity) | Tampa, Florida | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-vetsez-18df3ec23bf901?s=gh-new-grad-software-engineering-jobs-2027) |
+| **VetsEZ** | Junior Appian Integration Developer (Remote Opportunity) | Tampa, Florida | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-vetsez-18df3ec23bf901?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Carnegie Mellon University** | Research Assistant - College of Engineering - Department of Chemical Engineering | Pittsburgh, PA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025345?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Federal Reserve System** | Federal Reserve Financial Services Technical Advisor | Richmond, VA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000034040?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Aerospace Corporation** | 2027 Guidance, Navigation, and Control Graduate Intern | El Segundo, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R017214?s=gh-new-grad-software-engineering-jobs-2027) |
