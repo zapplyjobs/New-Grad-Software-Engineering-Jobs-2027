@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Motorola Solutions** | 2026 Software Engineering Co-Op | Plantation, FL | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68985?s=gh-new-grad-software-engineering-jobs-2027) |
-| **RTX** | Embedded Software Engineer I, Onsite | IA-CEDAR RAPIDS | 7m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885376?s=gh-new-grad-software-engineering-jobs-2027) |
-| **RTX** | Software Engineering Intern (Summer 2027) | UT-WEST VALLEY CITY | 7m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886446?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Analog Devices** | Software Engineering Intern (Medical Device & Healthcare Integration) | US, MA, Wilmington | 7m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R269165?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Motorola Solutions** | 2026 Software Engineering Co-Op | Plantation, FL | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68985?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Embedded Software Engineer I, Onsite | IA-CEDAR RAPIDS | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885376?s=gh-new-grad-software-engineering-jobs-2027) |
+| **RTX** | Software Engineering Intern (Summer 2027) | UT-WEST VALLEY CITY | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886446?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Analog Devices** | Software Engineering Intern (Medical Device & Healthcare Integration) | US, MA, Wilmington | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R269165?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | 2027 Summer Intern - Software Engineering - Onsite | CA-EL SEGUNDO-E04 | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885225?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Viavi Solutions** | Software Engineering Co-op | Germantown, MD USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005308?s=gh-new-grad-software-engineering-jobs-2027) |
 | **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boston Scientific** | AI Engineering Intern (Generative & Agentic AI) | Marlborough US-MA, United... | 41m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813827837?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Boston Scientific** | AI Engineering Intern (Generative & Agentic AI) | Marlborough US-MA, United... | 48m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813827837?s=gh-new-grad-software-engineering-jobs-2027) |
 | **University of Texas at Austin** | Research Engineering/Scientist Associate I | UT MAIN | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00047630?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Carnegie Mellon University** | Cyber AI Engineering Intern (Spring 2027) | Pittsburgh, PA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025346?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Carnegie Mellon SEI** | Cyber AI Engineering Intern (Spring 2027) | Pittsburgh, PA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-sei-2025346?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -505,8 +505,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Verizon** | Business Sales Account Exectuive - Field Sales | Boca Raton, Florida | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1103919?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Graco** | Manufacturing Engineering Intern | North Canton, Ohio, USA | 59m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-graco-graco-careers-R0023570?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Verizon** | Business Sales Account Exectuive - Field Sales | Boca Raton, Florida | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1103919?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Graco** | Manufacturing Engineering Intern | North Canton, Ohio, USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-graco-graco-careers-R0023570?s=gh-new-grad-software-engineering-jobs-2027) |
 | **BAE Systems** | Programmer Analyst Intern - Summer 2027 | Fort Wayne, Indiana | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-132614BR?s=gh-new-grad-software-engineering-jobs-2027) |
 | **ServiceNow** | AI Identity Intern | Kirkland, Washington | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161594249?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Network Circuit Provisioning Manager, Infrastructure Services | Dallas - Fort Worth Metro Area | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200694991?s=gh-new-grad-software-engineering-jobs-2027) |
