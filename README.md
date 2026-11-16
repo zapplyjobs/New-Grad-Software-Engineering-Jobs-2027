@@ -504,7 +504,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Graco** | Manufacturing Engineering Intern | North Canton, Ohio, USA | 19m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-graco-graco-careers-R0023570?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Graco** | Manufacturing Engineering Intern | North Canton, Ohio, USA | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-graco-graco-careers-R0023570?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Amentum** | IT Technical Specialist | TX-Houston | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173102?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Leidos** | Cyberspace Operations Planner, Junior | Fort Meade, MD | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193841?s=gh-new-grad-software-engineering-jobs-2027) |
 | **BAE Systems** | Programmer Analyst Intern - Summer 2027 | Fort Wayne, Indiana | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-132614BR?s=gh-new-grad-software-engineering-jobs-2027) |
