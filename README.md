@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Viavi Solutions** | Software Engineering Co-op | Germantown, MD USA | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005308?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Viavi Solutions** | Software Engineering Co-op | Germantown, MD USA | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005308?s=gh-new-grad-software-engineering-jobs-2027) |
 | **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Nightwing** | Junior Software Engineer  (SWE0) | Annapolis Junction, MD | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nwis-nw-01677525?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Sierra Nevada Corporation** | Software Engineer I | Lone Tree, CO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031292?s=gh-new-grad-software-engineering-jobs-2027) |
