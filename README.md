@@ -176,12 +176,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **National Interstate Insurance** | Data Engineer Developer Intern – Summer 2027 | Cincinnati, OH | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9919?s=gh-new-grad-software-engineering-jobs-2027) |
+| **National Interstate Insurance** | Data Engineer Developer Intern – Summer 2027 | Cincinnati, OH | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9919?s=gh-new-grad-software-engineering-jobs-2027) |
 | **State Street** | State Street Investment Management - Data Scientist - Summer Internship 2027 | Boston, Massachusetts | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-801213?s=gh-new-grad-software-engineering-jobs-2027) |
 | **University of Texas at Austin** | Research Engineering/Scientist Associate I | UT MAIN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00050041?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Booz Allen Hamilton** | Scientific Data Engineering Specialist | McLean, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251925?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Intuitive** | Clinical Research Engineering Intern | Sunnyvale, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000161896920?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Boston Scientific** | AI Engineering Intern (Generative & Agentic AI) | Marlborough US-MA, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813827837?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Boston Scientific** | AI Engineering Intern (Generative & Agentic AI) | Marlborough US-MA, United... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813827837?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334802?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NREL** | Graduate Internship (Year-Round) - Geospatial Data Science Modeling and Analysis | Golden, CO | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14510?s=gh-new-grad-software-engineering-jobs-2027) |
 | **T-Mobile** | Summer 2027 AI Engineering Internship | Bellevue, Washington | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ382110?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -266,7 +266,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Aerospace Corporation** | 2027 Cloud Solutions Engineer / Site Reliability Grad Intern | El Segundo, CA | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016715?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Aerospace Corporation** | 2027 Cloud Solutions Engineer / Site Reliability Grad Intern | El Segundo, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016715?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Amentum** | DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer | TX-Houston | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175558?s=gh-new-grad-software-engineering-jobs-2027) |
 | **CACI** | Cybersecurity Intern - Summer 2027 | Any State | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-335105?s=gh-new-grad-software-engineering-jobs-2027) |
 | **HPE** | AI Automation Engineer Graduate | Spring, Texas, United States of... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1213068?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -507,8 +507,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Equifax** | Sales Rotational Development Associate | USA-ID-Boise | 27m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-equifax-ur-external-J00178839?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Adobe** | Solutions Consulting Manager | San Jose | 39m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R173687?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Equifax** | Sales Rotational Development Associate | USA-ID-Boise | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-equifax-ur-external-J00178839?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Adobe** | Solutions Consulting Manager | San Jose | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R173687?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Odin Dynamics** | Engineering Intern, Spring and Summer 2027 | Long Beach | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-odin-dynamics-b04c4e9f-9f9f-46cb-adc6-8f5f44a263ab?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Bosch Group** | Robot Learning Research Intern | Pittsburgh, PA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000162212029?s=gh-new-grad-software-engineering-jobs-2027) |
 | **MatX** | Technical Editor | Mountain View ( | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-matx-50fb9e9c-adee-42b5-956f-9ed00643eebd?s=gh-new-grad-software-engineering-jobs-2027) |
