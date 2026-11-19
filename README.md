@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **PTC** | Creo Software Engineering Intern (Summer 2027) | Boston, MA, USA | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR113015?s=gh-new-grad-software-engineering-jobs-2027) |
+| **PTC** | Creo Software Engineering Intern (Summer 2027) | Boston, MA, USA | 29m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR113015?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Truveta** | Winter Software Engineering Intern | Seattle, WA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-truveta-6249810004?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boston Scientific** | Urology R&D Software Engineering Co-op | United States  US-MN-Maple Grove | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813900562?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Western Digital** | Spring 2027 Intern - Software Engineering | Irvine, CA | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-WesternDigital-744000162353069?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -511,7 +511,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GE Aerospace** | Manufacturing Engineering Intern – US – Summer 2027 | Evendale | 6m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029659?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GE Aerospace** | Manufacturing Engineering Intern – US – Summer 2027 | Evendale | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029659?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Amentum** | Security Operations QA | TX-El Paso | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175716?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Amentum** | Cleared Security Escort | VA-Alexandria | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175830?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Apple** | Lab Operations Engineering Program Specialist | Cupertino | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200695543?s=gh-new-grad-software-engineering-jobs-2027) |
