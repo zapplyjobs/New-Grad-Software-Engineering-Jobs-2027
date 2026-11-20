@@ -386,7 +386,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **LLNL** | Laser and Experimental Systems Engineering Graduate Intern - Summer 2027 | Livermore, CA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016985006?s=gh-new-grad-software-engineering-jobs-2027) |
+| **LLNL** | Laser and Experimental Systems Engineering Graduate Intern - Summer 2027 | Livermore, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016985006?s=gh-new-grad-software-engineering-jobs-2027) |
 | **LLNL** | Engineering Technical Associate - Laser Systems Engineering and Operations Division | Livermore, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016983862?s=gh-new-grad-software-engineering-jobs-2027) |
 | **LLNL** | Laser and Experimental Systems Engineering Undergraduate Intern - Summer 2027 | Livermore, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016984046?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | AI Compiler and Kernel Intern – Summer 2027 | US, TX, Austin | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029220?s=gh-new-grad-software-engineering-jobs-2027) |
