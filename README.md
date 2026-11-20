@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Symbotic** | Intern- Software Engineer, Front-End | USA Austin, TX | 6m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-symbotic-symbotic-R8567?s=gh-new-grad-software-engineering-jobs-2027) |
-| **University of Maryland** | IT Platform Engineer Junior, Collaboration/eMail | University of Maryland College Park | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-umd-umcp-JR105427?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Symbotic** | Intern- Software Engineer, Front-End | USA Austin, TX | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-symbotic-symbotic-R8567?s=gh-new-grad-software-engineering-jobs-2027) |
+| **University of Maryland** | IT Platform Engineer Junior, Collaboration/eMail | University of Maryland College Park | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-umd-umcp-JR105427?s=gh-new-grad-software-engineering-jobs-2027) |
 | **RTX** | Software Engineer I | AZ-TUCSON | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01861317?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Lucid Motors** | Intern, Motor Control Software Development and Validation Engineer, Summer 2027 | Newark, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290947007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Lucid Motors** | Intern, Software Engineer, SDET, Summer 2027 | Newark, CA | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290911007?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -386,8 +386,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Amentum** | Junior Systems Engineer/Analyst | VA-Dahlgren | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175929?s=gh-new-grad-software-engineering-jobs-2027) |
-| **LLNL** | Laser and Experimental Systems Engineering Graduate Intern - Summer 2027 | Livermore, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016985006?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Amentum** | Junior Systems Engineer/Analyst | VA-Dahlgren | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175929?s=gh-new-grad-software-engineering-jobs-2027) |
+| **LLNL** | Laser and Experimental Systems Engineering Graduate Intern - Summer 2027 | Livermore, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016985006?s=gh-new-grad-software-engineering-jobs-2027) |
 | **LLNL** | Engineering Technical Associate - Laser Systems Engineering and Operations Division | Livermore, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016983862?s=gh-new-grad-software-engineering-jobs-2027) |
 | **LLNL** | Laser and Experimental Systems Engineering Undergraduate Intern - Summer 2027 | Livermore, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016984046?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | AI Compiler and Kernel Intern – Summer 2027 | US, TX, Austin | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029220?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -515,7 +515,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Astreya** | L2 DC | Santa Clara, CA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017085?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Astreya** | L2 DC | Santa Clara, CA | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017085?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Intuitive** | Export Compliance Manager | Sunnyvale, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162743578?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GE Aerospace** | Manufacturing Engineering Intern – US – Summer 2027 | Evendale | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029659?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Lucid Motors** | Intern, Infotainment Software, Summer 2027 | Newark, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290921007?s=gh-new-grad-software-engineering-jobs-2027) |
