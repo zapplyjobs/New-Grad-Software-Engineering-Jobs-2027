@@ -275,7 +275,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Booz Allen Hamilton** | Penetration Tester | Herndon, VA | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253938?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Booz Allen Hamilton** | Penetration Tester | Herndon, VA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253938?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Leidos** | Junior DevOps Engineer | Chantilly, VA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00190855?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cox** | Agentic AI & Automation Engineer I | Atlanta GA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202685382?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cisco** | AI Cybersecurity Engineer I (Intern) – United States | RTP, North Carolina, US | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030295?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -386,7 +386,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Booz Allen Hamilton** | University - 2027 Summer Games Systems Engineer Intern - McLean, VA | McLean, VA | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248361?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Booz Allen Hamilton** | University - 2027 Summer Games Systems Engineer Intern - McLean, VA | McLean, VA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248361?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Amentum** | Junior Systems Engineer/Analyst | VA-Dahlgren | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175929?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Lucid Motors** | Intern, Vehicle Motion Controls Engineer, Summer 2027 | Newark, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290899007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Aerospace Corporation** | 2027 Software Systems Engineer and Acquisition Grad Intern | El Segundo, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R017175?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -497,7 +497,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Booz Allen Hamilton** | Technical Project Manager | Hill AFB, UT | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253957?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Booz Allen Hamilton** | Technical Project Manager | Hill AFB, UT | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253957?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cadence** | Program Coordinator | SAN JOSE | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cadence-external-careers-R56910?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Entegris** | Materials Solutions Engineering Intern - Summer 2027 | Aurora, IL | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15856?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Verkada** | Recruiting Program Coordinator | San Mateo, CA United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-verkada-5294939007?s=gh-new-grad-software-engineering-jobs-2027) |
