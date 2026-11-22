@@ -517,7 +517,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Neros Technologies** | Autonomy Intern - Summer 2027 | Torrance, California, United States | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5273167007?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Neros Technologies** | Autonomy Intern - Summer 2027 | Torrance, California, United States | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5273167007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Adobe** | 2027 Intern - Adobe Sales Academy BDR | San Jose | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R170977?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boeing** | Quality Systems Specialist | Oklahoma City, OK | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026530479?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Boeing** | Cloud Application Deployment and Migration Specialist (Mid-Level, Senior or Lead) **Sign on... | Berkeley, MO | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507046?s=gh-new-grad-software-engineering-jobs-2027) |
