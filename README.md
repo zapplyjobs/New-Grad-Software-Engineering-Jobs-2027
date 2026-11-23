@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Allstate** | Software Engineer Consultant I | 2 Locations | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36696?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Allstate** | Software Engineer Consultant I | 2 Locations | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36696?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Neros Technologies** | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5278981007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Jabil** | Software Engineering Intern | Austin, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2472697?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Affirm** | Software Engineer I, Backend (Streaming Infra) | Remote US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-8201469003?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -518,8 +518,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Barclays** | Sales, Trading and Structuring Analyst Summer Internship Program 2028 New York | New York, 745 7th Avenue | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000139050?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Astreya** | L2 DC | Santa Clara, CA | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017081?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Barclays** | Sales, Trading and Structuring Analyst Summer Internship Program 2028 New York | New York, 745 7th Avenue | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000139050?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Astreya** | L2 DC | Santa Clara, CA | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017081?s=gh-new-grad-software-engineering-jobs-2027) |
 | **MITRE** | Communications Engineering Intern | Bedford, Massachusetts | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R118100?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Testlio** | Remote Software Tester (Freelance)   Test AT&T U-verse & Cox | United States | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-testlio-8410174?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Aerospace Corporation** | 2027 Defensive Cyber Operations Undergrad Intern | El Segundo, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R017011?s=gh-new-grad-software-engineering-jobs-2027) |
