@@ -278,7 +278,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Software Test Engineering Intern - Roy UT | United States-Utah-Roy | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261728?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 Software Test Engineering Intern - Roy UT | United States-Utah-Roy | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261728?s=gh-new-grad-software-engineering-jobs-2027) |
 | **MITRE** | Internships in Cybersecurity and Information Security | McLean, Virginia | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117314?s=gh-new-grad-software-engineering-jobs-2027) |
 | **HPE** | AI Automation Engineer Graduate | Spring, Texas, United States of... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1213068?s=gh-new-grad-software-engineering-jobs-2027) |
 | **HPE (University)** | Networking & Cybersecurity Intern | San Jose, California, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214058?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -519,7 +519,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Barclays** | Sales, Trading and Structuring Analyst Summer Internship Program 2028 New York | New York, 745 7th Avenue | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000139050?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Barclays** | Sales, Trading and Structuring Analyst Summer Internship Program 2028 New York | New York, 745 7th Avenue | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000139050?s=gh-new-grad-software-engineering-jobs-2027) |
 | **MITRE** | Communications Engineering Intern | Bedford, Massachusetts | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R118100?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Testlio** | Remote Software Tester (Freelance)   Test AT&T U-verse & Cox | United States | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-testlio-8410174?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Manulife** | Technical Product Owner –  US Insurance Technology | Boston Massachusetts | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26110936?s=gh-new-grad-software-engineering-jobs-2027) |
