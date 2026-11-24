@@ -497,7 +497,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Inductive Automation** | Software Solutions Engineer I (Hybrid) | Folsom, CA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-inductive-automation-llc-1942308d-84ac-4feb-83f0-5d16a1f2c0bf?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Inductive Automation** | Software Solutions Engineer I (Hybrid) | Folsom, CA | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-inductive-automation-llc-1942308d-84ac-4feb-83f0-5d16a1f2c0bf?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Booz Allen Hamilton** | Technical Project Manager | Hill AFB, UT | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253957?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cadence** | Program Coordinator | SAN JOSE | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cadence-external-careers-R56910?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Entegris** | Materials Solutions Engineering Intern - Summer 2027 | Aurora, IL | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15856?s=gh-new-grad-software-engineering-jobs-2027) |
