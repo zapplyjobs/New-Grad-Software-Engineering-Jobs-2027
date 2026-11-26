@@ -514,7 +514,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | Network Adminstrator | USA VA Arlington | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232899?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Network Adminstrator | USA VA Arlington | 2h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232899?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AMETEK** | Montvale Engineering Intern Coining Montvale NJ 07645 | Montvale, US | 4h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/successfactors-ametek-1444773000?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Eaton** | Manufacturing Engineering Intern | Rumford, Rhode Island, USA, 02916 | 19h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687240418992?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Nominal** | Mission Dev Engineer, U.S. Government - New Grad (Summer 2027) | Washington, United States | 19h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDoFP5uU7jgZ2aBuEwXN2-Vd?s=gh-new-grad-software-engineering-jobs-2027) |
