@@ -516,8 +516,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | Network Adminstrator | USA VA Arlington | 3h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232899?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Lucid Motors** | Salesforce Engineer Intern | Amsterdam, NH | 14h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306844007?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Network Adminstrator | USA VA Arlington | 4h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232899?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Lucid Motors** | Salesforce Engineer Intern | Amsterdam, NH | 15h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306844007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | NVIDIA Spring 2027 Internships: Developer and Performance Technology | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023499?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027 | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029793?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | PhD Research Intern, AI-Aided Engineering – 2027 | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026940?s=gh-new-grad-software-engineering-jobs-2027) |
