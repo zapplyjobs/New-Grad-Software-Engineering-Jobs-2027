@@ -516,8 +516,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | Network Adminstrator | USA VA Arlington | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232899?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Lucid Motors** | Salesforce Engineer Intern | Amsterdam, NH | 17h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306844007?s=gh-new-grad-software-engineering-jobs-2027) |
+| **GDIT** | Network Adminstrator | USA VA Arlington | 2h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232899?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Lucid Motors** | Salesforce Engineer Intern | Amsterdam, NH | 18h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306844007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **AeroVironment** | Cyber Internship | Sunrise, FL | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9430?s=gh-new-grad-software-engineering-jobs-2027) |
 | **DigiKey** | Receiving Associate   1:30 p.m. - 10:00 p.m.   January 4, 2027 | Thief River Falls, MN | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-digikey-digi-key-R6109?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Bread Financial** | Intern - Talent Optimization | Columbus, OH | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-alliancedata-breadfinancial-us-R1013368?s=gh-new-grad-software-engineering-jobs-2027) |
