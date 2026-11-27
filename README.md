@@ -515,7 +515,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Intel** | Manufacturing Equipment Technician (MTE) - Back End Nights Shift - Shift 6 | US, Arizona, Phoenix | 5m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0288167?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Intel** | Manufacturing Equipment Technician (MTE) - Back End Nights Shift - Shift 6 | US, Arizona, Phoenix | 12m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0288167?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Network Adminstrator | USA VA Arlington | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232899?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Lucid Motors** | Salesforce Engineer Intern | Amsterdam, NH | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306844007?s=gh-new-grad-software-engineering-jobs-2027) |
 | **General Atomics** | UAV Systems Specialist | San Diego, California | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/brassring-general-atomics-5231974?s=gh-new-grad-software-engineering-jobs-2027) |
