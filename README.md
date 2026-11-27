@@ -273,7 +273,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **JPMorgan Chase** | Security Engineer I | Plano, TX, United States | 19h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210812586?s=gh-new-grad-software-engineering-jobs-2027) |
+| **JPMorgan Chase** | Security Engineer I | Plano, TX, United States | 20h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210812586?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cisco** | Security Engineer I (Intern) - United States | Research Triangle Park, North... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2025885?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Coinbase** | Security Engineer Intern | Hybrid - New York, NY | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-coinbase-8415869?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cisco** | Security Engineer I (Intern) - United States | RTP, North Carolina, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025885?s=gh-new-grad-software-engineering-jobs-2027) |
