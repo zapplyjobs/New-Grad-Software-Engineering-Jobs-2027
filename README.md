@@ -273,7 +273,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **JPMorgan Chase** | Security Engineer I | Plano, TX, United States | 22h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210812586?s=gh-new-grad-software-engineering-jobs-2027) |
+| **JPMorgan Chase** | Security Engineer I | Plano, TX, United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210812586?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cisco** | Security Engineer I (Intern) - United States | Research Triangle Park, North... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2025885?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Crowe** | Cybersecurity Intern | Chicago, IL | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-crowe-external-careers-R-71031?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Cisco** | Security Engineer I (Intern) - United States | RTP, North Carolina, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025885?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -504,7 +504,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Entegris** | Materials Solutions Engineering Intern - Summer 2027 | Aurora, IL | 2w | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15860?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Bloom Energy** | AI Solutions Engineer Intern | San Jose, California | 2w | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25361?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Entegris** | Solutions Engineering Intern | Billerica, MA | 2w | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15884?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Inductive Automation** | Software Solutions Engineer I | On-Site: Columbia, MD | 3w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-inductive-automation-llc-30720689-1747-4983-a482-7e19a5d4d151?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Inductive Automation** | Software Solutions Engineer I | On-Site: Columbia, MD | 4w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-inductive-automation-llc-30720689-1747-4983-a482-7e19a5d4d151?s=gh-new-grad-software-engineering-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -516,8 +516,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Barclays** | IBK Client Transitions AVP | New York, 745 7th Avenue | 5m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000121449?s=gh-new-grad-software-engineering-jobs-2027) |
-| **Intel** | Manufacturing Equipment Technician (MTE) - Back End Nights Shift - Shift 6 | US, Arizona, Phoenix | 48m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0288167?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Barclays** | IBK Client Transitions AVP | New York, 745 7th Avenue | 13m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000121449?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Intel** | Manufacturing Equipment Technician (MTE) - Back End Nights Shift - Shift 6 | US, Arizona, Phoenix | 55m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0288167?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Network Adminstrator | USA VA Arlington | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232899?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Barclays** | Equity Research Software, AVP | New York, 745 7th Avenue | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000074634?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Lucid Motors** | Salesforce Engineer Intern | Amsterdam, NH | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306844007?s=gh-new-grad-software-engineering-jobs-2027) |
