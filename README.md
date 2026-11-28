@@ -385,7 +385,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Marvell** | Software/Firmware Engineer - Early Career | Santa Clara, CA | 14m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604933?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Marvell** | Software/Firmware Engineer - Early Career | Santa Clara, CA | 20m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604933?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | AI Compiler and Kernel Intern – Summer 2027 | US, TX, Austin | 2d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029220?s=gh-new-grad-software-engineering-jobs-2027) |
 | **NVIDIA** | Applied Systems Engineering Rotation Engineer - New College Graduate 2026 | US, CA, Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024713?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Opendoor** | IT Systems Specialist | Miami, FL | Date unknown |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/rippling-opendoor-3b58b59e-7245-478b-8941-7ac2ec7035dd?s=gh-new-grad-software-engineering-jobs-2027) |
@@ -517,7 +517,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Barclays** | IBK Client Transitions AVP | New York, 745 7th Avenue | 5m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000121449?s=gh-new-grad-software-engineering-jobs-2027) |
+| **Barclays** | IBK Client Transitions AVP | New York, 745 7th Avenue | 11m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000121449?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Intel** | Manufacturing Equipment Technician (MTE) - Back End Nights Shift - Shift 6 | US, Arizona, Phoenix | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0288167?s=gh-new-grad-software-engineering-jobs-2027) |
 | **Barclays** | Equity Research Software, AVP | New York, 745 7th Avenue | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000074634?s=gh-new-grad-software-engineering-jobs-2027) |
 | **GDIT** | Network Adminstrator | USA VA Arlington | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232899?s=gh-new-grad-software-engineering-jobs-2027) |
